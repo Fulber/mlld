@@ -1,0 +1,936 @@
+<?xml version = "1.0" ?>
+<Dialog team="35">
+	<Participants>
+	<Person nickname="vic-blog"/><Person nickname="serban_wave"/><Person nickname="cip_chat"/><Person nickname="moni-forum"/><Person nickname="oana-wiki"/></Participants>	<Topics/>
+		<Body>
+		<Turn nickname="moni-forum">
+			<Utterance genid="1" ref="0" time="01:40:59">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="2" ref="0" time="01:41:10">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="3" ref="0" time="01:41:10">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="4" ref="0" time="01:41:19">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="5" ref="0" time="01:42:18">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="6" ref="0" time="01:42:36">Hello</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="7" ref="0" time="01:42:39">hi</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="8" ref="0" time="01:42:40">hy</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="9" ref="0" time="01:42:49">hi</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="10" ref="0" time="01:43:58">We have to decide how these technologies could help our company become more eficient</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="11" ref="0" time="01:44:25">hy</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="12" ref="0" time="01:45:05">we should decide what and when to use</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="13" ref="0" time="01:45:46">a blog could help employees know more about the whole company</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="14" ref="0" time="01:46:09">events could be published</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="15" ref="0" time="01:46:14">in that blog</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="16" ref="15" time="01:47:16">not a bad idea, but i dont think it will make the company more efficient</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="17" ref="13" time="01:47:22">and not only that...customers can also read what's new in our company...about new products</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="18" ref="0" time="01:47:45">Of cuorse. Besides we could use the blog for our clients, to promote our image and for future employees</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="19" ref="17" time="01:47:51">on the other hand, a blog for the outside people is a must</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="20" ref="0" time="01:48:01">They could see the atmosphere in our company</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="21" ref="0" time="01:48:02">yes, i agree with that, but i think we should use a blog for outside people</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="22" ref="17" time="01:48:10">a blog could show a new image of the company</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="23" ref="0" time="01:48:20">not, for employees</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="24" ref="22" time="01:48:39">Exactly, the blog should be used to promote our image</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="25" ref="19" time="01:49:05">I think the blog should be used mostly for outside people</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="26" ref="25" time="01:49:30">agree with that, and i think everybody is doing this right now</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="27" ref="16" time="01:49:42">i agree with serban, it won`t make the company more efficient but it will help the image of the company</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="28" ref="0" time="01:50:03">It is a easy and efficient way to share our view with the world</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="29" ref="0" time="01:50:26">and to share our new products</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="30" ref="0" time="01:50:46">when you have an interview, first thing you do, is to look up for some information about the company</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="31" ref="0" time="01:51:42">and i think it`s very important to have something to share</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="32" ref="0" time="01:51:51">I think we could use the blog for emplyees also</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="33" ref="30" time="01:51:53">we could say ... a blog is for future employees</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="34" ref="31" time="01:52:06">i think we all agree on this one :)</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="35" ref="0" time="01:52:57">For example we could use it to share pictures, memories, etc from team buildings, which are vital from my point of view</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="36" ref="0" time="01:53:12">we all agree it`s good for outside people</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="37" ref="35" time="01:53:22">i think a forum would be more appropiate for that</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="38" ref="0" time="01:53:22">but how could we use it for inside people</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="39" ref="0" time="01:53:24">yes, because a blog can improve the image of your company</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="40" ref="37" time="01:54:09">I will have to disagree.  A forum will be usefull for sharing ideas. </Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="41" ref="38" time="01:54:44">we could use a blog to share news for people working in the company</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="42" ref="40" time="01:54:53">you can share ideas, jokes, everything you like</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="43" ref="0" time="01:55:04">if you combine it with rss it could be a very good idea</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="44" ref="37" time="01:55:32">i think a forum is more suitable for outside people and them problem  with our products</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="45" ref="44" time="01:55:59">hmm, for support issues</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="46" ref="44" time="01:56:00">a forum could be use for tehnical support</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="47" ref="0" time="01:56:14">And as vic said, we could use the blog for our employees to notify them about new events</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="48" ref="0" time="01:56:46">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="49" ref="47" time="01:56:58">we want to have a close community inside our company</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="50" ref="40" time="01:56:59">and in a forum we can share answers for all king of problem involving our products</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="51" ref="0" time="01:57:17">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="52" ref="49" time="01:57:22">we can accomplish that using regular events</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="53" ref="0" time="01:57:31">sorry...</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="54" ref="0" time="01:57:36">no problem</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="55" ref="50" time="01:58:34">ok, and we should use a forum for employees or outside people?</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="56" ref="0" time="01:58:35">so blog-&gt; news forum-&gt;support</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="57" ref="0" time="01:58:45">outside i think</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="58" ref="55" time="01:58:45">outside people</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="59" ref="0" time="01:58:48">what do you think about regular events and using a blog to promote them?</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="60" ref="55" time="01:58:57">I think the forum should be used for employees only</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="61" ref="59" time="01:59:15">I think it's a great idea</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="62" ref="59" time="01:59:21">good idea</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="63" ref="60" time="01:59:23">yes, that`s my opinion too</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="64" ref="60" time="01:59:41"></Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="65" ref="59" time="02:00:13">what do you mean by regular events</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="66" ref="60" time="02:00:25">no...for support issues</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="67" ref="65" time="02:00:35">new products maybe?</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="68" ref="60" time="02:00:39">we could use a forum to make it easier for employees to answer questions posted by other employees</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="69" ref="60" time="02:01:00">I think the use of forums outside the company it is useless, we have the blog for promoting the company, we don't need the forum for that</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="70" ref="68" time="02:01:15">we can do that also</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="71" ref="69" time="02:01:29">you need a forum for support issues</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="72" ref="68" time="02:01:41">Exactly, that is my ideea as well, allthough I thought that would be handeled easier with a chat</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="73" ref="69" time="02:01:48">a blog is used for promoting the company, but the idea of using a forum for tehnical support it`s ok</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="74" ref="72" time="02:02:05">If the person in question is not available, an employee could use the forum</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="75" ref="69" time="02:02:10">we need forum to answer all the questions people are asking involving our products</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="76" ref="72" time="02:02:13">live chat is time consuming</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="77" ref="74" time="02:02:20">this is a good idea</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="78" ref="68" time="02:02:22">but you waste time waiting for the answer</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="79" ref="72" time="02:02:32">yes, but make you have frequently asked questions</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="80" ref="0" time="02:02:39">*maybe</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="81" ref="0" time="02:02:43">you nead something &quot;real time&quot; conversation</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="82" ref="76" time="02:02:57">If you could solve the problem faster why wouldn't you...If you know who to ask</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="83" ref="82" time="02:03:34">if you know who to ask..</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="84" ref="0" time="02:03:48">it`s easier with chat</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="85" ref="79" time="02:03:57">i think wiki would be appropiate for FAQ</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="86" ref="0" time="02:03:58">but if you don`t forum is a better way</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="87" ref="85" time="02:04:11">that`s a good idea</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="88" ref="0" time="02:04:12">and if you post a question on a forum, you know how to ask?</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="89" ref="0" time="02:04:27">i think it`s the same</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="90" ref="84" time="02:04:28">That is the ideea. There are many problems inter-departments that could be solved easier with a chat</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="91" ref="90" time="02:04:56">People don't have to go to the department and they could get an instant answer</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="92" ref="90" time="02:05:03">chat is for imediat problems</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="93" ref="0" time="02:05:35">a chat is a good techonolgy to obtain a real time conversation between our employees, this way they could decide and colaborate together easier</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="94" ref="93" time="02:06:02">i think wave would be more suited for inter departments or inner departments colaboration</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="95" ref="94" time="02:06:20">even brainstorming with people that are in different locations</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="96" ref="92" time="02:06:26">yes, that is the ideea. Also it could be used in meetings, when some people can't be present. Therefore we could use the doodle tool, our live video feed to connect everyone to the meeting</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="97" ref="94" time="02:06:43">is indeed good for document sharing</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="98" ref="94" time="02:06:58">yes, but for wave you need an account</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="99" ref="93" time="02:07:06">oana is right, chat is more efficient because we want our employees to find answers quickly to be efficient</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="100" ref="0" time="02:07:22">and wave have more facilities, so we can use it better</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="101" ref="98" time="02:07:43">I think we have to use an account to every technology if we want it to be secure</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="102" ref="98" time="02:07:58">every one has a google account</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="103" ref="102" time="02:08:14">but wave is now open source so you could even run it inside the company</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="104" ref="99" time="02:08:16">with a chat you can not share documents like u do with wave</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="105" ref="101" time="02:08:27">yes, that`s true, and we also have to think about history</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="106" ref="104" time="02:09:13">sharing documents is definitely a big plus</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="107" ref="0" time="02:09:38">we may want to see the conversation after a while, especially when we used a chat for a meeting</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="108" ref="104" time="02:09:56">I'm not saying it's good for sharing documents, but it's good for sharing ideeas really fast</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="109" ref="106" time="02:10:27">for sharing documents wiki is a good ideea</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="110" ref="107" time="02:10:38">History could come in handy for further monitoring the evolution of our employees</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="111" ref="109" time="02:10:47">how is that?</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="112" ref="109" time="02:11:14">Maybe for sharing documentation,not documents</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="113" ref="109" time="02:11:37">wiki is more good for documentation...not for document that we want to modify</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="114" ref="113" time="02:12:14">yeah, like FAQs</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="115" ref="114" time="02:12:33">i think wiki is perfect for FAQs</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="116" ref="0" time="02:12:34">correct</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="117" ref="0" time="02:12:36">wikis provide a good way to keep the information organized and also give security because we can decide who can see or can not different pages or articles</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="118" ref="114" time="02:12:38">or tutorials for doing something</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="119" ref="117" time="02:13:13">yes, but we can only share pictures and text</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="120" ref="113" time="02:13:23">if you use wiki, you cand modify everything</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="121" ref="115" time="02:13:30">A forum would be suitable for FAQ's</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="122" ref="117" time="02:13:31">yes...and for that reason it's good for making documentation of our products</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="123" ref="0" time="02:13:37">and we`ll also have the history</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="124" ref="119" time="02:14:22">that is the ideea of documentation</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="125" ref="121" time="02:14:49">a forum is good becouse we can put threads for all king of problems or products</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="126" ref="121" time="02:15:00">not really, because faqs are not debatable</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="127" ref="122" time="02:15:05">if you want, you can use it like a blog too, because you can restrict access to certain documentation</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="128" ref="125" time="02:15:06">yes.. for support</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="129" ref="0" time="02:15:21">and you can have some sections for general public</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="130" ref="126" time="02:15:31">i think forum for faq is not a good idea</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="131" ref="130" time="02:16:17">i agree with serban, faq are used to inform, not to debate</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="132" ref="131" time="02:16:34">me too</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="133" ref="131" time="02:16:40">So what do you suggest then?</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="134" ref="133" time="02:16:48">wiki for faqs</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="135" ref="133" time="02:16:52">we use wiki for faq</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="136" ref="0" time="02:17:31">wiki for faqs and forum for support</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="137" ref="0" time="02:17:39">Ok it's setteled then, we use wiki's for faq's and documentation</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="138" ref="" time="02:17:50">forum for support, blog for news</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="139" ref="138" time="02:18:07">and wave for braindstormin/gcollaboration</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="140" ref="137" time="02:18:44">no, only for documentation</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="141" ref="138" time="02:18:49">chat for collaboration in real time</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="142" ref="140" time="02:19:30">you don't agree with the use of wiki for faq.s?</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="143" ref="140" time="02:19:46">wiki is realy good for FAQ</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="144" ref="141" time="02:21:06">I agree, and we could use the chat for instant problem solving :D</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="145" ref="0" time="02:21:31">we could use chat even in support</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="146" ref="0" time="02:21:39">for very special problems</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="147" ref="145" time="02:22:15">Support for specific problems .</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="148" ref="0" time="02:22:31">For example we could use chat for solving network problems.</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="149" ref="143" time="02:22:36">i thing we should use only a description of the product, not trying to answer some questions</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="150" ref="0" time="02:23:14">Or for problems with their application. I think this ideea is already in use in many companie</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="151" ref="0" time="02:23:14">s</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="152" ref="149" time="02:23:28">i think it depends on the company profile</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="153" ref="149" time="02:23:39">the faq could save us hours of tehnical support</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="154" ref="152" time="02:23:45">for some companies its ok to provide live support, for some a forum is enough</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="155" ref="153" time="02:24:01">people have problems outside faqs</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="156" ref="154" time="02:24:07">It is more efficient with a chat</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="157" ref="153" time="02:24:22">when you sell a product, you sell it with documentation</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="158" ref="155" time="02:24:31">i mean faqs are a must, but there are problems outside them</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="159" ref="156" time="02:24:35">you don't have to wait for the answer...the answer would be instant</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="160" ref="156" time="02:24:39">not all the time</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="161" ref="159" time="02:25:10">i think phone support would be the best option for live chat</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="162" ref="156" time="02:25:36">what will you do if there are many people who want that king of technical support in the same time</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="163" ref="161" time="02:26:02">maybe you need more people to help you</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="164" ref="162" time="02:26:31">queue system</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="165" ref="161" time="02:27:18">I thinkchat is more cost efficient ;)</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="166" ref="164" time="02:27:20">and people leave</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="167" ref="164" time="02:28:07">when you don`t have internet, yes, phones are the best solution</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="168" ref="166" time="02:28:12">We speek about our employees. If they have a problem that needs to be solved, they won't leave</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="169" ref="168" time="02:29:19">i was talking about technical support for people outside the company</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="170" ref="168" time="02:29:22">wtf?</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="171" ref="168" time="02:29:34">support for employees?</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="172" ref="0" time="02:29:49">chat is a good and quick solution but you need a queue system and a forum doesn`t require a queue but it`s slow..</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="173" ref="167" time="02:29:55">Yes, but we should use the chat tough. This means smaller costs for the company and i think that is the ideea here, to find not only time efficient solutions but cost efficient as well</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="174" ref="0" time="02:30:27">the support is for ouside people right?</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="175" ref="164" time="02:30:32">and why using queue systems when we can use a chat room, conference room</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="176" ref="0" time="02:30:34">*outside</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="177" ref="174" time="02:30:35">yea</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="178" ref="174" time="02:30:44">yes</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="179" ref="171" time="02:31:01">Yes. If an emplyee from the HR department has a problem with the application (example database), they call the technical support ()</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="180" ref="175" time="02:31:14">well you can`t use a conference with outside people</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="181" ref="173" time="02:31:30">cost for people?....telephone cost is &quot;null&quot; for company...people are calling for support</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="182" ref="175" time="02:31:33">Maybe problems should be solved individually</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="183" ref="181" time="02:32:09">If you have departments in different cities, the phone costs</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="184" ref="181" time="02:32:24">people responding to the calls cost</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="185" ref="0" time="02:32:54">people who write on a chat cost</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="186" ref="0" time="02:32:56">:P</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="187" ref="185" time="02:33:27">and people who answer the phone for support don't?</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="188" ref="185" time="02:34:08">kindof have to agree with you here</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="189" ref="0" time="02:34:30">ok.. for sharing information and documents between employees we should wave right?</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="190" ref="187" time="02:34:44">yes</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="191" ref="0" time="02:34:59">i don`t think we can find a better choice</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="192" ref="0" time="02:35:08">its the best there is out there</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="193" ref="187" time="02:35:10">on phone sometimes you give a better explication</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="194" ref="191" time="02:36:00">everybody knows that wave is the best for this kindof stuff</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="195" ref="193" time="02:36:03">i doubt it... on chat  you can use live video feed, microphone, and doodle for drawing and most importantly it's free</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="196" ref="193" time="02:36:26">on the phone you have only your voice</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="197" ref="195" time="02:36:36">i agree with cip here</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="198" ref="195" time="02:37:43">yes, and another think, most of the time, you are not alone in the departement, so you can`t annoy everyone by talking on the phone </Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="199" ref="197" time="02:37:46">if &quot;the&quot; person don't have a microphone...and so on.....</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="200" ref="198" time="02:38:36">for phone support should be a special room</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="201" ref="199" time="02:38:38">i think a microphone it's cheaper than a phone</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="202" ref="0" time="02:38:56">we must be cost efficient</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="203" ref="198" time="02:39:05">there are some guys in india just begging to outsource phone support to them:)</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="204" ref="201" time="02:39:14">yes... but many people have a phone and not a microphone at home</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="205" ref="204" time="02:39:41">it was the ideea of using chat support for emplyess in different departments</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="206" ref="204" time="02:39:47">we are at work, in a company, not at home</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="207" ref="0" time="02:39:54">not for outside people</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="208" ref="207" time="02:40:14">great</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="209" ref="205" time="02:40:23">chat is ok, but wave is much better</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="210" ref="207" time="02:40:37">than chat is OK</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="211" ref="0" time="02:40:38">chat is ok for small things</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="212" ref="209" time="02:40:43">i like the way you're going:))</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="213" ref="211" time="02:40:53">it is ok for instant support</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="214" ref="213" time="02:41:01">yes</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="215" ref="213" time="02:41:14">that was the ideea in the begging</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="216" ref="0" time="02:41:15">:P</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="217" ref="0" time="02:41:17">but you can`t always use instant support</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="218" ref="0" time="02:41:29">ok, i think we all agree on most of the subjects</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="219" ref="0" time="02:41:35">what else is there left</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="220" ref="0" time="02:42:19">As i said, we have to agree how these tachnologies could help us become more efficient. I never said that char is the best for everything</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="221" ref="0" time="02:42:58">ok.. so we could use blog for promoting our company</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="222" ref="0" time="02:43:10">and for inside events</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="223" ref="0" time="02:43:10">wiki for documentation and faqs</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="224" ref="0" time="02:43:17">and a forum for technical support</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="225" ref="0" time="02:43:19">forum for technical support and maybe chat for live support</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="226" ref="0" time="02:43:35">wave for collaboration/brainstorming/document sharing</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="227" ref="0" time="02:43:47">chat for live support inside the company</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="228" ref="225" time="02:43:48">yes, live support is a good ideea</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="229" ref="0" time="02:44:07">we could also use chat for meetings ....for peope who can't come to the meeting</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="230" ref="229" time="02:44:22">wave is better for that</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="231" ref="0" time="02:44:34">you can share documents etc, view what the other person is typing etc</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="232" ref="0" time="02:45:06">i think that about wraps it up</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="233" ref="231" time="02:45:13">does it support live video feed?</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="234" ref="230" time="02:45:15">wave have also support for audio or video conversation?</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="235" ref="0" time="02:46:12">no</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="236" ref="235" time="02:46:50">then, i think chat is better for meetings</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="237" ref="235" time="02:46:52">So maybe a chat would be better for meetings</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="238" ref="0" time="02:46:54">:)</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="239" ref="0" time="02:47:05">nope</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="240" ref="0" time="02:47:10">:)</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="241" ref="0" time="02:47:21">you can embed video with ustream in wave</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="242" ref="0" time="02:47:29">its not out of the box</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="243" ref="0" time="02:47:31">but its there</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="244" ref="0" time="02:47:47">it's time consuming</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="245" ref="0" time="02:47:57">i think we have to vote on that one :)</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="246" ref="0" time="02:48:13">for meetings?</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="247" ref="245" time="02:48:14">ok, i`m with chat</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="248" ref="245" time="02:48:18">wave = chat+email</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="249" ref="0" time="02:48:18">yes</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="250" ref="0" time="02:48:27">im with wave:)</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="251" ref="0" time="02:48:31">i say chat</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="252" ref="0" time="02:48:31">chat for meetings</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="253" ref="0" time="02:48:47">moni? :))</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="254" ref="0" time="02:48:48">if you say so..</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="255" ref="253" time="02:48:58">wave</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="256" ref="0" time="02:49:04">3 vs 2</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="257" ref="0" time="02:49:43">ok chat for meeting</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="258" ref="0" time="02:49:46">i think  wave is a sollution for time and task management. Moreover it can be used for sharing documents, presentations....</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="259" ref="0" time="02:50:16">wave for brainstorming collaboration etc what ever you like</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="260" ref="0" time="02:50:28">well i think we could use both technologies</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="261" ref="0" time="02:50:39">Maybe we should test them both and see the results</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="262" ref="261" time="02:51:04">nice one:)</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="263" ref="0" time="02:51:05">Then we could settle for one</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="264" ref="258" time="02:51:08">we can have these things on a wiki page, so all the people can see them while chating</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="265" ref="264" time="02:51:48">yes..but if people should change it in real time?</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="266" ref="264" time="02:51:58">I agree. For a meeting, all the documentation could be on a wiki so everyone can see it</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="267" ref="0" time="02:52:36">ok .. so in conclusion let`s agree on what idea is for what</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="268" ref="265" time="02:52:47">it`s real time anyway</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="269" ref="267" time="02:52:48">for the 3rd time :))</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="270" ref="0" time="02:52:52">blog -&gt; news for outside and events</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="271" ref="265" time="02:52:59">Usually you don't modify document in real time in meetings. You discuss problems and later on you modify the document</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="272" ref="271" time="02:53:25">usually...not all the time:P</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="273" ref="0" time="02:53:35">forum -&gt; support and chat for live support</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="274" ref="0" time="02:53:37">wiki -&gt; documentation and faqs</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="275" ref="0" time="02:54:07">wave-&gt; brainstorming and documents sharing etc</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="276" ref="0" time="02:54:20">and wave&amp;chat for meetings</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="277" ref="0" time="02:54:23">:-)</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="278" ref="0" time="02:54:28">:)</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="279" ref="0" time="02:54:29">chat-&gt;urgent problems</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="280" ref="0" time="02:54:41">i think that about wraps it up</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="281" ref="0" time="02:54:56">its been a pleasure chatting with you guys, again</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="282" ref="273" time="02:55:04">forum for both :inside and outside...chat for inside</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="283" ref="0" time="02:55:05">same here</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="284" ref="0" time="02:55:23">i'll be on my way for a much deserved  sleep</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="285" ref="283" time="02:55:36">same here</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="286" ref="0" time="02:55:45">yes, all of us</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="287" ref="0" time="02:55:56">good night everyone</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="288" ref="0" time="02:56:05">nice chating with you all</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="289" ref="0" time="02:56:07">Good night everybody :)</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="290" ref="0" time="02:56:10">bbye</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="291" ref="0" time="02:56:11">good night</Utterance>
+		</Turn>
+		<Turn nickname="serban_wave">
+			<Utterance genid="292" ref="0" time="02:56:11">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="oana-wiki">
+			<Utterance genid="293" ref="0" time="02:56:14">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="moni-forum">
+			<Utterance genid="294" ref="0" time="02:56:16">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="vic-blog">
+			<Utterance genid="295" ref="0" time="02:56:19">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="cip_chat">
+			<Utterance genid="296" ref="0" time="02:56:32">leaves the room</Utterance>
+		</Turn>
+	</Body>
+	<Annotation>
+		<Implicit_refs>
+		</Implicit_refs>
+	</Annotation>
+	<Collab_regions>
+		<Collab_regions_annotation>[13;52],[68;79],[88;110],[115;124],[144;159],[260;272]</Collab_regions_annotation>
+		<Collab_regions_annotation>[71;79],[133;144],[182;191],[207;215],[245;258]</Collab_regions_annotation>
+		<Collab_regions_annotation>[12;33],[40;52],[68;86],[92;113],[117;131],[148;165],[172;175],[193;204]</Collab_regions_annotation>
+		<Collab_regions_annotation>[13;56],[85;139],[159;169],[193;227],[258;276]</Collab_regions_annotation>
+		<Collab_regions_annotation>[13;25],[36;58],[81;114],[149;185]</Collab_regions_annotation>
+		<Collab_regions_annotation>[19;31],[71;81],[94;108],[113;122],[192;208],[220;236],[245;258],[261;276]</Collab_regions_annotation>
+		<Collab_regions_annotation>[91;104],[152;175],[198;218],[229;258]</Collab_regions_annotation>
+		<Collab_regions_annotation>[10;160],[237;290]</Collab_regions_annotation>
+		<Collab_regions_annotation>[13;36],[76;111],[145;257]</Collab_regions_annotation>
+		<Collab_regions_annotation>[13;31],[44;49],[68;76],[90;105],[117;131],[152;170],[200;207],[250;266]</Collab_regions_annotation>
+		<Collab_regions_annotation>[13;36],[68;76],[85;104],[258;276]</Collab_regions_annotation>
+		<Collab_regions_annotation>[12;49],[50;131],[142;218],[258;266]</Collab_regions_annotation>
+		<Collab_regions_annotation>[12;49],[134;141],[153;169],[189;207],[221;236],[270;280]</Collab_regions_annotation>
+		<Collab_regions_annotation>[14;31],[90;110],[179;207]</Collab_regions_annotation>
+		<Collab_regions_annotation>[10;36],[37;52],[68;77],[81;87],[88;97],[98;110],[117;127],[137;150],[220;237],[258;268]</Collab_regions_annotation>
+		<Collab_regions_annotation>[10;50],[69;76],[90;127],[145;175],[193;207],[220;232],[258;271]</Collab_regions_annotation>
+		<Collab_regions_annotation>[13;52],[92;196]</Collab_regions_annotation>
+		<Collab_regions_annotation>[13;52],[68;137],[140;173],[174;188],[189;218],[229;261]</Collab_regions_annotation>
+		<Collab_regions_annotation>[18;34],[94;104],[154;175],[230;263]</Collab_regions_annotation>
+		<Collab_regions_annotation>[13;59],[60;148],[161;213],[229;271]</Collab_regions_annotation>
+		<Collab_regions_annotation>[13;55],[59;137],[143;210],[221;267]</Collab_regions_annotation>
+		<Collab_regions_annotation>[12;29],[102;114],[158;167],[180;203],[241;260]</Collab_regions_annotation>
+		<Collab_regions_annotation>[13;36],[68;136],[142;160],[221;282]</Collab_regions_annotation>
+		<Collab_regions_annotation>[12;52],[55;76],[90;113],[117;169],[172;206],[220;236],[258;276]</Collab_regions_annotation>
+		<Collab_regions_annotation>[17;29],[69;85],[107;131],[158;167],[233;268]</Collab_regions_annotation>
+		<Collab_regions_annotation>[10;31],[44;63],[90;136],[141;148],[189;197],[221;245],[260;280]</Collab_regions_annotation>
+		<Collab_regions_annotation>[10;63],[90;148],[220;286]</Collab_regions_annotation>
+		<Collab_regions_annotation>[13;36],[59;104],[115;160],[176;203],[229;266]</Collab_regions_annotation>
+		<Collab_regions_annotation>[22;27],[68;84],[90;119],[131;147],[156;173],[205;217],[221;237],[245;257],[267;279]</Collab_regions_annotation>
+		<Collab_regions_annotation>[12;34],[46;93],[101;124],[130;156],[162;179],[189;218],[221;280]</Collab_regions_annotation>
+		<Collab_regions_annotation>[12;31],[37;52],[57;74],[75;89],[90;100],[110;132],[149;175],[195;214],[220;241],[264;279]</Collab_regions_annotation>
+		<Collab_regions_annotation>[16;28],[35;47],[55;62],[69;74],[85;99],[110;117],[150;156],[163;169],[189;231],[258;263]</Collab_regions_annotation>
+		<Collab_regions_annotation>[13;40],[68;76],[99;117],[133;215],[229;266]</Collab_regions_annotation>
+		<Collab_regions_annotation>[25;27],[34;36],[76;89],[143;144],[195;197]</Collab_regions_annotation>
+		<Collab_regions_annotation>[10;32],[55;63],[68;89],[90;115],[119;137]</Collab_regions_annotation>
+	</Collab_regions>
+</Dialog>

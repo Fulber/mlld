@@ -1,0 +1,1307 @@
+<?xml version = "1.0" ?>
+<Dialog team="41">
+	<Participants>
+	<Person nickname="Mr Freaky - wiki"/><Person nickname="cristi-forum"/><Person nickname="loredana-blog"/><Person nickname="Michael-Wave"/><Person nickname="alex-chat"/></Participants>	<Topics/>
+		<Body>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="1" ref="0" time="10:21:16">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="2" ref="0" time="10:33:02">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="3" ref="0" time="10:33:24">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="4" ref="0" time="10:42:07">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="5" ref="0" time="10:42:21">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="6" ref="0" time="10:42:43">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="7" ref="0" time="10:42:53">hello everyone</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="8" ref="0" time="10:42:59">and welcome back to our discussion</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="9" ref="0" time="10:44:43">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="10" ref="0" time="10:45:34">can someone please kick Alex-chat ? :)))</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="11" ref="0" time="10:45:57">restart firefox =&gt; ghost duplicate me in chat</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="12" ref="0" time="10:46:53">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="13" ref="0" time="10:47:04">may I remind you that the topic of conversation for tonight is this:</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="14" ref="13" time="10:47:17">You are in the board of decisions of a company that plans to use collaborative technologies for its activities. Each of you has studies the advantages and disadvantages of the following technologies that are considered by the company: chat, blog, wiki, forums and Google Wave. Engage into a collaborative discussion in order to decide for which activities it is indicated to use each technology and for which ones it is not indicated. You should give the best advice for the technology that you support and convince the others to use it. The result of this discussion should be a plan of using these technologies in order to have the best outcomes for your company. You can also think of other useful technologies beside these ones, but do not insist on them.</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="15" ref="14" time="10:47:48">good to have it up front like this.</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="16" ref="14" time="10:49:28">basically we'll be putting everything we have discussed in the first chat in the right place ..</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="17" ref="0" time="10:49:53">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="18" ref="0" time="10:49:59">evening</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="19" ref="15" time="10:50:06">we should start by stating some common activities and then deciding which technology best fits them.</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="20" ref="0" time="10:50:11">As you know, our company is proud to be in the forefront of technological trends, so I advise using the best of the available cutting edge technologies: Google Wave</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="21" ref="20" time="10:51:13">our company has many activities.. surely google wave can't cover everything we need ..</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="22" ref="20" time="10:51:22">Some of the senior members on the board can't cope with Google wave, they prefer using chat instead :)</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="23" ref="22" time="10:51:58">i can't really imagine big CEO's chatting though</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="24" ref="" time="10:52:14">Well better chat than forums :))</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="25" ref="0" time="10:52:20">big decisions are made in such discussions, you need to have a transcript of the conversation</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="26" ref="24" time="10:52:28">troll</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="27" ref="23" time="10:52:42">This is not about the personal preferences of this board, but rather about what better suits our employees in optimizing our business processes with maximum productivity.</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="28" ref="27" time="10:53:22">Well put, Michael. How about we state some activities ?</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="29" ref="25" time="10:53:39">I'm afraid I'll have to oppose both chat and forums, as both are outdated. They lack structure and real time interaction ability, respectively.</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="30" ref="28" time="10:53:55">What activities are you referring to, Alex ?</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="31" ref="" time="10:54:11">These.</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="32" ref="" time="10:54:55">For each activity we must decide which technology is preferable. </Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="33" ref="0" time="10:54:57">i must say you are right</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="34" ref="30" time="10:55:06">it think he means that a big company has many activities and projects every day. since each communication tools has advantages and disadvantages, we should figure out the activities for witch each tool is appropriate</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="35" ref="0" time="10:55:41">And I must add that blogs can be a good solution for a company</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="36" ref="0" time="10:55:41">well, let's start by defining our company activities then</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="37" ref="34" time="10:55:45">All I'm saying is that we need to structure this discussion so it can yield better results.</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="38" ref="32" time="10:55:51">I agree. For instance, Google Wave is ideal for brainstorming and mapping out general project pathways in an interactive, real time fashion, that also respects the several time zones onto which our company is spread out.</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="39" ref="0" time="10:56:10">All the post and comment are easy to reach and follow because of the centralized hosting and the general structure</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="40" ref="29" time="10:56:43">Instead of using a forum</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="41" ref="39" time="10:56:50">most of the discussed services have centralized hosting, so that's hardly an argument</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="42" ref="0" time="10:57:00">We can use an internal blog</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="43" ref="40" time="10:57:08">forums, blogs, wave or chat - all of them are hosted.</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="44" ref="0" time="10:57:22">in this way, information becomes official and it can be accesed by all employees</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="45" ref="0" time="10:57:23">also</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="46" ref="0" time="10:57:39">private information is away from the public eye</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="47" ref="42" time="10:57:50">Blogs are more suited for public relations, marketing and social media - why would we want a blog on for inside use ?</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="48" ref="42" time="10:57:51">I think blogs are designed for being public in a social direction</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="49" ref="0" time="10:58:06">Because you do not want a forum.</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="50" ref="0" time="10:58:10">Forums are outdated</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="51" ref="46" time="10:58:19">that also can be achieved with the other tools</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="52" ref="49" time="10:58:44">Yes, I agree. Forums are outdated. But the best tool for internal use of persistent knowledge are wiki-tools, for that matter.</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="53" ref="47" time="10:58:47">Bu yes you are right, blogs are more popular on the external side</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="54" ref="0" time="10:59:22">Wiki tools refer in general to project milestone</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="55" ref="0" time="10:59:27">I mean general documentation</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="56" ref="50" time="10:59:28">As a senior member of this board, I must say every project of our company needs a private wiki, for documentation</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="57" ref="46" time="10:59:41">Blogs are interesting but I think they do not exactly fit in a company's activities. They are widely used for marketing purposes (Developer diaries/ blogs etc. ). </Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="58" ref="0" time="10:59:42">but blogs can be used to present a general solution to a specific problem</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="59" ref="52" time="10:59:43">i don't think forums are outdated. they're simple in concept and easy to understand</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="60" ref="0" time="10:59:50">and then all the employees will have acces to it</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="61" ref="" time="11:00:47">Very few if any of our competitors use forums for internal purposes. That's just for open source communities and other groups which lack of financial possibilities.</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="62" ref="56" time="11:00:51">In addition to what my fellow senior member stated, I consider that chat is very useful for brainstorming activities, and for fast response, real time interactions, etc. </Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="63" ref="57" time="11:01:03">Ok. So we will user blogs especially for marketing and maybe product documentation (for the targeted public)</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="64" ref="63" time="11:01:24">yes, indeed</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="65" ref="63" time="11:01:32">I think blogs should be used for &quot;insider information&quot; on the most interesting aspects of our projects, aspects that attract public opinion /user feedback</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="66" ref="62" time="11:01:56">Yes. It is useful in the first stage of the project but you must acknowledge the fact that it is a team-technology</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="67" ref="0" time="11:02:12">I mean, it is harder to go further than one's team.</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="68" ref="64" time="11:02:16">and I emphasize how important it is for our enterprise to have a dynamic, real time, yet structured solution like Wave</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="69" ref="0" time="11:02:22">For this you use wikis or blogs/</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="70" ref="68" time="11:02:42">a wave is not practical once the discussion gets large and complex</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="71" ref="63" time="11:03:29">I agree with that and would like to add that you can post on a blog certain solutions to encountered problems. </Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="72" ref="69" time="11:03:49">Wikis and blogs lack the interactivity of real time. And chat lacks structure. Wave has both. And it is my understanding that our company is one of the early, agile adopters. Am I wrong ?</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="73" ref="72" time="11:04:44">agreed. there are several situations in which wikis and blogs are very unpractical</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="74" ref="0" time="11:04:45">As I said before, wave is mostly limited to a certain team.</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="75" ref="72" time="11:04:46">Indeed, I agree wave is great for a project start-up, but I think we need something else after the project team is ralied</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="76" ref="0" time="11:05:03">You also need something that goes beyond one team.</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="77" ref="74" time="11:05:13">So we can make use of Google Wave in the early stage of the project</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="78" ref="76" time="11:05:21">a forum perhaps? each team with its own part of the forum</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="79" ref="0" time="11:05:34">where they can all collaborate and post questions/announcements</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="80" ref="0" time="11:05:37">I think everybody agrees forums are outdated</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="81" ref="68" time="11:05:42">One can not imagine an universal solution based on a single collaborative technology, so in addition to google wave, chat would be great to add for the real time part of the activities (such as brainstorming). </Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="82" ref="0" time="11:05:43">not everyone :))</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="83" ref="0" time="11:05:49">Maybe for a smaller company</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="84" ref="80" time="11:05:51">I second that, Loredana</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="85" ref="80" time="11:05:56">what would you say the alternative would be?</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="86" ref="0" time="11:06:08">Ok.</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="87" ref="0" time="11:06:22">Let's look at this problem the other way around</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="88" ref="68" time="11:06:26">Chat is not as structured as Wave, hence the more potential it has for great, spontaneous ideas.</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="89" ref="0" time="11:06:35">Let's try to identify the stages of a project</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="90" ref="83" time="11:06:50">not necesarily. i don't think the forum should be used as the only or most important tool in the company, but it is surely useful in many situations</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="91" ref="0" time="11:06:51">And then let's identify the best technology for every stage</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="92" ref="89" time="11:07:05">1.brainstorming; 2. planning; 3. implementing; 4. support</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="93" ref="89" time="11:07:10">Agreed, we're in early stage, when some new ideas just sprung</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="94" ref="0" time="11:07:17">4. promotion and support</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="95" ref="92" time="11:07:23">5. marketing</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="96" ref="0" time="11:07:36">Yes.</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="97" ref="95" time="11:07:43">4 and 5 kinda go together</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="98" ref="92" time="11:07:51">I think the main idea comes before an intentional brainstorming</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="99" ref="0" time="11:08:05">OK. Shall we consider this the stages?</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="100" ref="98" time="11:08:07">Like in a coffe shop above a cell</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="101" ref="0" time="11:08:07">so for phase 1 - brainstorming, please cast your vote and name a brief reason</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="102" ref="100" time="11:08:20">i don't know if you can consider that a stage</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="103" ref="102" time="11:08:41">That's included in the pre-brainstorming stage</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="104" ref="75" time="11:08:42">Chat is better for a project start-up. </Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="105" ref="98" time="11:09:06">We are pressuming that the business idea is in place and we only need something more detailed on the subject.</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="106" ref="78" time="11:09:33">A forum is better later on, chat is so much easier and simpler. It can generate great ideas.</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="107" ref="105" time="11:09:33">I think the project Idea should best be waved first, to attract attention</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="108" ref="107" time="11:09:50">and then , a chat brainstorming session should occur</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="109" ref="104" time="11:09:50">I don't think rushing with this will help with anything. So please, let us agree on the stages and then come up with pros and cons.</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="110" ref="101" time="11:10:29">probably a wave in the opening stages. but since there are many people participating in the conversation, the wave becomes hard to use. a chat would be best</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="111" ref="80" time="11:10:33">Forums aren't exactly outdated, but they can hardly be integrated into complex activities, they lack the consistency of informations.</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="112" ref="107" time="11:10:48">Nobody in a company sits at their computers saying, Oh let's have a chat about a new great project idea.</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="113" ref="111" time="11:10:54">they do lack that, indeed</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="114" ref="90" time="11:11:00">I agree with that, forums can be used for the testing side.</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="115" ref="112" time="11:11:34">Loredane, I must agree, especially considering your high-end corporate experience: in companies, people hardly chat - they either meet or have videoconferences</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="116" ref="113" time="11:12:19">that's not always true. it depends on what you expect from a forum. for me, a begginer in the big company, it's good to have a place where i can ask questions and where all my superiors can reply</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="117" ref="115" time="11:12:20">True. Some companies offer small 'prizes' for employees that come up with ideas.</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="118" ref="101" time="11:12:28">For the first phase, brainstorming, chat is highly indicated because of the natural flow, pure simplicity and ability to generate great ideas.</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="119" ref="116" time="11:13:00">do you really  think your project manager would have time to browse through your forum posts ?</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="120" ref="108" time="11:13:19">I agree with that, a chat brainstorming session would be a great kick starter.</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="121" ref="118" time="11:13:24">Chat is useful only for inter-team communication. Brainstorming doesn't envolve a team, but mostly product managers and managers.</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="122" ref="109" time="11:13:35">I agree with the designated stages.</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="123" ref="119" time="11:13:44">in an organised environment where there is no spam or trollers, yes</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="124" ref="118" time="11:13:45">Chat hardly comes naturally, especially if you're a slow typer. A video conference would make much more sense form that PoV, but that's obviously not on the table right now.</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="125" ref="118" time="11:13:46">But chat has the lack of organisation problem, and an outsider can't really evaluate it</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="126" ref="119" time="11:14:26">I hate going through forums, maybe they could be better organized to suit a company's needs. What do you say, Cristi? </Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="127" ref="125" time="11:14:30">Only the participants of a chat would know where to look for specific information</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="128" ref="0" time="11:14:42">In my opinion, Wave is perfect for the first stage in idea consolidation. I presume that we lack videoconference equipment.</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="129" ref="128" time="11:14:58">thank you, Loredana</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="130" ref="129" time="11:15:11">you get free google bubllegup</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="131" ref="126" time="11:15:12">exactely, if you know how to organize the announcement/questions/project ideas etc parts of the forum</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="132" ref="129" time="11:15:16">i'll return the favour in phase 4</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="133" ref="0" time="11:15:25">it can be actually easy and useful to use</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="134" ref="126" time="11:15:49">Hou would you like to be a developer that must understand product requirments and workflows looking into a chat? Seriously now.</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="135" ref="134" time="11:16:21">What if we wiki the stages of the project first, that way everyone would be aware of them</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="136" ref="116" time="11:16:31">As a senior member, Christian, I won't be checking the forum too often to answer. My appologies in advance. </Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="137" ref="136" time="11:17:00">there can be employees in the company especially paid for that</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="138" ref="136" time="11:17:03">let's be honest... none of us has time to browse forums for employees' questions</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="139" ref="0" time="11:17:09">Wiki is vital for product requirements and specifications. I must say that this should be clear to anybody.</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="140" ref="0" time="11:17:12">trainers for the newbies for example.. everyone has those</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="141" ref="137" time="11:17:29">Are you willing to pay them Cristi?</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="142" ref="140" time="11:17:36">I agree that wiki is the best tool for specify project requirements and deadlines</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="143" ref="142" time="11:17:57">Of course you do, you are supporting wiki :)</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="144" ref="0" time="11:18:09">I support the COMPANY above all :)</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="145" ref="" time="11:18:13">I agree on that, chat is useful for communicating inside a well estabilished team.</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="146" ref="142" time="11:18:13">good, good....we're on to something here</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="147" ref="141" time="11:18:16">i have been in contact with many major companies ... and most of them do have people in charge of guiding new personel .</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="148" ref="147" time="11:19:00">And do they have people in charge of filtering forums? That would be a surprise indeed.</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="149" ref="148" time="11:19:33">not in charge, but they do have the time :)</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="150" ref="124" time="11:19:39">One could use speech recognition for aid in chatting :)). </Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="151" ref="150" time="11:19:55">that's an engineer talking</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="152" ref="146" time="11:20:04">So let's settle a bit now, the idea was waved, we chatted upon it, then we wiki-ed the specifications, deadlines, and stages</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="153" ref="127" time="11:20:20">Well we could use advanced instruments of chat analysis such asa PolyCAFe ? Am I right or what ? :))</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="154" ref="152" time="11:20:24">what stage are we in now?</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="155" ref="0" time="11:20:46">For summary, we use wave(in lack of videoconference equipment) for senior brainstorming (let's call it that way) and wiki for documentation (and I mean from the beginning of the project till the end)</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="156" ref="131" time="11:21:15">Yes, Cristi, an organized forum would be a great idea. </Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="157" ref="155" time="11:21:32">ok, that works for me</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="158" ref="155" time="11:21:34">I agree with Loredana. After all, she's all corporate guiding light.</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="159" ref="155" time="11:21:35">That makes wiki the backbone of the solution to our project.</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="160" ref="153" time="11:21:39">We must agree that at this point this is for study, not for business. So PolyCAFe is not a solution at this moment.</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="161" ref="159" time="11:22:03">Let's not be hasty.</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="162" ref="160" time="11:22:06">I believe we reached phase 3, Implementation</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="163" ref="159" time="11:22:45">Many companies have very 'personalised' forms of wikis. But I pressume we are discussing the raw solution.</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="164" ref="" time="11:22:47">Seriously, a team of developers chat, come up with ideas, and extract them from the chat. The chat must not be persistent, only the 10 great ideas, that have hopefully arisen from the discussion.</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="165" ref="164" time="11:23:29">so you leave those ideas IN the chat, or would you prefer extracting them and put them somewhere easy to find?</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="166" ref="0" time="11:23:36">Wikis can be good for structuring the first stages, correct and the latter ones. </Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="167" ref="162" time="11:23:36">Indeed. Here, chat is quite good. It's an inter-team solution. And many companies use their own chat clients, depending on their needs.</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="168" ref="165" time="11:24:01">you have to extract them... the chat cannot be used by it's own. it has to be used in collaboration with another tool</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="169" ref="0" time="11:24:02">the majority agrees, can we move on to the next phase.</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="170" ref="169" time="11:24:40">I believe we reached Implementation, but I don't really see what tool is best suited for this</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="171" ref="164" time="11:25:18">Alex, from my experience, 5 developers can implement in 2 weeks time 5 different solutions to 5 different problems. That is because unofficial documentation is in use and every developer understands something else. Yes, this realy happened to me. Chat is for small developing problems.</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="172" ref="165" time="11:25:32">Fair point.</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="173" ref="152" time="11:25:41">And then we write all of our questions in a forum. </Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="174" ref="171" time="11:26:04">I think wiki will be used a guideline at this point</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="175" ref="155" time="11:26:09">Yes, and don't forget chat for the brainstorming part also.</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="176" ref="173" time="11:26:17">that's all i'm saying .. :)</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="177" ref="175" time="11:26:30">there's no chat in implementing, there's only work work work</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="178" ref="177" time="11:26:42">and documenting</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="179" ref="0" time="11:26:51">for the implementation part now. a wiki for posting progress being made</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="180" ref="178" time="11:26:53">that's what we pay them for, isn't it ?</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="181" ref="177" time="11:27:32">if at this stage, more than one programmer is involved, how do we correlate their work ( how does the project manager do that)</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="182" ref="177" time="11:27:50">Let's say developers are on two different building levels and they are lazy. That is quite a spread situation</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="183" ref="167" time="11:28:19">I couldn't agree more with you on that, chat is best for inter-team solutions. </Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="184" ref="183" time="11:28:43">I disagree - chat leads to long, unnecessary discussions</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="185" ref="181" time="11:28:59">It does not concern the project manager what small implementing problems occur, only when it is indeed an architecture problem. Such kind of problems remain between developers. Also, managers are interested when a solution can be found only outside its team.</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="186" ref="168" time="11:29:23">Yes it should be used in conjunction with a Conversation Analysis and Feedback tool, a very highly sofisticated tool, I might add. </Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="187" ref="185" time="11:29:32">I think the easy solution is physical contact in that case</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="188" ref="184" time="11:29:51">Yes. But you must agree that at this point wave is no good. Employees must attend meetings.</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="189" ref="188" time="11:30:34">Meetings are a waste of time, like chat and videoconferencing at this point. Wikis are the best solution in the implementing phase - they encourage people to cut to the point and avoid unnecessary discussions.</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="190" ref="171" time="11:31:14">Indeed, but I was talking about ideas regarding general guidelines and solutions not specific implementation issues. </Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="191" ref="189" time="11:31:31">Depends on how big a problem is. Wiki is official (let's say, it can go up to CTOs). It is not for smallproblems.</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="192" ref="189" time="11:31:35">agreed, wiki is the only one that can actually be useful</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="193" ref="179" time="11:32:11">For the implementation part, a wiki is highly advised.</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="194" ref="192" time="11:32:12">ok</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="195" ref="189" time="11:32:22">Michael, at this point employees can use whatever they want (and are allowed to use of course) to get the job done. For serious problems that should go up to project manager, indeed, wikis must be used.</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="196" ref="181" time="11:32:24">SVN.</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="197" ref="193" time="11:32:30">i agree, alex, cristi. anyone opposing ? </Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="198" ref="0" time="11:32:35">Let's not remain blocked on this issue.</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="199" ref="196" time="11:32:41">SVN is not on th e table</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="200" ref="198" time="11:32:56">Exactly, if there are no arguments against, let's decide on wiki</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="201" ref="0" time="11:33:00">and move on to the next phase</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="202" ref="200" time="11:33:02">wiki it is</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="203" ref="192" time="11:33:22">next phase would be Support/Testing if I'm correct</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="204" ref="196" time="11:33:26">You mean building systems? I don't think that this has to do with project management, but implementation solutions. We are not discussing this.</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="205" ref="199" time="11:33:41">Agree</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="206" ref="203" time="11:34:09">a wiki and also a forum for support</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="207" ref="184" time="11:34:12">Well, it depends on the people that are having the chat and by their power of crystalizing information.</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="208" ref="206" time="11:34:48">I believe the wiki can be successfuly used to document all the updated and bug fixes</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="209" ref="206" time="11:35:18">Also iforums are widely used for technical problem solving</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="210" ref="208" time="11:35:22">true. and a forum for questions and problems not answered elsewhere</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="211" ref="207" time="11:35:25">We have passed that stage at this point.</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="212" ref="210" time="11:36:18">In my experience, 90% of online software has a support forum, so we should have one too</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="213" ref="203" time="11:36:49">For supporting and testing, Forums and wikis are indicated. </Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="214" ref="208" time="11:36:59">I agree.</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="215" ref="212" time="11:37:05">we can also provide support chat for major clients</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="216" ref="213" time="11:37:18">exactely. all agreed on the support part?</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="217" ref="209" time="11:37:35">Why use a forum inside a company? You have documentation and sources that are not public. Most projects do not span from one to another. If you have a technical question, there are list of discussions on e-mail that you can sign up to. Nobody uses forums inside serious companies.</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="218" ref="215" time="11:37:51">Yes a chat solution for direct assistance would be advised and appreciated. </Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="219" ref="212" time="11:38:01">That is another thing. That is public targeted. It is not for internal use. </Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="220" ref="0" time="11:38:04">I agree with chat, forum and wiki for this stage.</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="221" ref="217" time="11:38:06">we are not discussing e-mails here though</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="222" ref="219" time="11:38:36">I didn't mean using an internal forum for support</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="223" ref="212" time="11:38:39">It is the place where clients post questions, not employees. Would you like to post questions (as an employee</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="224" ref="" time="11:38:54">Support is external. </Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="225" ref="0" time="11:39:01">and have a client reply to you? That is hardly the case</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="226" ref="225" time="11:39:30">no, but as a client you would like an employee to answer</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="227" ref="225" time="11:39:45">All antivirus software/OS software etc hace a support forum, for their clients</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="228" ref="224" time="11:39:47">support in indeed mostly external</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="229" ref="221" time="11:39:49">We can present alternate solutions, we shouldn't insist on them.</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="230" ref="222" time="11:40:46">So we must agree that forums are used widely for outside support, but not for inside purposes.</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="231" ref="0" time="11:40:54">Shall we pass to the next points?</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="232" ref="231" time="11:41:05">sure</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="233" ref="0" time="11:41:05">ok</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="234" ref="227" time="11:41:09">I agree with that, so for this stage chat, wiki and forum is our conclusion.</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="235" ref="231" time="11:41:14">what would that be ?</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="236" ref="235" time="11:41:37">Why, marketing i guess.</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="237" ref="235" time="11:41:39">Propaganda</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="238" ref="0" time="11:41:43">And now, let's talk about blogs</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="239" ref="237" time="11:41:48">Precisely</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="240" ref="" time="11:41:55">Blogs are best for marketing / propaganda. </Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="241" ref="240" time="11:42:12">I agree.</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="242" ref="241" time="11:42:43">So we make the product a blog page? or do the developers blog about their activities?</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="243" ref="0" time="11:42:49">For marketing purposes, the blog would be best</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="244" ref="0" time="11:43:03">But, they are perfect for products lacking documentation. You can get employees to write articles on the software that theyworked on (How to's) to provide a general guidline for the public.</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="245" ref="240" time="11:43:09">Developer diaries, tech diaries various concepts that make you (the outsider) a part of the creation process, sharing the excitement of the developer (not the hard suffering of developing :)) ). </Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="246" ref="242" time="11:43:14">Both.</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="247" ref="245" time="11:43:27">developers could only write stuff that other developers read on blogs</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="248" ref="245" time="11:43:33">Of course, this happens AFTER release.</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="249" ref="246" time="11:43:41">you can't trust developers with marketing efforts</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="250" ref="242" time="11:43:44">mostly a blog page about the final product</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="251" ref="247" time="11:43:47">And you find that not important?</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="252" ref="0" time="11:44:09">developers should not really be involved in this stage</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="253" ref="0" time="11:44:20">it is a job for the marketing department</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="254" ref="249" time="11:44:20">Blog marketing is the term used to describe internet marketing via web blogs. These blogs differ from corporate websites because they feature daily or weekly posts, often around a single topic. Typically, corporations use blogs to create a dialog with customers and explain features of their products and services.</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="255" ref="0" time="11:44:28">Many organizations use blogs with their user community. This allows them to share and preview product features, functions, and benefits before the products are released. Blogs are an excellent way to gather feedback and to make sure products meet the needs of users. Blogs have become the next generation marketing tool to corporate websites which merely post collateral and do not provide any interactive feedback. Blogs are also supplementary to a User Group. User Groups happen annually for example while blogs provide users constant daily and weekly feedback.</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="256" ref="249" time="11:44:29">It is not about marketing. It is about other companies using your software. If it is let's say, a development software, you would want your developers to talk about it, don't you?</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="257" ref="255" time="11:44:48">Agreed.</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="258" ref="253" time="11:45:07">Why do you presume that blogs are only for marketing?</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="259" ref="253" time="11:45:21">We use websites and ads for marketing.</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="260" ref="0" time="11:45:34">Blogs are only a more subtle solution.</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="261" ref="259" time="11:45:47">does that mean blogs aren't strong enough marketing tool?</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="262" ref="261" time="11:46:00">Of course not.</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="263" ref="0" time="11:46:13">Every respected website includes a blog.</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="264" ref="0" time="11:46:22">You do not make blogs on their own</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="265" ref="0" time="11:46:28">Don't you agree on that?</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="266" ref="261" time="11:46:29">i personally don't consider the blog a very effective marketing tool</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="267" ref="0" time="11:46:40">but it is certainly better than the other ones discussed here</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="268" ref="263" time="11:46:53">true</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="269" ref="266" time="11:46:57">It is very effective because people can interact with real people</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="270" ref="0" time="11:47:17">That write for communities</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="271" ref="269" time="11:48:00">But the developpers can't really express themselves in a normal enough language, so that the product users can easily understand</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="272" ref="0" time="11:48:08">A blog is not a stand alone entity</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="273" ref="269" time="11:48:37">Yes, the user feedback is very important.</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="274" ref="271" time="11:48:37">Sure. If it is not a software product, marketers will blog.</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="275" ref="272" time="11:48:38">yes, it attract involvement from others</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="276" ref="272" time="11:49:02">I think everyone agrees with using blogs at this stage</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="277" ref="271" time="11:49:14">It stands on figuring which type of employee best fits on the product.</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="278" ref="271" time="11:49:15">If they are good enough developers they can.</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="279" ref="272" time="11:49:37">In conjunction with what are you suggesting it to be used ? </Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="280" ref="278" time="11:50:14">Why would you put a developer to talk about social implications of a type of product. We are not discussing software based products only (or let's say IT industry products).</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="281" ref="280" time="11:50:29">Then you are right.</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="282" ref="279" time="11:50:39">that's easy, we can promote the product through adds, and google promos</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="283" ref="282" time="11:50:53">Campaigns</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="284" ref="0" time="11:50:59">Marketing Campaigns</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="285" ref="0" time="11:51:02">Websites</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="286" ref="0" time="11:51:04">Events</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="287" ref="0" time="11:51:11">and all the sugars and spice</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="288" ref="282" time="11:51:14">Adds can be incorporated in blogs, forums etc</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="289" ref="283" time="11:51:15">Well planned campaigns, ok.</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="290" ref="286" time="11:51:19">Loredana reveals her true passion for business</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="291" ref="0" time="11:51:37">But still, we are discussing blogs and you must agree neither of the other 4 technologies are better in this situation</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="292" ref="287" time="11:51:40">and then people will CHAT about the product :)</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="293" ref="292" time="11:52:04">Exactly, I love the you think, fellow senior !\</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="294" ref="292" time="11:52:08">and a detailed description will appear on WIKIPEDIA</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="295" ref="292" time="11:52:24">All the hype generated will create lots of chat :)).</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="296" ref="292" time="11:52:34">Nobody does that. Forums, maybe. Chats no.</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="297" ref="291" time="11:52:39">and people will have forums on websites like softpedia and will share impressions there</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="298" ref="294" time="11:53:02">WIKIPEDIA is not what wikis are all about</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="299" ref="292" time="11:53:31">i wouldn't chat about that personally.. i would either blog about it or post on a forum</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="300" ref="298" time="11:53:34">I know, but you must agree we will have to make a wiki appearance there once the product is complete</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="301" ref="298" time="11:53:49">A wiki is a website that allows the easy creation and editing of any number of interlinked web pages via a web browser using a simplified markup language or a WYSIWYG text editor. Wikis are typically powered by wiki software and are often used to create collaborative wiki websites, to power community websites, for personal note taking, in corporate intranets, and in knowledge management systems.</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="302" ref="297" time="11:53:49">This is true. Agreed. But let's be serious. How often do you look at blogs and how often do you use forums ( I mean write on them also)?</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="303" ref="0" time="11:54:03">I think first is often than former.</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="304" ref="302" time="11:54:40">i honestly ag</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="305" ref="302" time="11:54:43">you're right, you only encounter the wikipedia product page if you google it also</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="306" ref="304" time="11:55:01">ups, keyboard error: i meant to say that i honestly agree with you</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="307" ref="300" time="11:55:02">Of course. But people go at first on the website. On the website, you find the blog. Even if Forum tab is near to the Blog tag, you choose blogs first, am I right? Do you all do that?</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="308" ref="0" time="11:55:06">blog is best for marketing</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="309" ref="301" time="11:55:29">Please reveal your sources.</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="310" ref="308" time="11:55:37">Blog gives you a really personal approach, a more intimate feeling of the product. </Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="311" ref="307" time="11:55:40">I sincerely go to the facebook page first</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="312" ref="0" time="11:55:41">so let's vote: i'm for blog on this particular stage</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="313" ref="296" time="11:55:51">i agree</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="314" ref="310" time="11:56:01">True. I agree.</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="315" ref="0" time="11:56:20">I vote Blog. </Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="316" ref="311" time="11:56:22">We are not discussing facebook.</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="317" ref="314" time="11:56:26">the blog is the clear winner of this stage</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="318" ref="317" time="11:56:46">OK. So these were the big outlines</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="319" ref="317" time="11:56:53">we just aroused the most obvious issues with the technology :)</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="320" ref="0" time="11:56:55">Who would care to draw this? :)</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="321" ref="316" time="11:56:57">but if we were, i'd vote for it on every stage. :))</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="322" ref="319" time="11:57:06">OK.</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="323" ref="320" time="11:57:22">I don't think a drawing is necessary</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="324" ref="321" time="11:57:37">Of course. Especially before release.So everybody can copy it and release it before you do.</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="325" ref="323" time="11:58:05">Let's just summarise the stages once more for the sake of it</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="326" ref="325" time="11:58:19">Couldn't agree more. </Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="327" ref="0" time="11:58:22">great</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="328" ref="324" time="11:58:26">it was merely a joke, i didn't mean it. moving on</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="329" ref="0" time="11:58:28">1- brainstorming - wave</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="330" ref="328" time="11:58:41">I know :)</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="331" ref="0" time="11:58:42">1 brainstorming chat </Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="332" ref="0" time="11:58:45">2-planning/implementing - wiki</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="333" ref="0" time="11:59:15">4 - promotion/marketing - blog</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="334" ref="0" time="11:59:27">with chat being used for support occassionally</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="335" ref="334" time="11:59:57">forum was also included in support</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="336" ref="334" time="12:00:14">forum for support too</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="337" ref="333" time="12:00:33">and of course wiki on marketing, in case someone googles the product :)</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="338" ref="329" time="12:00:38">we have the state only one technology for each phase ? or a mix ? </Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="339" ref="329" time="12:01:00">I would like to add chat also for the first stage, besides wave.</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="340" ref="" time="12:01:23">At 2 - planning/implementing chat can be used locally.</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="341" ref="338" time="12:01:48">we can have a mix.. i don't think anyone is that exclusive as to only use one technology</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="342" ref="337" time="12:01:53">A great addition wikis, yes.</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="343" ref="339" time="12:01:58">I am exclusive</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="344" ref="" time="12:02:07">:))</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="345" ref="342" time="12:02:08">yeah, sure, why don't we all get along</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="346" ref="345" time="12:02:48">First stage: wave is most indicated, seconded by chat</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="347" ref="339" time="12:03:00">we already established we'll use wave for brainstorming, don't try to sneak in chat right now ... please scroll up to see that everyone else agrees with this</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="348" ref="0" time="12:03:19">Second stage: wiki is most indicated, I don't care what else fits in</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="349" ref="347" time="12:03:24">I agree.</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="350" ref="0" time="12:03:29">true</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="351" ref="0" time="12:03:40">Third stage is the same as the second stage</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="352" ref="348" time="12:03:41">i agree even more than Loredana does</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="353" ref="348" time="12:04:03">Wiki is indicated for 2 3 and 4</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="354" ref="0" time="12:04:04">4th stage (support) Forum is most indicated seconded by chat</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="355" ref="0" time="12:04:18">also wiki if you say :)</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="356" ref="355" time="12:04:36">true, the wiki also fits here</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="357" ref="354" time="12:04:43">the sad thing is we ended up &quot;using&quot; all of the mentioned technologies</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="358" ref="0" time="12:04:47">the forum is first though</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="359" ref="0" time="12:04:53">not all</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="360" ref="0" time="12:05:00">we use blogs only in the final stage</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="361" ref="357" time="12:05:18">and i agreee...some of them go hand in hand (wave-wiki-blog)... but others are just...well... from the '90</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="362" ref="0" time="12:05:22">s</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="363" ref="347" time="12:05:33">We don't have to select only one technology :P . Aww you caught me. I didn't try to sneak CHAT right now, CHAT has always been present in the discussion and CHAT is a viable option, but CHAT is not as advanced as wave, so CHAT can complement it, but CHAT should definitely deserve it s place among the most useful collaborative technologies.</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="364" ref="363" time="12:05:57">I agree</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="365" ref="363" time="12:06:05">I think you're just a sore loser :p</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="366" ref="363" time="12:06:15">Please give viables arguments. Writing chat in caps won't give it more credit.</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="367" ref="363" time="12:06:24">so true</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="368" ref="0" time="12:06:25">viable*. Sorry, typo.</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="369" ref="366" time="12:06:37">but it's a CHAT thing (writing in caps that is)</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="370" ref="365" time="12:06:55">No, actually I just wrote it s it would appear in stats :)). </Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="371" ref="0" time="12:06:59">i think the chat is the least necessary of them all</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="372" ref="0" time="12:07:05">other that maybe the brainstorming, it's rather useless</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="373" ref="363" time="12:07:05">The only thing that is more that is more outdated than chat, as far as enterprise tech is concerned, are forums</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="374" ref="373" time="12:07:13">I agree.</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="375" ref="371" time="12:07:13">Just keep saying chat :))</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="376" ref="373" time="12:07:31">sorry, I stand correct: that would have implied anyone ever used forums in an enterprise environment</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="377" ref="0" time="12:07:34">Ok sorry useless flame. Moving on ? </Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="378" ref="0" time="12:07:37">Anyways, with all the technologies being discussed upon, I think we should call it a 2nd Chat, and end before going more off-topic</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="379" ref="373" time="12:08:12">To specify other technologies, companies use mail accounts for this.</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="380" ref="378" time="12:08:15">I kinda liked the flame, I made things more interesting, but sure : I succumb to the majority</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="381" ref="0" time="12:08:17">And mail lists</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="382" ref="380" time="12:08:35">*it made</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="383" ref="378" time="12:08:37">True.</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="384" ref="379" time="12:08:45">exactely. if i had to chose, i would chose the e-mail and face-to-face meetings</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="385" ref="0" time="12:08:47">or videocalls</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="386" ref="380" time="12:08:49">So you mean I'm a majority just becuse I weigh more than all of you?</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="387" ref="386" time="12:09:02">and i respect that</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="388" ref="387" time="12:09:15">one fat guy to another</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="389" ref="384" time="12:09:45">Emails and meetings are highly indicated.</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="390" ref="388" time="12:09:49">Seriously, this proves PolyCAFe can be used like any other chat</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="391" ref="0" time="12:09:50">there is another fat guy here (alex ) , but we're getting offtopic here</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="392" ref="391" time="12:10:19">The senior members tend to gain a few pounds :))</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="393" ref="384" time="12:10:20">Videoconference equipment.</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="394" ref="391" time="12:10:29">we don't accept it our our wave-wiki-blog club, he's not 2.0</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="395" ref="392" time="12:10:44">good point, it's a sign of prosperity</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="396" ref="0" time="12:11:03">Please stop off-topics.</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="397" ref="396" time="12:11:07">now I declare this board meeting adjourned ! and bid you all a good night!</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="398" ref="0" time="12:11:16">aye !</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="399" ref="0" time="12:11:23">It doesn't help on the purpose of this conversation.</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="400" ref="" time="12:11:30">Yes, it has been a great meeting ! Good night ! </Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="401" ref="400" time="12:11:40">Good Night</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="402" ref="0" time="12:11:46">ok,that about raps it</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="403" ref="0" time="12:11:47">I also ask someone to upload this to lftll, as I find myself too lazy to do it</Utterance>
+		</Turn>
+		<Turn nickname="Mr Freaky - wiki">
+			<Utterance genid="404" ref="0" time="12:12:11">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="405" ref="403" time="12:12:37">Ok. Does anybody know what to do exactly?</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="406" ref="405" time="12:13:25">not really, but we'll figure it out. shouldn't be too hard . if noone else wants to, i'll do it</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="407" ref="0" time="12:13:49">One member of each team should send an e-mail at traian.rebedea@cs.pub.ro to announce that their chat is over.</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="408" ref="0" time="12:13:57">Would you do this also?</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="409" ref="0" time="12:14:07">It doesn't say you must upload it.</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="410" ref="0" time="12:14:14">or ask Traian</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="411" ref="0" time="12:14:16">and send him the transcript, yes</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="412" ref="0" time="12:14:21">i will</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="413" ref="0" time="12:14:22">ok.</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="414" ref="0" time="12:14:37">good meeting, good night</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="415" ref="0" time="12:14:39">Good Night then</Utterance>
+		</Turn>
+		<Turn nickname="loredana-blog">
+			<Utterance genid="416" ref="0" time="12:14:42">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="cristi-forum">
+			<Utterance genid="417" ref="0" time="12:14:45">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="alex-chat">
+			<Utterance genid="418" ref="0" time="12:18:04">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="Michael-Wave">
+			<Utterance genid="419" ref="0" time="12:47:05">leaves the room</Utterance>
+		</Turn>
+	</Body>
+	<Annotation>
+		<Implicit_refs>
+		</Implicit_refs>
+	</Annotation>
+	<Collab_regions>
+		<Collab_regions_annotation>[32;39],[63;69],[91;101],[152;160],[169;178],[231;243],[282;297],[334;342],[348;360]</Collab_regions_annotation>
+		<Collab_regions_annotation>[87;103],[109;128],[65;80],[164;181],[217;230],[256;289],[297;316]</Collab_regions_annotation>
+		<Collab_regions_annotation>[89;121],[163;193],[206;228],[244;312]</Collab_regions_annotation>
+		<Collab_regions_annotation>[57;66],[89;98],[105;119],[163;168],[208;230],[238;253]</Collab_regions_annotation>
+		<Collab_regions_annotation>[19;29],[50;65],[69;77],[80;85],[98;146],[154;160],[165;169],[181;193],[231;246],[312;364]</Collab_regions_annotation>
+		<Collab_regions_annotation>[72;98],[109;118],[126;152],[171;194],[204;231],[246;289],[291;317]</Collab_regions_annotation>
+		<Collab_regions_annotation>[44;58],[68;77],[107;125],[136;141],[170;186],[254;276],[307;314]</Collab_regions_annotation>
+		<Collab_regions_annotation>[128;157],[236;249]</Collab_regions_annotation>
+		<Collab_regions_annotation>[110;125],[171;180],[203;230],[238;282],[300;318],[363;377]</Collab_regions_annotation>
+		<Collab_regions_annotation>[19;35],[56;69],[119;128],[138;154],[163;194]</Collab_regions_annotation>
+		<Collab_regions_annotation>[20;84],[87;122],[128;174],[179;361]</Collab_regions_annotation>
+		<Collab_regions_annotation>[14;231],[270;332]</Collab_regions_annotation>
+		<Collab_regions_annotation>[20;27],[36;84],[87;152],[163;202],[206;230],[240;318],[334;365],[366;370],[381;390],[391;396]</Collab_regions_annotation>
+		<Collab_regions_annotation>[62;69],[71;77],[155;158],[188;202],[206;215],[240;244],[258;276],[302;315]</Collab_regions_annotation>
+		<Collab_regions_annotation>[33;91],[42;65],[65;91],[109;135],[135;150],[151;189],[190;205],[267;289],[290;309],[330;369]</Collab_regions_annotation>
+		<Collab_regions_annotation>[20;85],[91;97],[196;230],[238;312]</Collab_regions_annotation>
+		<Collab_regions_annotation>[56;75],[135;162]</Collab_regions_annotation>
+		<Collab_regions_annotation>[7;38],[87;95],[189;231],[242;260],[269;280],[272;331],[350;415]</Collab_regions_annotation>
+		<Collab_regions_annotation>[89;203],[206;231],[240;296]</Collab_regions_annotation>
+		<Collab_regions_annotation>[36;90],[91;138],[142;200],[203;234],[238;317],[318;364]</Collab_regions_annotation>
+		<Collab_regions_annotation>[62;75],[98;128],[162;195],[203;220],[237;277],[288;326]</Collab_regions_annotation>
+		<Collab_regions_annotation>[36;61],[164;168],[203;211],[258;276],[283;290]</Collab_regions_annotation>
+		<Collab_regions_annotation>[38;92],[152;159],[164;167],[179;202],[240;276]</Collab_regions_annotation>
+		<Collab_regions_annotation>[16;50],[55;85],[90;160],[167;204],[210;250]</Collab_regions_annotation>
+		<Collab_regions_annotation>[13;81],[101;128],[146;171],[203;230],[288;325]</Collab_regions_annotation>
+		<Collab_regions_annotation>[64;70],[116;123],[163;168],[190;195],[243;253],[300;305]</Collab_regions_annotation>
+		<Collab_regions_annotation>[128;132],[181;195],[236;308]</Collab_regions_annotation>
+		<Collab_regions_annotation>[27;81],[101;128],[135;155],[165;195],[203;234],[235;308]</Collab_regions_annotation>
+		<Collab_regions_annotation>[27;128],[134;158],[164;195],[203;310]</Collab_regions_annotation>
+		<Collab_regions_annotation>[36;46],[91;95],[109;276],[312;317]</Collab_regions_annotation>
+		<Collab_regions_annotation>[14;38],[41;63],[72;97],[110;146],[163;192],[217;246],[348;374],[371;397]</Collab_regions_annotation>
+		<Collab_regions_annotation>[28;231],[234;317]</Collab_regions_annotation>
+		<Collab_regions_annotation>[102;132],[135;162],[288;307],[202;219]</Collab_regions_annotation>
+		<Collab_regions_annotation>[65;68],[87;104],[111;122],[152;176]</Collab_regions_annotation>
+		<Collab_regions_annotation>[54;90],[101;140],[174;195],[208;228],[288;328],[363;397]</Collab_regions_annotation>
+		<Collab_regions_annotation>[33;58],[100;152],[175;260],[290;417]</Collab_regions_annotation>
+		<Collab_regions_annotation>[13;413]</Collab_regions_annotation>
+	</Collab_regions>
+</Dialog>

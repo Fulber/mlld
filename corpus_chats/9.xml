@@ -1,0 +1,653 @@
+<Dialog team="34">
+	<Participants/>
+	<Topics/>
+	<Body>
+		<Turn nickname="marian">
+			<Utterance genid="1" time="09.23.47" ref="0">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="2" time="09.29.01" ref="0">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="marian">
+			<Utterance genid="3" time="09.33.42" ref="0">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="4" time="09.43.13" ref="0">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="5" time="12.13.02" ref="0">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="6" time="12.13.18" ref="0">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="7" time="12.13.26" ref="0">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="marian">
+			<Utterance genid="8" time="12.13.35" ref="0">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="9" time="12.14.04" ref="0">hi guys</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="10" time="12.14.18" ref="0">hello everybody</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="11" time="12.14.29" ref="0">hi everybody</Utterance>
+		</Turn>
+		<Turn nickname="marian">
+			<Utterance genid="12" time="12.14.38" ref="0">hello</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="13" time="12.14.53" ref="0">so what is out topic today boys?</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="14" time="12.15.03" ref="0">collaborative learning right?</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="15" time="12.15.12" ref="0">yes</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="16" time="12.15.23" ref="0">so...which are the actors...</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="17" time="12.15.32" ref="0">may i be chat?:P</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="18" time="12.15.39" ref="0">i like chatting</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="19" time="12.15.45" ref="0">:D</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="20" time="12.15.51" ref="0">you?</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="21" time="12.16.01" ref="0">i`ll be wiki</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="22" time="12.16.07" ref="0">hi wiki</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="23" time="12.16.38" ref="0">my name is Cristian Gheorghiu from FILS and i"ll be talking about blog</Utterance>
+		</Turn>
+		<Turn nickname="marian">
+			<Utterance genid="24" time="12.17.02" ref="0">i'm marian cristian and i'll be forum</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="25" time="12.17.11" ref="0">hey there</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="26" time="12.17.17" ref="0">who wants to begin?</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="27" time="12.17.26" ref="0">I'll go first</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="28" time="12.17.32" ref="0">So, my topic is blogging</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="29" time="12.17.42" ref="0">Blogs, short for Web logs, are online writings that often invite reader comment and criticism</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="30" time="12.17.52" ref="0">Postings usually appear in reverse chronological order,</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="31" time="12.18.09" ref="0">contain links to other Web sites and are marked by an informal, personal style.</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="32" time="12.18.24" ref="0">They are often unedited, which can give them a spontaneous,</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="33" time="12.18.34" ref="0">irreverent tone and occasionally create legal and ethical concerns.</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="34" time="12.18.43" ref="0">the blog also has a few advantages</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="35" time="12.18.49" ref="0">logs are easy to create</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="36" time="12.19.25" ref="35">blogs are easy to create</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="37" time="12.19.44" ref="0">You don't need expensive or complicated web editors</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="38" time="12.20.07" ref="0">Blog vendors offer you a variety of templates you can choose from</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="39" time="12.20.17" ref="0">Blogs are easy to maintain</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="40" time="12.20.31" ref="0">Blog software allows you to post online, which means that you won't need to bother with FTP software</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="41" time="12.20.43" ref="0">This also means that you can post anywhere, not just from your own computer</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="42" time="12.20.49" ref="0">Blogs are search-engine-friendly</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="43" time="12.21.06" ref="0">Since blogs assign each post an individual URL address</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="44" time="12.21.16" ref="0">each of them will have it's own, separate web page.</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="45" time="12.21.24" ref="0">Blogs allow you to interact with your customer base</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="46" time="12.21.37" ref="0">The best websites allow your customers to interact with you and give feedback</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="47" time="12.21.47" ref="0">Many great blog hosts are free</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="48" time="12.22.03" ref="0">There are several excellent services that offer blog hosting for free</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="49" time="12.22.17" ref="0">The most well known of them is Blogger, a free blog service owned by Google, on which I created my blog for the IE project</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="50" time="12.22.33" ref="0">and that's about it</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="51" time="12.23.00" ref="0">seems that blog offers lots of advantages doesn't it?</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="52" time="12.23.08" ref="0">yes it does</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="53" time="12.23.15" ref="0">i think that is the new fashion on the net</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="54" time="12.23.31" ref="0">well chat offers too</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="55" time="12.23.53" ref="53">why?</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="56" time="12.24.45" ref="53">Seems you are conviced that blogging is the internet future</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="57" time="12.25.11" ref="56">it is on of the future technologies most definiteley</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="58" time="12.25.21" ref="0">but there are others too</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="59" time="12.25.39" ref="0">let's look at chat for example</Utterance>
+		</Turn>
+		<Turn nickname="marian">
+			<Utterance genid="60" time="12.25.56" ref="0">but forums are also developping along nicely</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="61" time="12.26.22" ref="59">it's ideal for real-time communication isn't it?</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="62" time="12.27.36" ref="57">you can say that, but for now it's one of the most used technology in the world so yes, it's a future technology</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="63" time="12.28.06" ref="61">you can chat anytime, anywhere if u have a net connection</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="64" time="12.28.17" ref="0">and who dosen't ourdays?:P</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="65" time="12.28.42" ref="62">there are many famous people that have blogs, which i think is a very easy way to contact your favourite star :P</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="66" time="12.28.51" ref="0">like elena udrea for example</Utterance>
+		</Turn>
+		<Turn nickname="marian">
+			<Utterance genid="67" time="12.29.40" ref="57">there are a lot of groups out there constantly working on improving the technology behind the forum</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="68" time="12.29.53" ref="0">:))</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="69" time="12.30.05" ref="66">:))</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="70" time="12.30.16" ref="66">:))</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="71" time="12.30.31" ref="66">i heard about that</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="72" time="12.30.37" ref="0">or nastase</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="73" time="12.30.59" ref="0">he also has one</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="74" time="12.31.18" ref="0">I dont think blogs are really a new thing in the world;</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="75" time="12.31.25" ref="0">but wikis are</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="76" time="12.31.30" ref="0">:D</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="77" time="12.31.41" ref="75">tell us about wikis then</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="78" time="12.32.22" ref="0">A blog is more like a content, a source with one voice</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="79" time="12.32.53" ref="77">let's see what they bring new</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="80" time="12.34.07" ref="0">Wiki is a piece of server software that allows users to freely create and edit Web page content using any Web browser</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="81" time="12.34.18" ref="0">Wiki supports hyperlinks and has a simple text syntax</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="82" time="12.34.33" ref="0">for creating new pages and crosslinks between internal pages on the fly</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="83" time="12.35.07" ref="82">yup...wikis are cool i agree</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="84" time="12.35.19" ref="0">using wiki you can serch for a special terms that you want</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="85" time="12.35.27" ref="0">Wikipedia is the best example of a good wiki use</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="86" time="12.35.38" ref="84">but the information is always correct?</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="87" time="12.35.53" ref="84">how do we know it is correct?</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="88" time="12.36.21" ref="84">i heard that anybody can post on them</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="89" time="12.36.34" ref="88">me too</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="90" time="12.36.50" ref="88">maybe it is some kind of moderator</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="91" time="12.36.58" ref="0">for wikis too</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="92" time="12.37.16" ref="89">the old contetnt can be restored</Utterance>
+		</Turn>
+		<Turn nickname="marian">
+			<Utterance genid="93" time="12.38.07" ref="84">if anybody can post, there could be people who just like to do damage</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="94" time="12.38.26" ref="92">Wiki is designed to allow easy reversal of editorial mistakes</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="95" time="12.38.38" ref="94">yup..seems fair</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="96" time="12.38.51" ref="0">do forums or blogs offer these facilities ?</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="97" time="12.39.00" ref="0">one thing about wiki</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="98" time="12.39.15" ref="0">it is easy for many people to post on them</Utterance>
+		</Turn>
+		<Turn nickname="marian">
+			<Utterance genid="99" time="12.39.31" ref="96">you can also find good information on forums</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="100" time="12.40.22" ref="94">But if no one is keeping tab on the content it can get pretty confusing</Utterance>
+		</Turn>
+		<Turn nickname="marian">
+			<Utterance genid="101" time="12.40.34" ref="99">and you can also search for information on forums</Utterance>
+		</Turn>
+		<Turn nickname="marian">
+			<Utterance genid="102" time="12.40.42" ref="0">and anyone can post on forums</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="103" time="12.41.05" ref="102">in forums ,knowledge tends to be dispersed and somewhat lower in density</Utterance>
+		</Turn>
+		<Turn nickname="marian">
+			<Utterance genid="104" time="12.41.14" ref="103">i agree</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="105" time="12.41.24" ref="0">me too</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="106" time="12.41.40" ref="103">you have to read other post in that forum to get to the answer</Utterance>
+		</Turn>
+		<Turn nickname="marian">
+			<Utterance genid="107" time="12.42.00" ref="102">you don't find that much information in one place</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="108" time="12.42.10" ref="0">but you can have an quick answer to your specific problem</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="109" time="12.42.50" ref="100">and one more problem on the wiki, when you loose yourinternet connection you can't resume your work unless you have internet connection</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="110" time="12.43.21" ref="106">maybe on wiki you can't find the answer to your specific problem</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="111" time="12.43.29" ref="0">just general information regarding the subject</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="112" time="12.43.38" ref="111">it`s the same for all</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="113" time="12.43.47" ref="0">regarding the forum subject</Utterance>
+		</Turn>
+		<Turn nickname="marian">
+			<Utterance genid="114" time="12.44.13" ref="103">and unlike wiki which has more general information forums tend to be focused on a specific problem</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="115" time="12.44.30" ref="0">one advantage of the chat</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="116" time="12.44.45" ref="114">it is not the purpose of a wiki</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="117" time="12.45.06" ref="115">will be that you can receive instant feedback from your discussion counterpart</Utterance>
+		</Turn>
+		<Turn nickname="marian">
+			<Utterance genid="118" time="12.45.15" ref="117">that's true</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="119" time="12.45.27" ref="118">as opposed to forum..where yout answer will hopefully come</Utterance>
+		</Turn>
+		<Turn nickname="marian">
+			<Utterance genid="120" time="12.45.40" ref="119">but on wiki you can't ask questions about a certain matter</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="121" time="12.46.03" ref="117">but for chat, users have to be online at the same time.</Utterance>
+		</Turn>
+		<Turn nickname="marian">
+			<Utterance genid="122" time="12.46.10" ref="0">exactly</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="123" time="12.46.17" ref="0">yup...this is an disadvantage i agree</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="124" time="12.46.26" ref="0">or not..</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="125" time="12.46.34" ref="0">there are offlines ..don't they?</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="126" time="12.46.39" ref="0">:P</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="127" time="12.46.59" ref="121">but it can also be, a good thing because you rezolve your problem in real time</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="128" time="12.47.10" ref="120">you can create a page with your problem</Utterance>
+		</Turn>
+		<Turn nickname="marian">
+			<Utterance genid="129" time="12.47.33" ref="128">on forums you can post your question and when a user who knows the answer will be online you will receive an answer</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="130" time="12.47.47" ref="128">and wait for other content regarding that problem</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="131" time="12.48.20" ref="129">you have to read other post in that forum to get to the answer</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="132" time="12.48.26" ref="0">true</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="133" time="12.48.32" ref="0">yup</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="134" time="12.48.48" ref="129">how about the performance?</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="135" time="12.49.04" ref="134">Many wikis require just PHP, Perl, or some other common server-side scripting language</Utterance>
+		</Turn>
+		<Turn nickname="marian">
+			<Utterance genid="136" time="12.49.25" ref="134">Because members may miss replies in threads they are interested in, many modern forums offer an "e-mail notification" feature</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="137" time="12.49.36" ref="135">yes it's very easy to create</Utterance>
+		</Turn>
+		<Turn nickname="marian">
+			<Utterance genid="138" time="12.49.52" ref="136">so that members can choose to be notified of new posts in a thread</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="139" time="12.50.03" ref="137"/>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="140" time="12.50.26" ref="135">there are more than 100 wiki-engines available, so which one you choose depends on what you want.</Utterance>
+		</Turn>
+		<Turn nickname="marian">
+			<Utterance genid="141" time="12.50.44" ref="138">and RSS feeds that allow members to see a summary of the new posts</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="142" time="12.51.02" ref="137">unlike forums and chat which require a lot of knowledge in programming</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="143" time="12.51.13" ref="0">chat is very usefull too</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="144" time="12.51.20" ref="143">tell us about some advantages</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="145" time="12.51.31" ref="0">you have a problem...you have a person that may help you</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="146" time="12.51.44" ref="0">you IM the person in several minutes your problem may be solved..</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="147" time="12.51.52" ref="0">you don't have to make phone calls</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="148" time="12.51.58" ref="0">write long emails</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="149" time="12.52.03" ref="0">post on forums</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="150" time="12.52.15" ref="145">the problem is, that the person must be available :)</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="151" time="12.52.35" ref="145">can you save the conversation?</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="152" time="12.53.11" ref="0">yes you can, and it's there for you whenever you want it</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="153" time="12.53.31" ref="149">and pray that your question will be eventually anwered</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="154" time="12.53.40" ref="153">and your problem will disapear</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="155" time="12.53.57" ref="0">besides that it encourages spontaneous communication and it is cheaper and faster as other existing communication media.</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="156" time="12.54.09" ref="0">It can also make it easier to communicate with larger groups</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="157" time="12.55.22" ref="0">where will be having this conversation if the chat wouldn't exist?:P</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="158" time="12.56.02" ref="155">it's the easiest way to solve a problem indeed, but only if the person is available</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="159" time="12.56.13" ref="158">the availability is prerequisitive</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="160" time="12.56.19" ref="0">yup</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="161" time="12.56.25" ref="0">but who isn't online ourdays?:)</Utterance>
+		</Turn>
+		<Turn nickname="marian">
+			<Utterance genid="162" time="12.57.04" ref="156">yes but what about when you have a problem none of your friends know how to solve</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="163" time="12.57.17" ref="0">let's get serious</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="164" time="12.57.27" ref="162">maybe he has work to do</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="165" time="12.57.41" ref="162">you can use wiki ...</Utterance>
+		</Turn>
+		<Turn nickname="marian">
+			<Utterance genid="166" time="12.57.59" ref="162">with forums the number of people who can help you increases</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="167" time="12.58.17" ref="166">or forum...</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="168" time="12.58.24" ref="167">first wiki then forum..</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="169" time="12.58.36" ref="167">also on blog you can write an article</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="170" time="12.58.42" ref="0">and you can receive comments</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="171" time="12.58.47" ref="0">but...guys</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="172" time="12.58.55" ref="0">yes delia</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="173" time="12.59.01" ref="0">what if we find a way</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="174" time="12.59.07" ref="0">to use them all together...</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="175" time="12.59.23" ref="0">Imagine an application that allows you to write an article,</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="176" time="12.59.32" ref="0">like a wiki, but it allows you to post comments, as well.</Utterance>
+		</Turn>
+		<Turn nickname="marian">
+			<Utterance genid="177" time="12.59.38" ref="0">that would be a great idea</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="178" time="12.59.57" ref="176">what do you suggest?</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="179" time="13.00.04" ref="0">and we also need real time talking</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="180" time="13.00.10" ref="179">of course</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="181" time="13.00.22" ref="179">and some articles, like in a blog, can only be changed by the author</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="182" time="13.00.30" ref="0">this will be cool</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="183" time="13.00.42" ref="0">all technologies combined in one framework</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="184" time="13.00.57" ref="183">it could be a great idea an integrated environment</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="185" time="13.13.05" ref="183">we would revolutionize the web :P</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="186" time="13.13.13" ref="0">yup...i agree</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="187" time="13.13.19" ref="186">:)</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="188" time="13.13.38" ref="0">i can say, that all of them, blog, chat, forum and wiki have advantages and disadvantages</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="189" time="13.02.00" ref="0">but togheter i think that it will be a flawless system, or almost an flawless system</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="190" time="13.02.17" ref="183">the chat could also be integrated in the blog ,like in gmail</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="191" time="13.02.26" ref="0">yes</Utterance>
+		</Turn>
+		<Turn nickname="marian">
+			<Utterance genid="192" time="13.02.35" ref="190">that's a very interesting idea</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="193" time="13.02.45" ref="0">that's enough for tonight</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="194" time="13.02.51" ref="0">let's stop now</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="195" time="13.02.58" ref="0">It was a very nice chat, I enjoyed, we'll talk later</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="196" time="13.03.04" ref="0">goodbye everybody</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="197" time="13.03.12" ref="0">bye bye</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="198" time="13.03.19" ref="0">bye guys</Utterance>
+		</Turn>
+		<Turn nickname="marian">
+			<Utterance genid="199" time="13.03.26" ref="0">bye</Utterance>
+		</Turn>
+		<Turn nickname="marian">
+			<Utterance genid="200" time="13.03.28" ref="0">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="delia">
+			<Utterance genid="201" time="13.03.33" ref="0">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="cristian">
+			<Utterance genid="202" time="13.03.33" ref="0">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="madalin">
+			<Utterance genid="203" time="13.03.33" ref="0">leaves the room</Utterance>
+		</Turn>
+	</Body>
+	<Collab_regions>
+		<Collab_regions_annotation>[99;158],[121;168]</Collab_regions_annotation>
+		<Collab_regions_annotation>[70;75],[122;125],[191;212]</Collab_regions_annotation>
+		<Collab_regions_annotation>[51;67],[87;130]</Collab_regions_annotation>
+		<Collab_regions_annotation>[51;64],[102;141],[142;166],[171;191]</Collab_regions_annotation>
+		<Collab_regions_annotation>[51;67],[96;133],[157;170],[173;192]</Collab_regions_annotation>
+		<Collab_regions_annotation>[51;77],[87;112],[132;164],[173;190]</Collab_regions_annotation>
+		<Collab_regions_annotation>[51;66],[81;94],[96;111],[116;122],[134;142]</Collab_regions_annotation>
+		<Collab_regions_annotation>[72;97],[107;127],[134;150]</Collab_regions_annotation>
+		<Collab_regions_annotation>[29;52],[79;112],[125;167]</Collab_regions_annotation>
+		<Collab_regions_annotation>[56;65],[86;95],[97;108],[110;123],[173;190]</Collab_regions_annotation>
+		<Collab_regions_annotation>[13;27],[50;144],[171;192]</Collab_regions_annotation>
+		<Collab_regions_annotation>[16;24],[25;27],[50;67],[74;79],[96;133],[134;143],[158;170],[171;186]</Collab_regions_annotation>
+		<Collab_regions_annotation>[27;48],[77;100],[143;160]</Collab_regions_annotation>
+		<Collab_regions_annotation>[16;24],[51;79],[86;122],[171;199]</Collab_regions_annotation>
+		<Collab_regions_annotation>[113;131],[150;170]</Collab_regions_annotation>
+		<Collab_regions_annotation>[52;76],[77;95],[96;114],[115;133],[134;170],[171;192]</Collab_regions_annotation>
+		<Collab_regions_annotation>[13;15],[54;66],[92;103],[106;121],[127;142],[157;190]</Collab_regions_annotation>
+		<Collab_regions_annotation>[16;24],[9;15],[80;94],[97;111],[115;122],[128;131],[134;142],[175;184],[172;199]</Collab_regions_annotation>
+		<Collab_regions_annotation>[77;114],[115;122],[134;162]</Collab_regions_annotation>
+		<Collab_regions_annotation>[51;64],[80;191]</Collab_regions_annotation>
+		<Collab_regions_annotation>[99;121],[158;168]</Collab_regions_annotation>
+		<Collab_regions_annotation>[29;49],[103;120],[134;160]</Collab_regions_annotation>
+		<Collab_regions_annotation>[29;49],[80;94],[144;162]</Collab_regions_annotation>
+		<Collab_regions_annotation>[51;57],[77;95],[97;105],[109;118],[127;131],[135;158],[164;184]</Collab_regions_annotation>
+		<Collab_regions_annotation>[50;67],[70;180]</Collab_regions_annotation>
+		<Collab_regions_annotation>[80;95],[176;193],[121;143]</Collab_regions_annotation>
+		<Collab_regions_annotation>[51;73],[81;94],[96;112],[134;170],[173;192]</Collab_regions_annotation>
+		<Collab_regions_annotation>[9;24],[74;133],[165;192]</Collab_regions_annotation>
+		<Collab_regions_annotation>[13;24],[27;57],[59;64],[65;74],[77;98],[101;170],[173;192]</Collab_regions_annotation>
+		<Collab_regions_annotation>[51;76],[86;142],[162;192]</Collab_regions_annotation>
+		<Collab_regions_annotation>[86;121]</Collab_regions_annotation>
+		<Collab_regions_annotation>[27;50],[59;66],[79;84],[85;92],[93;108],[109;115],[119;127],[129;131],[135;154],[155;190]</Collab_regions_annotation>
+		<Collab_regions_annotation>[51;63],[74;80],[103;129]</Collab_regions_annotation>
+		<Collab_regions_annotation>[70;212]</Collab_regions_annotation>
+		<Collab_regions_annotation>[27;50]</Collab_regions_annotation>
+		<Collab_regions_annotation>[9;12],[13;27],[28;57],[58;75],[76;143],[144;172],[173;193],[194;199]</Collab_regions_annotation>
+	</Collab_regions>
+</Dialog>

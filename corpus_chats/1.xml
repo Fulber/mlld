@@ -1,0 +1,1100 @@
+<?xml version = "1.0" ?>
+<Dialog team="34">
+	<Participants>
+	<Person nickname="Mona-chat"/><Person nickname="stefan-blog"/><Person nickname="corina-forum"/><Person nickname="diana-wiki"/><Person nickname="cristi-wave"/></Participants>	<Topics/>
+	<Body>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="1" ref="0" time="11:43:05">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="2" ref="0" time="11:45:01">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="3" ref="0" time="11:45:06">Hello</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="4" ref="0" time="11:45:08">Hello, Corina!</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="5" ref="0" time="11:45:18">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="6" ref="0" time="11:45:23">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="7" ref="0" time="11:45:28">Hello, Diana!</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="8" ref="0" time="11:45:36">Hello, Cristi!</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="9" ref="0" time="11:45:37">Hello :)</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="10" ref="8" time="11:46:08">hello </Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="11" ref="0" time="11:46:32">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="12" ref="0" time="11:46:38">Hello</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="13" ref="12" time="11:46:45">Hello, Stefan!</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="14" ref="0" time="11:46:55">So.... everybody is here....</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="15" ref="0" time="11:47:33">First of all I think we should talk a little about the workflow of our converstion</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="16" ref="0" time="11:48:05">What kind of company are we?</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="17" ref="16" time="11:48:16">we are supposed to be in company , right ? </Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="18" ref="17" time="11:48:32">*a</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="19" ref="17" time="11:48:34">I think so</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="20" ref="16" time="11:48:59">I was thinking of something related to IT</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="21" ref="16" time="11:49:04">We have to implement a communication solution</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="22" ref="16" time="11:49:25">i don't think this is very important</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="23" ref="22" time="11:49:35">I agree</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="24" ref="21" time="11:49:45">So we don't need a company...</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="25" ref="0" time="11:49:49">maybe it should be in general</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="26" ref="25" time="11:49:56">ok.... so we are just a company....</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="27" ref="26" time="11:50:30">and we have to decide which of the 5 concepts are better for us</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="28" ref="27" time="11:50:56">right</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="29" ref="27" time="11:50:58">Let's think od some activities... and then decide which technology is better</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="30" ref="0" time="11:51:12">As we previously disccoused i think a combination of them should be perfect</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="31" ref="30" time="11:51:31">ok...but let's think again</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="32" ref="30" time="11:51:39">we are a company now :)</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="33" ref="30" time="11:52:02">Of course... we will be using all of the 5 technologies.... but first we have to think of some activities...</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="34" ref="30" time="11:52:36">it depends...</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="35" ref="0" time="11:52:43">I think we should have a server which has soupport and logging for all kinds of concepts</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="36" ref="33" time="11:52:54">i think that is very important to be good at what we are doing so first we should be well informed</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="37" ref="33" time="11:53:10">yes...we should think of some activities ... like a board meeting where some of us can't be there ...what tech should I use  ? </Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="38" ref="0" time="11:53:19">for example if an employee has a great solution he should blog it</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="39" ref="37" time="11:53:46">i think chat is the best solution for a board meeting</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="40" ref="38" time="11:53:56">or if we are searching for a solution we should make a topic about it on the forum :P</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="41" ref="38" time="11:53:57">true or we can edit a page on wikipedia</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="42" ref="39" time="11:54:09">and if it  is a &quot;public&quot; one shoud be logged</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="43" ref="39" time="11:54:29">if it is important it should be private</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="44" ref="43" time="11:54:52">or visible to the board</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="45" ref="43" time="11:54:53">then the forum is the solution! some topics are private.</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="46" ref="45" time="11:55:27">Yes. But forum should be updated real time</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="47" ref="46" time="11:55:35">by it self</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="48" ref="46" time="11:55:45">and you think blog is the solution then?</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="49" ref="45" time="11:55:46">but you can't be sure that the solutions are correct because they are written by a single person</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="50" ref="39" time="11:55:57">wave has a presentation template where videochat is included ..with multiple features </Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="51" ref="45" time="11:56:04">i think forum is teh best solution for answering questions comming from our customers</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="52" ref="49" time="11:56:06">it's a forum you can reply...</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="53" ref="50" time="11:56:21">this sound really good for a board meeting </Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="54" ref="51" time="11:56:33">not if our customer require a fast response </Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="55" ref="50" time="11:56:48">i think a videochat isn't so good because you can't see previous statements</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="56" ref="55" time="11:57:05">but it is really important when someone is missing</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="57" ref="50" time="11:57:21">I think videochat is awesome for a meeting</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="58" ref="55" time="11:57:40">do you need previous statements?</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="59" ref="55" time="11:57:43">i don't think that there is something that can replace a videochat</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="60" ref="57" time="11:57:47">yes.... i am also for videochat</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="61" ref="60" time="11:58:27">it's the closest thing to a face-to-face meeting</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="62" ref="61" time="11:58:31">a videochat with possibility to draw in real time some charts for example ... here wave is very helpful </Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="63" ref="62" time="11:59:27">I agree..for meetings using wave it's the best solution</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="64" ref="63" time="11:59:43">and if you do not have a good internet connection, clasic chat chould also be a solution...</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="65" ref="64" time="12:00:11">agree...videochat requires some bandwidth </Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="66" ref="62" time="12:00:37">ok...but what about information, what do you think it is the most reliable source of information?</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="67" ref="0" time="12:00:39">chat is fast, simple to use and it does not require such a good internet connection</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="68" ref="62" time="12:00:42">if it is an inside network i don't think this should be a problem</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="69" ref="64" time="12:00:54">well depends on the type of the meeting... </Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="70" ref="68" time="12:01:05">what do you mean by inside network?</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="71" ref="0" time="12:01:17">in the same building?</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="72" ref="70" time="12:01:24">LAN</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="73" ref="72" time="12:01:29">nowadays a fast internet connection is everywhere :) </Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="74" ref="0" time="12:01:32">or VPN</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="75" ref="73" time="12:02:06">true.... internet connection is not really a problem nowadays...</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="76" ref="75" time="12:02:36">so we all agree that videochat is the best solution for a &quot;virtual&quot; meeting</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="77" ref="76" time="12:02:59">undoubtedly</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="78" ref="76" time="12:03:09">yes!</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="79" ref="76" time="12:03:25">so.... one activity solved....</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="80" ref="74" time="12:03:30">ok so for meetings we have video chat</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="81" ref="66" time="12:03:37">well last time we agreed that wiki is the most reliable source.... :)</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="82" ref="81" time="12:04:19">I think wiki would be perfect for project specification...</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="83" ref="82" time="12:04:40">or simply describing the workflow of an activity</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="84" ref="82" time="12:05:01">agree, it is written and edited by more than one person so you can have an objective opinion</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="85" ref="83" time="12:05:11">true .... wiki = how to </Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="86" ref="82" time="12:05:16">yes..well at the beginning of a project we must use wiki for research... </Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="87" ref="82" time="12:05:17">i don't think wiki is good for project specification unless it has restricted acces</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="88" ref="87" time="12:05:44">not if the project is a open source ;) </Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="89" ref="87" time="12:05:52">the document should be updated only by project managers</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="90" ref="88" time="12:05:57">one </Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="91" ref="90" time="12:06:22">one what?</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="92" ref="89" time="12:06:34">i don't think the project manager should be the only one to modify it</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="93" ref="91" time="12:06:42">it was the end for my sentence above :) </Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="94" ref="92" time="12:06:49">why?</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="95" ref="89" time="12:07:26">I agree...but the others can have an opinion..so they can use a forum to discuss, to make a poll ...</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="96" ref="94" time="12:08:10">every employee or group of employees could write  and describe their activities</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="97" ref="" time="12:08:20">is fixed. If the customer wnts something we can't say what he/se wants</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="98" ref="0" time="12:08:22">every employee could describe his/her activities... and this way averyone will know how the project is going</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="99" ref="98" time="12:08:54">yes and everyone could express their ideas about the project</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="100" ref="98" time="12:09:00">true..but the official document must be done by the project manager... </Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="101" ref="99" time="12:09:09">or come with suggestions</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="102" ref="100" time="12:09:23">that's why i think it should be a restricted wiki or a blog</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="103" ref="100" time="12:09:39">yes.... but such a wiki page would be a great starting point</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="104" ref="101" time="12:09:40">comments on blog</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="105" ref="100" time="12:09:41">of course but it is very important to have as many ideas as possib;e</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="106" ref="105" time="12:10:00">and i think forum is suitable for this kind of activivity</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="107" ref="102" time="12:10:01">i agree the acces to the wiki page should be restricted</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="108" ref="102" time="12:10:05">well blog can be used for history...and in the blog everyone can write what they are doing...</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="109" ref="105" time="12:10:13">for projects pecification i think a blog is enough</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="110" ref="109" time="12:10:23">posts and comments</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="111" ref="109" time="12:10:34">for small projects ..yes </Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="112" ref="105" time="12:11:15">speaking od ideas I was thinking of a web page that has also a chat system incorporated... and this way customers or petential customers could talk directly to our employees</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="113" ref="111" time="12:11:18">why not for big ones?</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="114" ref="109" time="12:11:22">but for a large one ... use cases , lots of pdf files ... probably wiki </Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="115" ref="114" time="12:11:46">for projects yes, for specification blogs</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="116" ref="115" time="12:12:28">and the blog should have a link to the wiki related to the project</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="117" ref="112" time="12:12:29">it is a good idea if an employee is online all the time</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="118" ref="112" time="12:12:46">sounds good, and after that we could save the answers and post them </Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="119" ref="112" time="12:13:00">otherwise they should use the forum</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="120" ref="118" time="12:13:15">so in case someone has the same problem they could solve it fastre</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="121" ref="113" time="12:16:01">don't forget that a project has contact with the client only in the begging and in the end</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="122" ref="121" time="12:16:37">not really we should offer assitance</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="123" ref="122" time="12:16:52">and training</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="124" ref="122" time="12:17:07">after the project is done</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="125" ref="121" time="12:17:36">well the client must know the progress of a project ,no? </Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="126" ref="124" time="12:17:47">and also during the project, in case some major dificulties</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="127" ref="126" time="12:18:14">i agree</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="128" ref="124" time="12:18:30">maybe a major change must be done so we must stay in touch with our clients during the whole project</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="129" ref="0" time="12:18:43">ok guys we are taking a small break now! keep your ideas please!</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="130" ref="127" time="12:18:46">yes...sometime the client wants to be in touch with all the stages </Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="131" ref="0" time="12:19:17">Mona is out because of her Internet connection! so let's wait for her!</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="132" ref="0" time="12:19:32">ok :)</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="133" ref="0" time="12:19:50">ok</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="134" ref="0" time="12:23:54">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="135" ref="0" time="12:24:17">Sorry, guys....</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="136" ref="0" time="12:24:32">no problem</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="137" ref="135" time="12:24:46">it's ok to continue this chat like this? or we should start another one?</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="138" ref="135" time="12:24:58">We were talking about reliable internet connections...</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="139" ref="0" time="12:25:05">i think we should wait until your first nickname automaticly disconnects</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="140" ref="0" time="12:25:14">5 min i think is enough</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="141" ref="139" time="12:25:36">I talked to Traian, and it's ok... I'll continue using this new nickname </Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="142" ref="140" time="12:25:39">I don`t think is going to happen :) </Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="143" ref="0" time="12:25:46">ok</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="144" ref="140" time="12:25:59">it is a bug in the program :p</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="145" ref="0" time="12:26:06">kill it:P</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="146" ref="141" time="12:26:14">ok! perfect</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="147" ref="144" time="12:26:21">yes...chat is sometimes unreliable </Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="148" ref="0" time="12:26:51">ok.... so what we were talking about before the connection issue?</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="149" ref="147" time="12:27:40">as long as it depends on an internet connection...</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="150" ref="148" time="12:27:40">meeting board </Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="151" ref="148" time="12:27:48">about different stages of a project... a client must know about them..so wiki is a good solution</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="152" ref="150" time="12:28:04">meeting?</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="153" ref="151" time="12:28:05">ok</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="154" ref="0" time="12:29:12">so we agree that wiki is a good solution when we want to present a product/the evolution of a project to a client ?</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="155" ref="0" time="12:29:21">what about selling our products..what technologies we should use for this?</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="156" ref="154" time="12:29:49">yes</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="157" ref="155" time="12:30:15">voice chat</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="158" ref="154" time="12:30:17">yes and we can alse use chats in order to stay in touch and offer help to our customers</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="159" ref="157" time="12:30:45">i meant something like advertising </Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="160" ref="159" time="12:30:54">spam :P</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="161" ref="0" time="12:30:56">guys..we stop here I think!</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="162" ref="0" time="12:31:03">keep your ideas! :P</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="163" ref="151" time="12:31:40">yes.... and I was also saying that a chat system that would allow us to talk directly to our clients would also be a good idea</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="164" ref="0" time="12:32:12">I think the connection is up and running again..</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="165" ref="164" time="12:32:28">perfect</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="166" ref="155" time="12:32:55">to sell our products blog is the best solution</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="167" ref="166" time="12:33:07">why</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="168" ref="0" time="12:33:09">?</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="169" ref="166" time="12:34:07">A blog would be a good way to advertise our products</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="170" ref="166" time="12:34:08">agree </Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="171" ref="167" time="12:35:09">because it has reviews</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="172" ref="0" time="12:35:15">and you can rate it</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="173" ref="167" time="12:35:19">well on a blog you can put questions about the product...and usually the blog is used in this kind of things</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="174" ref="173" time="12:36:07">but maybe a post on a forum would be also a good idea</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="175" ref="174" time="12:36:11">I saw a lot of blogs for selling stuff ... I agree</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="176" ref="173" time="12:36:23">A blog would also be usefull for describing our latest products, in order to convince the potential customers to buy</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="177" ref="176" time="12:36:50">and posting some images for example </Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="178" ref="174" time="12:37:22">the forum is used to find more about something...for promotion blog is the best solution in my opinion.</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="179" ref="176" time="12:37:26">and videos </Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="180" ref="174" time="12:37:32">A forum would be useful for offering solutions to some problems that our customers have</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="181" ref="180" time="12:38:35">I agree...also other people can offer solutions, not only us</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="182" ref="180" time="12:39:00">agree but i meant that maybe we can discover that someone has a problem and post it on a forum and we can post back to offer our product as solution</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="183" ref="181" time="12:39:09">and chat would also be great... as customers could have real-time feedback from the developpers of the products they are using</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="184" ref="180" time="12:39:10">or we can make a poll to find out what our customers will like to buy</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="185" ref="184" time="12:40:15">what about new customers? what should we use for attracting them?</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="186" ref="184" time="12:40:24">for selling the best solution is something like ebay  , but this is not our topic now </Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="187" ref="183" time="12:40:33">true ..but for using a chat the developpers must be online..so if they are not online....</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="188" ref="183" time="12:40:41">from time to time we could also organize chats with customers and employees and ask for new ideas....</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="189" ref="186" time="12:40:49">and in this case the best solution is a blog</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="190" ref="188" time="12:41:22">this is a great idea! </Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="191" ref="187" time="12:41:38">if we are trully caring about or customers we could have special employees just for this kind of activity</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="192" ref="185" time="12:41:50">well is also about promoting/selling our image...so blog is the best solution</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="193" ref="191" time="12:42:33">yes..but if they need more details? chat is ok for small problems</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="194" ref="193" time="12:43:14">good point </Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="195" ref="193" time="12:43:31">you can select some of the participants at the chat at have a real conversation with them</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="196" ref="193" time="12:44:44">if there is someone that can answer cutsomers' questionsm i don't tkink the complexity of the solution is an issue</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="197" ref="195" time="12:45:12">sometimes we need a bigger answer s a post on a forum is ok..on a chat we use small sentences</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="198" ref="196" time="12:45:21">a qualified person cand answer to all kinds of questions...</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="199" ref="195" time="12:45:32">at least a voice chat ... I have not  heard so far about selling something ,  just chatting  :)</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="200" ref="197" time="12:45:53">true... a forum could also be useful</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="201" ref="199" time="12:46:22">true a voice chat it would be awesome...so in this case using wave is the solution?</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="202" ref="200" time="12:46:32">and this way the solutions to all kinds of problems will be there for others to see as well</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="203" ref="201" time="12:46:55">I think so </Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="204" ref="203" time="12:47:13">voice chatting with our customers seems a liitle to much to me...</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="205" ref="204" time="12:47:21">i agree</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="206" ref="203" time="12:47:31">it is very usefull but it is demanding</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="207" ref="206" time="12:47:34">this means only one cutomer could receive help at a time</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="208" ref="205" time="12:47:38">i think we waste too much time</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="209" ref="204" time="12:47:40">but we can record the chat and put it on the blog :)</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="210" ref="209" time="12:48:12">in this case why not using a classical chat?without voice</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="211" ref="207" time="12:48:55">and we should have a lot of employees doing that</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="212" ref="209" time="12:49:02">true..... but maybe we can explain some problems better on the phone/with our voice :P</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="213" ref="210" time="12:49:06">classical chat offers the possibility of &quot;multitasking&quot; ... if I may call it like that</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="214" ref="213" time="12:49:42">exactly and even it is impersonal i consider it a good option</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="215" ref="213" time="12:49:46">One person can answer to more than one question at a time this way</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="216" ref="213" time="12:50:15">the problem is that we must save the chat and make a special archieve with all conversations ... </Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="217" ref="212" time="12:50:32">not really i think people tend to get confused when they are told something than they would read it</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="218" ref="216" time="12:50:52">so using the forum is better! a moderator can be online all the time</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="219" ref="216" time="12:50:53">why is this a problem?</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="220" ref="217" time="12:51:05">we can post it afterwards</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="221" ref="218" time="12:51:32">as I said before, forum is more efficient with solving problems</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="222" ref="218" time="12:51:38">yes, forum is a siutable option too</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="223" ref="220" time="12:51:42">yes but on a forum we can make special topics and they are saved automatically</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="224" ref="223" time="12:52:34">maybe some of customers feel uncomfortable to post their problems on forums thinking they maybe to simple</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="225" ref="223" time="12:52:35">yes ... in a forum topics are very well delimited .... it is very easy to read it </Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="226" ref="224" time="12:53:13">true.... there could be such customers.... and in this case the privacy of a chat is great!</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="227" ref="224" time="12:53:40">true..maybe they want more details idk..so chat is perfect for them</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="228" ref="224" time="12:53:49">the only wrong question is the  one not asked  :)</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="229" ref="226" time="12:53:58">agree, and we can post only parts of the converstaion without the nicknames</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="230" ref="228" time="12:54:21">lol..and on the Internet no one can see our face </Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="231" ref="228" time="12:54:39">nicely said but not everybody agrees on that unfortunately</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="232" ref="228" time="12:54:42">true.... but there are people that don't like forums and pefere the privacy of a chat conversation</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="233" ref="232" time="12:55:17">in forums members can send each one private messages</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="234" ref="230" time="12:55:19">indeed but they may recognize you after you nickname when you post later</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="235" ref="232" time="12:55:35">or they just need an answer right away and do not want to waste time searching for it on a forum</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="236" ref="234" time="12:55:47">a private one is the best solution :p</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="237" ref="233" time="12:55:52">but we need to make the disscutions public to everyone</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="238" ref="236" time="12:56:11">I think a chat room is suitable in this case </Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="239" ref="235" time="12:56:24">yes so a chat room is ok in this case</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="240" ref="0" time="12:57:02">customers are different... and their needs are different.... and this is why I think we should use both chat and forums</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="241" ref="240" time="12:58:00">After all, our customers' satisfaction is our priority and if some of them prefere chat, we should offer the possibility to use it... and if they are forum fans, we should also have a forum</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="242" ref="241" time="12:58:28">I agree... </Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="243" ref="241" time="12:59:14">yes but this  depends a lot on our buget </Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="244" ref="243" time="12:59:20">as we were saying in our previous chat, all the technologies we are sustaining are different and each one of them is great for a specific type of thing...</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="245" ref="243" time="12:59:47">well we can use free servers for a while</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="246" ref="243" time="01:00:05">i don't tink having a forum or a chat system would be so expensive</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="247" ref="245" time="01:00:25">i don't think this is a good ideea if we have private information</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="248" ref="247" time="01:00:28">let's say chat would be a little more time consuming..</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="249" ref="248" time="01:01:10">is about human resources I think </Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="250" ref="248" time="01:01:18">and we would have to pay more people to take care of that</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="251" ref="250" time="01:01:30">yes </Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="252" ref="250" time="01:01:49">unless we a have a bot with some AI ;) </Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="253" ref="250" time="01:01:53">but if having a special employee to take care of the chat is too much, all the other omployees could take turns in answering questions</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="254" ref="247" time="01:01:54">true.... or the developpers can take care of the chat</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="255" ref="250" time="01:01:57">and we should of course take care of their training</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="256" ref="255" time="01:02:26">it should be updated constantly in order to provide the best answer in little time</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="257" ref="255" time="01:02:28">I think no training is needed....</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="258" ref="254" time="01:03:04">having someone online all the time it's not a must... at least this is my opinion</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="259" ref="257" time="01:03:40">true..but none of the developers would want to answear some questions in a chat ... their job is to develop , not client support </Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="260" ref="258" time="01:03:48">but we should try to give answers as soon as possible</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="261" ref="258" time="01:04:06">yes! I also wanted to say they can take care also of the forum..after all they know the best answers at any question </Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="262" ref="259" time="01:04:13">so we should hire others for that</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="263" ref="260" time="01:05:04">yes... answers should be as quick as possible ... but I don't think all of them shoul be right away... </Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="264" ref="263" time="01:05:35">full time support means more money </Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="265" ref="264" time="01:05:54">more money spent?</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="266" ref="264" time="01:06:09">true </Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="267" ref="0" time="01:06:32">more money for the company ... this kind of support is more expensive </Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="268" ref="0" time="01:06:42">for the client I mean</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="269" ref="267" time="01:07:17">true! a satisfied client always come back</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="270" ref="268" time="01:07:19">I suggest making an experiment and trying both options: full time support and the second one</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="271" ref="268" time="01:07:20">but it also involves more money spent for the company</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="272" ref="270" time="01:08:14">If full time support turns out to bring us more profit, why not continue to use it?</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="273" ref="272" time="01:08:24">good idea</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="274" ref="272" time="01:08:36">depends on our  clients target market</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="275" ref="274" time="01:08:49">what do you mean?</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="276" ref="0" time="01:09:04">if it is a product that you change easely we should have full support</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="277" ref="274" time="01:09:30">we have to try to get to know our clients better and see which option is better ... both for them and for us</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="278" ref="277" time="01:10:23">after all, a satisfied customer means a step forward for our company</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="279" ref="0" time="01:11:22">Another important issue for our company is the communication between employees</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="280" ref="279" time="01:11:36">and I think chat would be great for that</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="281" ref="279" time="01:12:06">I agree..chat is ok but only when they are at work..in their free time they can use the forum</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="282" ref="280" time="01:12:28">i think it depends on what they are discussing</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="283" ref="280" time="01:12:34">and by communication I mean notifications, quick questions and answers, file sharing...</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="284" ref="0" time="01:12:42">about</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="285" ref="" time="01:13:03">can be done by wiki</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="286" ref="285" time="01:13:33">or a SVN... this would really be useful</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="287" ref="286" time="01:13:55">but this is not our concern right now...</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="288" ref="287" time="01:14:30">any sharing file system I think is ok ... if it is synchronized is better </Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="289" ref="286" time="01:14:51">true, it would be really usefull if they have to share source code</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="290" ref="289" time="01:15:09">totally agree</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="291" ref="" time="01:15:13">SVN is the best solution</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="292" ref="289" time="01:15:43">we can't share source code so easily</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="293" ref="291" time="01:15:47">but if we'd had to choose between the 5 i think chat is the best solution</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="294" ref="292" time="01:15:57">why not?</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="295" ref="294" time="01:16:11">it's inside of the company</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="296" ref="293" time="01:16:59">well it's something private... </Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="297" ref="0" time="01:17:37">but in big projects it's vital to share source code</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="298" ref="296" time="01:17:38">inside a company you have confidential agrrement</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="299" ref="298" time="01:18:13">ok then!</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="300" ref="297" time="01:18:34">the project is developed by many progammers and there is also a testing stage too</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="301" ref="298" time="01:18:56">yes...a  NDA </Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="302" ref="0" time="01:19:35">do we covered everything?</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="303" ref="0" time="01:19:51">i think so</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="304" ref="302" time="01:19:55">let's see....</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="305" ref="302" time="01:20:01">at leat most of it</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="306" ref="304" time="01:20:12">we talked about meetings</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="307" ref="306" time="01:20:23">advertising our products</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="308" ref="0" time="01:20:27">so for board meeting we should use wave because of the video chat</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="309" ref="307" time="01:20:43">offer support</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="310" ref="307" time="01:20:44">staying in touch with our clients</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="311" ref="307" time="01:20:50">yes! and for advertising the blog is the best solution</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="312" ref="311" time="01:21:01">I agree</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="313" ref="310" time="01:21:03">and communication in the company</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="314" ref="310" time="01:21:22">yes..forum and chat in this case</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="315" ref="314" time="01:22:03">and probably wave...if we include  brainstorming </Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="316" ref="311" time="01:22:09">another thing regarding blog... I think a blog could also be great for customers to &quot;see&quot; the atmosphere in the company</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="317" ref="0" time="01:22:12">we also discused about the page of the project where we can put different stages on..and in this case wiki it would be a good solution</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="318" ref="316" time="01:22:56">what do you mean?</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="319" ref="318" time="01:23:13">the image of the company is very important and the relations between employees are a great part of it</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="320" ref="319" time="01:24:34">I think they are more interested in the product ..just saying</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="321" ref="319" time="01:25:16">agree soemtimes a bad image can influence a company's sales a lot </Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="322" ref="320" time="01:25:39">true.... but relationships between employees are also important</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="323" ref="0" time="01:26:07">we could have an &quot;inside blog&quot;... available only for our employees</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="324" ref="323" time="01:26:57">it would be nice.... yeah for curious clients</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="325" ref="323" time="01:27:02">there they could share experiences, talk about team building activities.... there are also very important for a serius company</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="326" ref="325" time="01:27:17">they *</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="327" ref="325" time="01:27:59">true..so in this case we should use a blog</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="328" ref="0" time="01:28:09">did we miss something?</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="329" ref="328" time="01:28:20">i don't think so</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="330" ref="325" time="01:28:23">it's important to have a real team </Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="331" ref="329" time="01:28:38">i think most of the activities are covered</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="332" ref="331" time="01:29:39">so... this is it...</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="333" ref="331" time="01:29:43">yes, we talked about most of them and even if we did not reach a conclusion every time we did a really good job</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="334" ref="333" time="01:30:16">we must use all the technologies in order to be a succesfull company</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="335" ref="334" time="01:30:42">true and we also need to find the perfect balance between them</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="336" ref="335" time="01:30:46">and most importnat of all, me must know when to use each of them</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="337" ref="334" time="01:31:04">true! So once again we have the same conclusion!</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="338" ref="337" time="01:31:17">yes!</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="339" ref="0" time="01:31:54">So, good job, team! ;) It was really nice talking to you</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="340" ref="0" time="01:32:07">okay then! we stop here for tonight! nice chat! :)</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="341" ref="0" time="01:32:25">good night all!</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="342" ref="0" time="01:32:27">good night to everyone </Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="343" ref="0" time="01:32:28">ok...good night then :)</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="344" ref="342" time="01:32:32">good night</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="345" ref="0" time="01:32:44">good night!</Utterance>
+		</Turn>
+		<Turn nickname="Mona-chat">
+			<Utterance genid="346" ref="0" time="01:32:51">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="diana-wiki">
+			<Utterance genid="347" ref="0" time="01:32:56">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="cristi-wave">
+			<Utterance genid="348" ref="0" time="01:32:59">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="stefan-blog">
+			<Utterance genid="349" ref="0" time="01:33:33">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="corina-forum">
+			<Utterance genid="350" ref="0" time="01:33:36">leaves the room</Utterance>
+		</Turn>
+	</Body>
+	<Annotation>
+		<Implicit_refs>
+		</Implicit_refs>
+	</Annotation>
+	<Collab_regions>
+		<Collab_regions_annotation>[37;45],[81;86],[95;109],[114;120],[169;183],[197;203],[211;230],[316;327]</Collab_regions_annotation>
+		<Collab_regions_annotation>[38;78],[81;89],[91;130],[160;240],[261;300]</Collab_regions_annotation>
+		<Collab_regions_annotation>[38;65],[82;111],[166;183],[184;218],[245;272],[288;297],[316;325]</Collab_regions_annotation>
+		<Collab_regions_annotation>[191;226],[304;337],[16;44],[105;128],[81;87],[50;65]</Collab_regions_annotation>
+		<Collab_regions_annotation>[50;65],[70;78],[87;111],[169;184],[185;239],[246;314]</Collab_regions_annotation>
+		<Collab_regions_annotation>[37;64],[82;108],[169;240],[282;299]</Collab_regions_annotation>
+		<Collab_regions_annotation>[50;65],[121;130],[155;179],[201;217],[221;242],[264;287]</Collab_regions_annotation>
+		<Collab_regions_annotation>[35;78],[86;128],[224;300]</Collab_regions_annotation>
+		<Collab_regions_annotation>[15;26],[33;128],[148;159],[166;325]</Collab_regions_annotation>
+		<Collab_regions_annotation>[37;63],[82;103],[109;120],[121;130],[166;184],[185;227],[233;241],[243;263],[279;298],[316;327]</Collab_regions_annotation>
+		<Collab_regions_annotation>[18;79],[81;132],[147;206],[209;301]</Collab_regions_annotation>
+		<Collab_regions_annotation>[17;38],[39;76],[80;130],[155;331]</Collab_regions_annotation>
+		<Collab_regions_annotation>[76;80],[166;180],[204;207],[221;228],[238;242],[248;256],[263;273],[302;316],[329;339]</Collab_regions_annotation>
+		<Collab_regions_annotation>[56;101],[266;349]</Collab_regions_annotation>
+		<Collab_regions_annotation>[37;75],[82;111],[166;179],[180;240],[249;278],[279;300],[316;327]</Collab_regions_annotation>
+		<Collab_regions_annotation>[15;65],[82;128],[176;249],[270;301]</Collab_regions_annotation>
+		<Collab_regions_annotation>[37;79],[95;110],[112;123],[137;142],[173;195],[210;230],[274;283],[313;327]</Collab_regions_annotation>
+		<Collab_regions_annotation>[37;78],[117;130],[210;250],[280;331]</Collab_regions_annotation>
+		<Collab_regions_annotation>[48;69],[102;123],[173;194],[195;218],[223;283],[313;325]</Collab_regions_annotation>
+		<Collab_regions_annotation>[37;78],[95;127],[155;159],[169;300]</Collab_regions_annotation>
+		<Collab_regions_annotation>[38;76],[81;128],[166;278],[279;300]</Collab_regions_annotation>
+		<Collab_regions_annotation>[37;76],[81;128],[176;290]</Collab_regions_annotation>
+		<Collab_regions_annotation>[38;67],[75;88],[98;130],[173;216],[244;256],[306;325]</Collab_regions_annotation>
+		<Collab_regions_annotation>[33;63],[98;119],[166;173],[231;261],[264;278]</Collab_regions_annotation>
+		<Collab_regions_annotation>[27;45],[50;66],[76;128],[163;301]</Collab_regions_annotation>
+		<Collab_regions_annotation>[15;34],[50;76],[81;128],[155;159],[166;281],[302;327]</Collab_regions_annotation>
+		<Collab_regions_annotation>[16;24],[37;79],[82;128],[155;184],[185;271],[272;301],[302;339]</Collab_regions_annotation>
+		<Collab_regions_annotation>[21;46],[51;75],[82;131],[155;220],[255;293]</Collab_regions_annotation>
+		<Collab_regions_annotation>[21;65],[112;128],[155;162],[167;218],[251;266],[270;312],[317;339]</Collab_regions_annotation>
+		<Collab_regions_annotation>[21;80],[81;128],[148;194],[199;239],[240;278],[279;336]</Collab_regions_annotation>
+		<Collab_regions_annotation>[45;76],[81;130],[148;161],[166;301],[302;317],[319;338]</Collab_regions_annotation>
+		<Collab_regions_annotation>[18;28],[37;66],[81;106],[105;131],[150;283],[300;338]</Collab_regions_annotation>
+		<Collab_regions_annotation>[27;132],[170;345]</Collab_regions_annotation>
+		<Collab_regions_annotation>[34;128],[148;332]</Collab_regions_annotation>
+		<Collab_regions_annotation>[17;31],[48;66],[84;101],[166;187],[221;269],[280;301]</Collab_regions_annotation>
+		<Collab_regions_annotation>[38;94],[117;154],[180;260]</Collab_regions_annotation>
+		<Collab_regions_annotation>[29;334]</Collab_regions_annotation>
+	</Collab_regions>
+</Dialog>

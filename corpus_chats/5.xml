@@ -1,0 +1,1336 @@
+<?xml version = "1.0" ?>
+<Dialog team="131">
+	<Participants>
+	<Person nickname="DaniilConstantin-wiki"/><Person nickname="Dragos_Diosteanu-wave"/><Person nickname="Andrei Stanciu - forum"/><Person nickname="Flavius Padina - blog"/><Person nickname="BobricIleana - chat"/></Participants>	<Topics/>
+		<Body>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="1" ref="0" time="11:49:06">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="2" ref="0" time="12:00:40">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="3" ref="0" time="12:04:40">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="4" ref="0" time="12:04:45">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="5" ref="0" time="12:05:02">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="6" ref="0" time="12:05:39">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="7" ref="0" time="12:07:31">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="8" ref="0" time="12:07:47">so, we are all here. welcome team</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="9" ref="0" time="12:08:04">Hello everyone!</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="10" ref="0" time="12:08:09">Hello!</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="11" ref="0" time="12:08:19">hello</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="12" ref="0" time="12:08:27">hey team</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="13" ref="0" time="12:08:49">are we all ready ?</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="14" ref="0" time="12:08:56">What do we have in schedule for today?</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="15" ref="0" time="12:09:22">I see that our company has been very successful this year, but in order to keep our position we have to use better technologies for everyday tasks and communication</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="16" ref="14" time="12:10:01">we'll have to establish the technologies we will use from now on, so, where do we start?</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="17" ref="0" time="12:10:04">fair enough</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="18" ref="0" time="12:10:28">there are many things we can consider: wikis, google wave, forums, blogs, chat and many more</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="19" ref="0" time="12:10:35">Let's begin with the description of our project</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="20" ref="19" time="12:11:39">well, our software company has produced many applications for mobile phones and other mobile devices. so far we have many satisfied customers and employees, but we need more</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="21" ref="0" time="12:12:18">ok, so basicly we need to add some ways for our emplyess to comunicate better, in order to increase our productivity</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="22" ref="21" time="12:12:30">exactly, one of the essential things we need is good collaboration between our staff members, and that includes everything from chit-chat to technical details</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="23" ref="20" time="12:12:32">Ok and in order to do this we need to use the best technologies.</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="24" ref="21" time="12:12:33">and to improve our customer service support</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="25" ref="24" time="12:13:05">You are all right</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="26" ref="25" time="12:13:29">I propose to start by talking about the chat</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="27" ref="26" time="12:13:44">i agree</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="28" ref="27" time="12:13:56">What can you say about this Ileana?</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="29" ref="26" time="12:14:07">ok. that is indeed essentail</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="30" ref="26" time="12:14:28">it is a good techonolgy to obtain a real time conversation between out employees, this way they could decide and colaborate together easier</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="31" ref="0" time="12:15:02">i think the chat application is essential actualy</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="32" ref="30" time="12:15:16">but it's hard to keep a history</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="33" ref="30" time="12:15:28">and due to the numerous chat programs, it shouldn't cost us anything to implement</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="34" ref="31" time="12:15:40">Yes you are right and we can use it for fast communication between our staff</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="35" ref="30" time="12:15:41">we could provide a chat with more rooms, including a global one for the entire company, and also more rooms for different departments</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="36" ref="0" time="12:15:52">but not the &quot;room&quot; type, we need an instant messaging app. used fo 1on1</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="37" ref="32" time="12:16:01">not necessarily, if we use a smart chat program that saves our logs and then we store them in a database</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="38" ref="36" time="12:16:14">we could have both</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="39" ref="37" time="12:16:36">I propose to use Skype for this. It is very profi :)</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="40" ref="38" time="12:16:45">the issues that need to be considered here are speed and security</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="41" ref="39" time="12:16:50">well.. i dont know about that dragos</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="42" ref="0" time="12:16:59">i mean, we should develop our own softwer</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="43" ref="37" time="12:17:01">yes, and the database could be accessed by member using theyr id and password. this way we provide security also</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="44" ref="0" time="12:17:07">that's my oppinion though</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="45" ref="42" time="12:17:28">I agree. that way we can have complete control of the application and upgrade it as we see fit</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="46" ref="42" time="12:17:40">I think it is not a good point because that takes a lot of time to develop and there are many tools to do this</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="47" ref="0" time="12:17:45">and we dont depend on other servers than our own</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="48" ref="44" time="12:17:48">i agree with andrei, we should implement only what we need for chat</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="49" ref="39" time="12:17:56">skype could be annoying if everybody starts talking in a department</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="50" ref="0" time="12:18:02">well, a lot of time or not, it is important to be in complete control</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="51" ref="0" time="12:18:24">the skype servers could fail at some point, or they could be experiencing lag issues</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="52" ref="0" time="12:18:42">we must not have to deal with that kind of problems</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="53" ref="50" time="12:18:51">since we have many talented engineers and programmers we can easily take what is good from other chat programs and add to our own</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="54" ref="52" time="12:18:58">I agree</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="55" ref="54" time="12:19:57">I agree to with this point of view, but time is also important for us</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="56" ref="55" time="12:20:18">Why not use something that is available</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="57" ref="55" time="12:20:29">We should give our employees privileges, and they will be able to make private / public chat rooms, invite others to chat, create conferences, use voice over IP, most things that a good chat program offers</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="58" ref="55" time="12:20:29">it is, indeed, but we could spare a little time to make a good product that would be specific for our needs</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="59" ref="0" time="12:20:32">like ?</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="60" ref="55" time="12:20:50">well, that may be, but in let's say, a year, we will wish we had spent a bit more time on a more reliable application</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="61" ref="55" time="12:21:30">what would you suggest we use that would offer all the advantages we need</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="62" ref="0" time="12:21:38">?</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="63" ref="59" time="12:21:42">Like any other chat programme: GTalk,Skype even messanger. They all have what you mentioned befonre</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="64" ref="63" time="12:22:27">and they are relaible too</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="65" ref="60" time="12:22:30">We do not want to invent the weel when someone allready done it</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="66" ref="63" time="12:22:33">we could also concern about their policy, a chat like that would not be totally private to us</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="67" ref="63" time="12:22:51">I don't think being dependant on other servers is such  a good idea. besides there are known flaws when it comes to security: for example how can you be truly invisible</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="68" ref="64" time="12:22:52">I agree with you. You will never see these servers down</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="69" ref="65" time="12:22:58">but we wouldn't reinvent it actually, but adapt it</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="70" ref="63" time="12:22:59">also, remember about privacy, if we develop our own chat, we can use it only in LAN, and then we can encript the  communication between LANs as we see fit</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="71" ref="70" time="12:23:13">privacy and information</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="72" ref="69" time="12:23:16">I totally agree with that suggestion</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="73" ref="0" time="12:23:18">security*</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="74" ref="68" time="12:23:33">and you have to admit yahoo and google accounts can be hacked in numerous ways</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="75" ref="68" time="12:23:53">you would be putting our clients' information at risk</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="76" ref="0" time="12:24:03">You cannot intercept for example Yahoo chat conversation I've tryed it and it doesn't work</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="77" ref="76" time="12:24:34">there are other better hackers out there :), and, like I said, an account can easily be hacked</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="78" ref="0" time="12:24:42">plus, it's better to make our chat because we can create our own specific rooms, rooms that aren't available in an application like skype</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="79" ref="69" time="12:24:45">we could implement other technologies that are more usefull then chat</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="80" ref="76" time="12:24:52">but yahoo can</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="81" ref="79" time="12:24:53">exactly</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="82" ref="79" time="12:25:09">What do you suggest Flavius?</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="83" ref="76" time="12:25:13">also think about other problems that come with public chat applications, like spamming flooding and such</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="84" ref="79" time="12:25:24">useful for what?</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="85" ref="0" time="12:25:49">and also, we should have complete control on who our emplyees are able to talk to</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="86" ref="84" time="12:25:53">for our company</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="87" ref="0" time="12:25:54">The best thing to do, considering our elaborate employee database, is to create a chat program implementing the most common technologies that would be used internally</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="88" ref="0" time="12:26:13">We can easily asses the costs and advantages and make a decision</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="89" ref="83" time="12:26:30">I agree with you on security, but on a chat you do not give top secret information.</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="90" ref="87" time="12:26:48">yes, and if we have time problems, we could offer a bonus for the employees that stay over time and implement that chat application</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="91" ref="89" time="12:26:54">We can use it to announce events, meetings, tasks etc</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="92" ref="0" time="12:26:56">well, top secret... is a bit.. dramatic, but there may be some sensitive data</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="93" ref="89" time="12:27:02">sometimes you do, that's why security is important</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="94" ref="89" time="12:27:25">if a chat program is well made, that will not be an issue. that's why we need to make our own program</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="95" ref="90" time="12:27:54">and there are many other ways to do that :)</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="96" ref="91" time="12:27:57">but employees could use it to colaborate on different projects etc, this would be bad if the source codes would be given to other companyes</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="97" ref="0" time="12:28:19">all in all, there are lots of downsides to public chatting apps. you have spam, flood, employees may get distracted easily, lower security,</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="98" ref="93" time="12:28:46">Ok if you want to use this application in this scope we can make an internal one, but I mentioned earlier we have to think about time. A good and stable application takes time and our clients do not want us to waste it</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="99" ref="96" time="12:29:04">that problem is common in our field, but we have smart security measures at the office that prevent employees from doing that</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="100" ref="98" time="12:29:16">like i said earlier, we could find a way to deal with time</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="101" ref="0" time="12:29:18">how else do you think we have stayed in business :)</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="102" ref="96" time="12:29:32">For this part I suggest something better like Goggle Wave or a SVN</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="103" ref="100" time="12:29:47">chat would be excellent for meeting, discussion and other such topics, but we need more. We have to admit that, since we use a lot of different technologies and even create our own programs, we need a good  way to keep them organized. a wiki is ideal for this</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="104" ref="0" time="12:30:00">or better yet, if time is a problem, we could simply buy such an app</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="105" ref="101" time="12:30:05">true, but if we would use a public application, like messenger, that would be a security breach</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="106" ref="102" time="12:30:12">project can be created with wave and the technology behind them can be documented in a wiki</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="107" ref="104" time="12:30:23">I agree with you on this. Good idea!</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="108" ref="105" time="12:30:31">that's why our own chat program is the best idea</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="109" ref="108" time="12:30:57">Let's go on what Andrei suggested</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="110" ref="0" time="12:31:01">ok, so do we all agree to make our own chat application?</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="111" ref="0" time="12:31:08">guess not :))</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="112" ref="109" time="12:31:34">we will assess the costs. it may be better if we develop it ourselves cause we will have complete control over the code</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="113" ref="0" time="12:31:56">then again, if time is truly a problem, we can buy on and update that</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="114" ref="112" time="12:32:15">that is not a problem, if we decide to buy software, there are lots of companies that specialise in creating custom apps, that meet specific requirements</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="115" ref="102" time="12:32:20">you mentioned wave for our projects</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="116" ref="113" time="12:32:29">and i don't think time would be such a big problem, because we don't have to develop a complicated application</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="117" ref="0" time="12:32:32">so we can get pretty much anything we need</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="118" ref="102" time="12:32:53">do you think it can offer us everything we need for our many different departments</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="119" ref="115" time="12:33:11">Yes Constantin. Because we talked about internal communication, now let's talk about sharing code, documents etc</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="120" ref="0" time="12:33:16">well, yes, because they work based on our specifications</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="121" ref="102" time="12:33:39">I think that a program like wave will give us an advantege because we can use it and olso sell it</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="122" ref="119" time="12:33:41">For thos we need an application like Google Wave that does all these things for us.</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="123" ref="119" time="12:34:04">but before we do that, let's establish what are we going to do with chat, are we going to buy it or develop it ourselves? i say we make it, who else does?</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="124" ref="122" time="12:34:24">there are many ways to do that. google wave is indeed good for code and document sharing, and with a good wiki behind it where all the raw technical general data will be documented, our employees will be well organized</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="125" ref="123" time="12:34:56">we could develop it ourselves, after all time is not such a big issue in this matter, our company worked well enough without a chat so far, it can go on for a bit longer without one</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="126" ref="124" time="12:35:13">Yes we can use both for Specifications, tasks, schedules etc</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="127" ref="123" time="12:35:13">We will assess the situation. If time is short we will buy an application and then upgrade  it when need arises. If we have time we will develop it ourselves</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="128" ref="127" time="12:35:40">fair enough</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="129" ref="125" time="12:35:45">I agree with you on this</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="130" ref="126" time="12:35:51">that is excellent for our needs. is there an upload limit, as in a limit to the information we can put on their servers?</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="131" ref="127" time="12:35:51">ok</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="132" ref="130" time="12:36:45">No, the guys at Google are very generous with this stuff and is practically no limit</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="133" ref="132" time="12:36:59">what about security problems?</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="134" ref="130" time="12:37:02">And I think that goes the same for wikis</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="135" ref="133" time="12:38:06">Every user has an account and you can make a wave public only to a part of them. We do not need the HR to know what the Dev Department is doing</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="136" ref="132" time="12:38:14">very well. and, is there a way to provide authentication for certain documents etc? some employees shouldn't be able to see all that's been shared</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="137" ref="0" time="12:38:24"></Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="138" ref="134" time="12:38:28">exactly. a wiki is perfect for our technical needs. also, they provide a good way to keep our information organized and give us excellent security, cause we can decide who can and can't see the different articles</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="139" ref="135" time="12:38:32">and that answers my question :P</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="140" ref="135" time="12:38:37">ok, what about real time?</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="141" ref="136" time="12:38:40">I'm guessing we use google accounts ?</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="142" ref="138" time="12:38:48">what exactly do you plan on using wikis for ?</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="143" ref="139" time="12:38:57">Yes</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="144" ref="0" time="12:39:14">i was thinking they could be usefull for sharing information with the public</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="145" ref="0" time="12:39:28">like maybe having tutorials, specification, and things like that published</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="146" ref="141" time="12:39:50">You are right. You can make one for every user and it is free</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="147" ref="144" time="12:39:50">this goes better on a blog</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="148" ref="142" time="12:39:50">could they be a way to share/ technical documentation for our employees?</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="149" ref="142" time="12:39:51">we use a lot of different technologies and even create some of our own. a wiki would be an excellent way to gather them all in one place. that way our employees will have a great online database to check whenever they have a problem</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="150" ref="147" time="12:40:05">i agree with you on this</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="151" ref="146" time="12:40:25">that is excellent. and I'm guessing, since Google made it, the interface is smartly made and our employees will adjust to it easily</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="152" ref="149" time="12:40:26">i think that would be a bit confusing... after all, we have the technical department for issues like that</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="153" ref="149" time="12:40:53">Ok let's make a review now.</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="154" ref="153" time="12:41:18">We will use waves for tasks, meetings, schedules etc</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="155" ref="152" time="12:41:21">it is rather pointless for our staff to keep going to the technical department for most issues that they could look up for themselves, if they had a wiki</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="156" ref="152" time="12:41:32">if an employee need to access some documentation on an earlier release of a product, he shouldn't have to go to the technical department to solve it</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="157" ref="154" time="12:41:37">can we also use it to plan our projects ?</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="158" ref="155" time="12:41:52">the documentation is available in the databases</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="159" ref="156" time="12:41:55">exactly</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="160" ref="155" time="12:41:57">I suggest a wiki is good for documentation and requirements of projects</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="161" ref="0" time="12:42:00">should he need et, he only has to open it</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="162" ref="0" time="12:42:16">i highly disagree</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="163" ref="158" time="12:42:20">not all of it. besides it is a lot easier to search a wiki then a database</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="164" ref="157" time="12:42:42">and also for technicals debates between employees</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="165" ref="157" time="12:42:57">Of course we can use it</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="166" ref="0" time="12:43:06">wikis, by deffinition, are made for public wide use</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="167" ref="162" time="12:43:20">all major companies have wikis for their technologies. most people like to search wikis cause they provide accurate and easy to access information. Also, that way our database servers won't be so used</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="168" ref="166" time="12:43:59">You are wrong here, Costa can tell us more</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="169" ref="167" time="12:44:00">yes, they have wikis that are publicly available, with public information, for the everyday user that takes an intrest in that company's products</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="170" ref="166" time="12:44:04">not necessarily. we can restrict access to certain articles. that way our wiki will have some sections for the general public who want to find out some details about our technologies (what we are willing to share, of course) and some just for our employees</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="171" ref="169" time="12:44:28">then we could have to types of wikis, public and private</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="172" ref="170" time="12:44:34">our employees need not read articles, they need a quick way to get to certain documents</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="173" ref="169" time="12:44:35">We can use a wweb site or a blog for doing that Andrei.</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="174" ref="169" time="12:44:42">besides there is no way that you can structure a database to make information easier to access that a wiki</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="175" ref="173" time="12:45:53">i agree with you and we also can post news or updates for our proucts</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="176" ref="170" time="12:46:21">A wiki is not good for our clients. We need something with richer content, more attractive....</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="177" ref="175" time="12:46:42">this way, we can interact with our customers, see what they think of our products, what they like and what they need</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="178" ref="169" time="12:46:43">We can include that information in a wiki too. but I agree with Dragos's suggestion. Besides, the main purpose of our wiki would be to include technical details </Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="179" ref="175" time="12:46:47">Can we customize a blog to make it look very nice ?</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="180" ref="175" time="12:47:08">That would be excellent. Having up to date information is the hallmark of a successful company</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="181" ref="178" time="12:47:39">Exactly, only tehnical information for our emplyees</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="182" ref="178" time="12:47:47">I think we should use wiki for us and a blog for customers </Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="183" ref="181" time="12:48:00">what kind of techincal information are you refering to ?</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="184" ref="176" time="12:48:07">A blog or web-site is idea for day to day clients, the wiki can be accessed for those who want to find out more technical information about our company. sort of like application developers for Iphone want to find out more information about IOS</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="185" ref="184" time="12:48:35">exactly !</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="186" ref="183" time="12:48:50">everything from the technologies we use to those we implement. products and components, software programs, you name it</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="187" ref="185" time="12:48:57">yup</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="188" ref="186" time="12:49:07">that is what i have been saying this whole time</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="189" ref="183" time="12:49:11">For example our projects need requirements that we receive from our clients. The developers need to have fast access to it as well as the QA to test if these requirements are implemented</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="190" ref="189" time="12:49:43">we can't we just handle those requirements directly to the employees working on that project ?</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="191" ref="189" time="12:49:51">That raises another problem. We need a way for the customers to contact us easily</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="192" ref="0" time="12:50:23">and one other thing, we will definetely need an internal mailing client</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="193" ref="190" time="12:50:28">but we also need to find out what customers need and want</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="194" ref="190" time="12:50:55">It is not a good point, because requirements change in time. There are added more or deleted. </Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="195" ref="193" time="12:50:58">a blog is friendly and a good interface for the public</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="196" ref="194" time="12:51:20">We can use a google wave to keep track of them. What do you say team?</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="197" ref="195" time="12:51:22">indeed. and so many people are used to them, it will be good for our clients</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="198" ref="0" time="12:51:56">by the way, our site will definetely need some king of forum</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="199" ref="196" time="12:52:09">That would be excellent. That way they wouldn't take up extra space on our servers. </Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="200" ref="198" time="12:52:19">best way to keep track of the clients needs / complains</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="201" ref="198" time="12:52:22">definitely</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="202" ref="195" time="12:52:38">That is what I suggested before</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="203" ref="198" time="12:52:51">a forum could be very usefull for our technical support team</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="204" ref="0" time="12:52:56">also, our technical support team will be able to offer quick solutions to any problem people might have</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="205" ref="199" time="12:53:10">Correct</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="206" ref="204" time="12:53:37">we could also make a forum for customers, one only for paying clients where we could solve their problems and one for the staff members</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="207" ref="204" time="12:54:12">and we could also include a chat for that, if a client has more complex problems, he could be able to talk to one of our support technicians for solving it</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="208" ref="0" time="12:54:13">i dont think it's so important to have one for staff members, since they will have the chat and mail to communicate to each other</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="209" ref="203" time="12:54:15">and many people find over 50% of the answers they seek on different forums</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="210" ref="206" time="12:54:20">Why should we use a forum for our stuff? We use a chat for that.</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="211" ref="208" time="12:54:24">that may be true</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="212" ref="206" time="12:54:29">we can have somebody to answer their problems 24/7</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="213" ref="207" time="12:54:51">i dont think its necesary, if they have more complex problems, we have custommer support service via phone</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="214" ref="212" time="12:54:52">indeed. that would indeed give the company a very good reputation</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="215" ref="212" time="12:55:35">Yes and we can use a forum for that. The problems will be very organized and if someone has the same problem he will just have to search for it</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="216" ref="213" time="12:55:36">but sometimes phone could be expensive, think of our customers from other countryes</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="217" ref="210" time="12:55:36">but i don't think a forum is needed for our staff</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="218" ref="213" time="12:55:47">but still, although answering problems by phone is good, having a support team ready 24/7 (with different people depending on the time interval of course) is a good idea</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="219" ref="217" time="12:56:04">after seeing your arguments I totally agree.</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="220" ref="218" time="12:56:14">yes, i just dont think a chat for this is highly needed</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="221" ref="0" time="12:56:33">most likely, a simple forum will do just fine</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="222" ref="220" time="12:56:44">if it's not highly needed, it sure looks good on us</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="223" ref="222" time="12:57:12">it's always good to give people more alternatives</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="224" ref="220" time="12:57:19">like Ileana said, it may be useful for customers from other countries. But still, a forum is a must. After all, that way problems that require some time to solve will never be forgotten; and the customer will know where to expect the answer</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="225" ref="221" time="12:57:25">and the information will be well structured for other use</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="226" ref="222" time="12:57:31">but think of another problem, what if it gets over-used, how many people will we need to stay chatting? think that we have milions of custommers</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="227" ref="224" time="12:57:55">also it would spare some people time and money, if they search for their problem instead of calling already</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="228" ref="226" time="12:58:38">Like I said, a forums is excellent for solving problems, cause that way a customer who has had a similar problems will find the result easily.</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="229" ref="227" time="12:58:56">we need something that can help our techincal support team answer as fast as they can, but a chat will require them to answer on the spot ! and if they are not available.. there goes our image down</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="230" ref="228" time="12:59:18">Yes that is what I have suggested. A chat 24/7 needs more stuff and more money</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="231" ref="0" time="12:59:20">its just an unnecesary risk</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="232" ref="" time="12:59:26">but having a chat option in which a limited number of customers could have live chats with our staff regarding technical problems isn't impossible</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="233" ref="230" time="12:59:27">precisely</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="234" ref="229" time="12:59:28">this is true</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="235" ref="226" time="12:59:31">we won't need that many, probably most of the solutions a slient needs can be found in the forum, but for some exceptions, the chat could provide the rest of the support</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="236" ref="230" time="12:59:39">quite</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="237" ref="232" time="12:59:50">a simple forum, a contact phone number, and an email will sufice i belive</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="238" ref="235" time="01:00:08">evreybody will ask on the chat because it will be easier</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="239" ref="237" time="01:00:19">all major companies have that and it is indeed sufice</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="240" ref="238" time="01:00:42">but there will be a waiting queue, of course, so many will prefer the forums</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="241" ref="237" time="01:00:44">Good point. I have never seen tech support on a chat.</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="242" ref="0" time="01:00:47">:)</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="243" ref="232" time="01:00:48">and we could also have a way to tell the clients how may technicians are available</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="244" ref="238" time="01:00:51">yea, people are so lazy, if they can do something to avoid searching on a forum, or waiting for a response on the mail.. they will do that</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="245" ref="237" time="01:01:02">it's way better with just forum and phone</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="246" ref="238" time="01:01:08">and cheaper than phone</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="247" ref="238" time="01:01:18">and of the wiki is smartly made, some of the more experienced users (not necessarily customers but developers) would also find information there</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="248" ref="247" time="01:01:29">fair enough</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="249" ref="245" time="01:01:35">but, it's also easier to look in forum before chat</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="250" ref="245" time="01:01:56">indeed, but just a contact email for business opportunities for example is ok</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="251" ref="247" time="01:02:12">Yes we can add a Q&amp;A section on the wiki.</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="252" ref="245" time="01:02:26">it could be like that policy on forums, if a topic is already open on this debate, nobody will answer... that works with chat too, if the problem has a solution on forum, nobody will answer in chat</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="253" ref="252" time="01:03:00">but still, you will need people to check the chat</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="254" ref="0" time="01:03:21">and im sure, there will be milions of requests to check</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="255" ref="252" time="01:03:25">Ileana do you agree that a chat is not a good idea?</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="256" ref="252" time="01:03:27">an excellent idea, and if a problem if very common we will just highlight a certain thread, or pin it as it is called</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="257" ref="253" time="01:03:51">well, our soft could do that for them, it could search the forum topics and see if the chat topic matches any of them</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="258" ref="254" time="01:03:56">maybe not millions, give our programmers more credit :)</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="259" ref="252" time="01:04:04">but the user will whait for the answer and will get mad whent he won't get it and we can lose this customer</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="260" ref="257" time="01:04:17">than it would be more like a search engine. and the forum will already have one</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="261" ref="255" time="01:04:20">ow well... since nobody wants it ... i won't insist anymore</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="262" ref="259" time="01:04:42">exactly</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="263" ref="257" time="01:04:43">Why use a chat topic? We can use a forum topic. In a forum other users can answer to similar problems and get answers</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="264" ref="260" time="01:05:08">I agree. a good search engine is the key to success, wheatear we are talking about a forums, blog, database, wiki or even web-site</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="265" ref="0" time="01:05:08">having a chat, is making a promise, that they will get a quick answer. and if we cant do that, it will look bad. better not to take the risk</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="266" ref="265" time="01:05:30">ok then, maybe discuss it in a future conference? :)</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="267" ref="265" time="01:06:34">that depends, if we have a queue and the customer will see the number of  people in front of him, he will estimate what to do</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="268" ref="266" time="01:06:56">we all agree that for the moment the forum is the best way to solve problemes</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="269" ref="268" time="01:07:22">Yes and all the arguments are in favour</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="270" ref="268" time="01:07:25">Yes, and a blog + web-site the best way to give customers up-to-date information</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="271" ref="0" time="01:07:28">i didn't say we shouldn't have a forum, i totally agree that is the basic solution for this</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="272" ref="0" time="01:07:51">i just think that if we already consider a chat for our employees, why not for our customers too?</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="273" ref="269" time="01:07:51">we will use wave and wiki for &quot;project management&quot; and technical details</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="274" ref="270" time="01:07:55">a google wave for internal meetings and tasks</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="275" ref="0" time="01:08:12">and we will have a chat program for our employees to use inside the company</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="276" ref="0" time="01:08:27">and also remember we will need an internal mailing client</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="277" ref="275" time="01:08:32">and a forum for technical support</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="278" ref="0" time="01:08:38">we could incorporate that in the chat application, or have an independent one</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="279" ref="0" time="01:08:53">but i suggest incorporating it with the chat, it makes for easier use i think</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="280" ref="0" time="01:08:58">But what about security policies. We need to establish clear policies about user accounts. Having a lot of applications will require a lot of accounts from each and every employee</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="281" ref="278" time="01:09:06">Outlook is a great tool for emails</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="282" ref="281" time="01:09:32">dragos, you have to agree that any self-respected company has their own internal mailing client</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="283" ref="281" time="01:09:37">Indeed and if we buy many licenses we will get an advantageous discount</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="284" ref="280" time="01:09:48">We can use the same user names+passwords for all of these applications.</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="285" ref="280" time="01:09:51">we should also have a way to control what emails can go out of the company</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="286" ref="285" time="01:10:11">thats why internal mail is good</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="287" ref="282" time="01:10:15">You are wronh here mail server not client</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="288" ref="285" time="01:10:18">we don't want important documents to be sold to the competition</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="289" ref="0" time="01:10:25">no company related information can be sent outside</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="290" ref="283" time="01:10:29">Correct</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="291" ref="289" time="01:10:40">ahh, ok</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="292" ref="284" time="01:10:41">On one hand that is a terrific idea cause our staff won't be overwhelmed with data to remember yet on the other hand having one password for all these accounts is a security risk</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="293" ref="292" time="01:11:15">not if we change it weekly or somting like that</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="294" ref="292" time="01:11:25">i don't think our smart and good employees will have problems remembering their passwords</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="295" ref="284" time="01:11:33">We should at least make it compulsory to change passwords every month or so</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="296" ref="293" time="01:11:36">yes, that is a great idea</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="297" ref="293" time="01:11:51">I was thinking at the same thing</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="298" ref="293" time="01:12:01">oh sorry. you took the words out of my mouth :D</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="299" ref="295" time="01:12:06">and also force them to use special characters and digits too</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="300" ref="293" time="01:12:08">great idea</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="301" ref="299" time="01:12:19">exactly</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="302" ref="294" time="01:12:26">Ileana the user is the weekest link in security</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="303" ref="302" time="01:12:39">haha, true</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="304" ref="302" time="01:13:08">true, but if they can't remember a password, they can find it by asking the tech guys</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="305" ref="302" time="01:13:16">that reminds me, we need administers for all the new technologies</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="306" ref="305" time="01:13:42">the network administrators can do that</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="307" ref="305" time="01:13:47">The IT department will take care of that</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="308" ref="0" time="01:13:55">we can use a person or a team of people to handle the wiki posts, forums posts, wave documents and all the other important stuff</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="309" ref="306" time="01:13:56">Yes</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="310" ref="0" time="01:14:51">the only problem that still remains is that we need someone to check wiki articles, blog and forums posts so that classified data does not accidentally reach a &quot;public&quot; area</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="311" ref="308" time="01:14:55">and another team for internel comuniction and security</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="312" ref="310" time="01:15:28">We can use filters for that firewalls. That can save some money</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="313" ref="312" time="01:15:49">saving money is always an excellent idea :)</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="314" ref="312" time="01:16:11">but how can you use a filter for a forum?</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="315" ref="310" time="01:16:20">well, mainly the tech dept. guys will do that, and i think we can count on them knowing what they are doing</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="316" ref="0" time="01:16:37">i dont think they will accidentaly post source codes :)</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="317" ref="314" time="01:16:59">We can add a database of private key words that do not have to go to the customers.</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="318" ref="314" time="01:17:17">besides reading the posts, we can have restricted key-words (we can check our database and forbid staff members from posting certain data)</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="319" ref="317" time="01:17:28">once again someone beat me to the punch :D</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="320" ref="319" time="01:17:38">:))</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="321" ref="317" time="01:17:46">that could prove a bit tricky, since it could get a bit to restrictive</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="322" ref="0" time="01:17:54">but i think it can be done</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="323" ref="321" time="01:18:04">It depends on the planning</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="324" ref="321" time="01:18:11">yes, and also, if someone sells us out, he goes to jail :P</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="325" ref="321" time="01:18:18">although this may seem a cliché, it is better to be restrictive then over permissive :D</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="326" ref="322" time="01:18:22">yes</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="327" ref="324" time="01:18:41">or worse, he will get fired :D</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="328" ref="327" time="01:18:51">:))</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="329" ref="325" time="01:19:04">Exactly</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="330" ref="0" time="01:19:05">Apart from the actual development and implementation of these technologies, I don't think much training will be in order</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="331" ref="0" time="01:19:38">I mean everyone of our employees knows how to use a wiki, forum blog and chat, and google wave has a extremely friendly interface</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="332" ref="330" time="01:19:52">we don't have to train that much our employees to develop these technologies</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="333" ref="330" time="01:19:57">evrybody can use a chat , forum , bog or something like that</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="334" ref="0" time="01:20:00">People all over the world edit wiki articles easily so that won't be a problem</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="335" ref="331" time="01:20:18">Yes and google wave has a video tutorial that can help our users. So it is a good starting point</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="336" ref="332" time="01:20:19">it could be harder for the chat application, but only for that</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="337" ref="332" time="01:20:34">all we have to do is instruct them on the structure and security policy of our applications</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="338" ref="335" time="01:20:56">that is excellenty</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="339" ref="337" time="01:20:57">i totally agree with you</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="340" ref="0" time="01:21:27">any other imporant technologies we should consider?</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="341" ref="340" time="01:21:56">We can also use a SVN for our code. What do you think of this?</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="342" ref="341" time="01:22:40">I have used it and was very pleased with it</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="343" ref="0" time="01:23:07">also, we can use numerous programs for crypting important data</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="344" ref="341" time="01:23:28">can you say a bit more about this idea?</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="345" ref="343" time="01:23:38">The SVN uses a local server </Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="346" ref="0" time="01:23:56">something else, i think, for security resons, we should restrict web access in certain deparments</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="347" ref="0" time="01:24:21">like per say, in the develpment areas</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="348" ref="344" time="01:24:48">A svn is an open-source revision control system. Users can work on a version of the application code and commit it. If two users are working on the same thing when they commit a merge is made with the 2 versions</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="349" ref="347" time="01:24:51">web access? all the access to internet? why?</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="350" ref="347" time="01:24:54">I agree. Every employee will have certain privileges depending of their job or department</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="351" ref="346" time="01:25:08">i don't agree because at certaine point everybody will need web for researche or somtething</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="352" ref="0" time="01:25:09">And we can have our own servers, such as an email and SVN</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="353" ref="0" time="01:25:10">else</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="354" ref="349" time="01:25:16">because we are talking about sensitive data that could cost us A LOT</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="355" ref="351" time="01:25:40">Maybe not certain employees but certain computers anyway</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="356" ref="0" time="01:25:54">how do you think piracy works? source codes get leacket</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="357" ref="354" time="01:25:57">I agree. People working on different projects don't need access to all of them.</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="358" ref="0" time="01:26:12">that's the last thing we need</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="359" ref="351" time="01:26:13">i agree with you on this, everybody needs access to different documentation, we can't provide everything for that</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="360" ref="357" time="01:26:18">you know what they say, the best protection against sharks is not going into the water at all</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="361" ref="0" time="01:27:07">I think we have analyzed the most useful technologies around, let's make a short review and that should cover it</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="362" ref="360" time="01:27:10">So you agree with me?</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="363" ref="362" time="01:27:18">i do</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="364" ref="348" time="01:27:24">i think a svn is a good idea, we should discuss it again in the future</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="365" ref="362" time="01:27:30">the development area should be completely sealed off</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="366" ref="0" time="01:27:44">and if somebody needs internet acces, they will have other terminals to use</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="367" ref="362" time="01:27:46">yup</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="368" ref="365" time="01:27:47">but what if they need to look up for something?</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="369" ref="364" time="01:27:55">Yes you are right</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="370" ref="0" time="01:27:59">other terminals, computers in the same room even</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="371" ref="366" time="01:28:14">i think it's way to restrictive</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="372" ref="0" time="01:28:19">but the computers used for development should be cut of from the outside world</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="373" ref="368" time="01:28:20">they will use another machine. the restrictions will be only for certain computers</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="374" ref="373" time="01:29:00">this is a better idea then &quot;sealing&quot; a departament</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="375" ref="361" time="01:29:29">Ok, so we will use chat and google wave for project and activity management</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="376" ref="373" time="01:29:29">this could make them loose time... </Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="377" ref="373" time="01:29:37">I agree with you, niot all departments interact</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="378" ref="" time="01:29:46">yup</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="379" ref="376" time="01:30:10">but if you all think this is the only way to provide the security we need, then i won't complain</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="380" ref="376" time="01:30:11">Can you give more details?</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="381" ref="376" time="01:30:24">that is a bit far-fetched, we are talking maybe about a few minutes lost a day</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="382" ref="381" time="01:30:32">quite</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="383" ref="380" time="01:30:52">well...shifting computers for small things</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="384" ref="383" time="01:31:21">You are right we should look at the big picture</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="385" ref="383" time="01:31:32">I agree that may be costly, but we will only restrict the access of certain computers</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="386" ref="383" time="01:31:33">they shouldn't need anything from the web, we provide anything they need</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="387" ref="381" time="01:31:50">for every function you don't remember in a programming language, you will have to move to other computer to find out... but it's ok ... it wouldn't be a big problem i guess</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="388" ref="383" time="01:31:52">not necesarly computers,you can change acounts</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="389" ref="388" time="01:32:02">even better. excellent idea</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="390" ref="0" time="01:32:19">on the same computer with different data and internet access</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="391" ref="387" time="01:32:23">we have pros, with years of experience, that shouldn't happen very often</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="392" ref="0" time="01:32:41">and i think it is worth, since it could save us A LOT of money</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="393" ref="391" time="01:32:44">that's true :)</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="394" ref="391" time="01:32:46">Ok let's sum up. </Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="395" ref="394" time="01:32:51">indeed</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="396" ref="394" time="01:33:10">I want everyone to say why their technology should be used</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="397" ref="394" time="01:33:25">so we will use wave and chat for internal affairs such as project management, activity planning and collaboration</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="398" ref="396" time="01:33:49">a wiki will be excellent for summing up the technolgoies / products we use or make</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="399" ref="396" time="01:34:36">well i think chat is important for our employees, it helps them talk and colaborate, spare time by not meeting in conferences that much, and be on track with all theit colleagues are doing</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="400" ref="396" time="01:35:04">A google wave is the best sollution for time and task management. Moreover it can be used for sharing docs, xls, presentations etc</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="401" ref="0" time="01:35:59">ok, and make sure we have a nice-looking site, with a good, well-organised forum, as a first line tech support</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="402" ref="0" time="01:36:26">we should use a blog for posting update and information about products, get opinion from customers and interect with them  </Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="403" ref="401" time="01:36:37">That is a must have. The way our clients &quot;see&quot; us is most important!</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="404" ref="401" time="01:36:50">Indeed. Our companies image will grow if we have a forum, a blog, a wiki and a cool web-site that customers or developers can use</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="405" ref="403" time="01:37:01">and that will also be the blog's function too</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="406" ref="403" time="01:37:06">I totally agree. Image is important</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="407" ref="404" time="01:37:13">in these thays, they are more  important than the actual products :)</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="408" ref="404" time="01:37:49">and we should use some plubicity for our products.the customers should know about them</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="409" ref="0" time="01:37:59">Ok guys and girls I think that covers all the points of our debate</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="410" ref="0" time="01:38:02">so, this was a very productive meeting, i think we settled enough for today :)</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="411" ref="408" time="01:38:06">that can be done in many way, no problem there :)</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="412" ref="410" time="01:38:09">indeed</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="413" ref="0" time="01:38:26">I foresee a very productive year for our company</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="414" ref="0" time="01:38:52">sure hope so</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="415" ref="414" time="01:39:12">Hope so too</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="416" ref="413" time="01:39:38">i'm sure all these will improve and help our company grow</Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="417" ref="0" time="01:39:55">Guess that wrap's everything up. Have a nice day team</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="418" ref="0" time="01:40:01">see you on the next meeting with new ideas </Utterance>
+		</Turn>
+		<Turn nickname="DaniilConstantin-wiki">
+			<Utterance genid="419" ref="0" time="01:40:19">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="420" ref="0" time="01:40:19">good night guys, this went quite well</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="421" ref="0" time="01:40:28"></Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="422" ref="418" time="01:40:31">Yes. Have a nice day too!</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="423" ref="0" time="01:40:42">good night everyone, and thank you for your collaboration:)</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="424" ref="0" time="01:40:46">good night</Utterance>
+		</Turn>
+		<Turn nickname="Andrei Stanciu - forum">
+			<Utterance genid="425" ref="0" time="01:40:54">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="Flavius Padina - blog">
+			<Utterance genid="426" ref="0" time="01:40:58">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="427" ref="423" time="01:41:02">Thank you too Ileana for your ideas</Utterance>
+		</Turn>
+		<Turn nickname="BobricIleana - chat">
+			<Utterance genid="428" ref="0" time="01:41:09">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="429" ref="0" time="01:41:11">Bye</Utterance>
+		</Turn>
+		<Turn nickname="Dragos_Diosteanu-wave">
+			<Utterance genid="430" ref="0" time="01:41:46">leaves the room</Utterance>
+		</Turn>
+	</Body>
+	<Annotation>
+		<Implicit_refs>
+		</Implicit_refs>
+	</Annotation>
+	<Collab_regions>
+		<Collab_regions_annotation>[29;107],[125;265],[341;374]</Collab_regions_annotation>
+		<Collab_regions_annotation>[57;70],[140;152],[170;184],[215;232]</Collab_regions_annotation>
+		<Collab_regions_annotation>[13;28],[29;58],[121;127],[224;234]</Collab_regions_annotation>
+		<Collab_regions_annotation>[28;54],[61;81],[118;152],[166;188],[190;212],[228;265],[268;309],[330;363],[365;388],[394;416]</Collab_regions_annotation>
+		<Collab_regions_annotation>[26;53],[60;78],[118;152],[163;214],[226;309],[330;363],[368;411]</Collab_regions_annotation>
+		<Collab_regions_annotation>[33;57],[68;92],[166;189],[210;246],[365;392]</Collab_regions_annotation>
+		<Collab_regions_annotation>[31;52],[96;139],[160;175],[210;248],[189;201],[268;290],[305;336]</Collab_regions_annotation>
+		<Collab_regions_annotation>[26;103],[121;139],[149;185],[204;247],[252;275],[278;340],[361;413]</Collab_regions_annotation>
+		<Collab_regions_annotation>[30;78],[87;99],[119;178],[189;232],[237;267],[280;299],[305;313],[317;325],[330;337],[340;357]</Collab_regions_annotation>
+		<Collab_regions_annotation>[14;24],[26;125],[135;176],[182;195],[203;266],[340;393]</Collab_regions_annotation>
+		<Collab_regions_annotation>[28;99],[100;140],[141;153],[154;178],[184;198],[199;270],[271;300],[308;339],[340;393],[394;404]</Collab_regions_annotation>
+		<Collab_regions_annotation>[51;173],[416;428]</Collab_regions_annotation>
+		<Collab_regions_annotation>[31;112],[124;189],[191;268],[280;299],[340;355]</Collab_regions_annotation>
+		<Collab_regions_annotation>[15;24],[30;109],[115;138],[155;178],[182;200],[203;218],[226;265],[280;295],[305;325],[341;392]</Collab_regions_annotation>
+		<Collab_regions_annotation>[14;23],[30;103],[124;136],[148;205],[206;268],[270;321],[348;409]</Collab_regions_annotation>
+		<Collab_regions_annotation>[26;63],[170;178],[189;225],[268;279],[340;408]</Collab_regions_annotation>
+		<Collab_regions_annotation>[26;128],[130;171],[176;190],[191;279],[280;304],[306;339],[349;398]</Collab_regions_annotation>
+		<Collab_regions_annotation>[21;97],[120;129],[149;184],[190;237],[252;271],[280;300],[330;362],[394;406]</Collab_regions_annotation>
+		<Collab_regions_annotation>[21;53],[70;78],[87;106],[123;149],[167;203],[218;232],[252;285],[318;359],[397;404]</Collab_regions_annotation>
+		<Collab_regions_annotation>[21;60],[70;90],[120;152],[123;150],[176;205],[218;252]</Collab_regions_annotation>
+		<Collab_regions_annotation>[25;48],[61;109],[115;151],[160;211],[229;265],[348;367]</Collab_regions_annotation>
+		<Collab_regions_annotation>[20;70],[123;170],[170;276],[310;329],[346;363]</Collab_regions_annotation>
+		<Collab_regions_annotation>[36;57],[133;152],[189;225]</Collab_regions_annotation>
+		<Collab_regions_annotation>[56;78],[94;104],[124;184],[210;393]</Collab_regions_annotation>
+		<Collab_regions_annotation>[26;39],[40;98],[124;184],[189;292],[304;318]</Collab_regions_annotation>
+		<Collab_regions_annotation>[28;98],[119;210]</Collab_regions_annotation>
+		<Collab_regions_annotation>[21;86],[119;152],[172;188],[204;266],[281;301],[310;329],[340;393]</Collab_regions_annotation>
+		<Collab_regions_annotation>[15;45],[57;89],[98;126],[136;188],[204;247],[265;300],[331;385],[399;412]</Collab_regions_annotation>
+		<Collab_regions_annotation>[14;25],[39;78],[124;151],[203;221],[330;369],[396;413]</Collab_regions_annotation>
+		<Collab_regions_annotation>[16;48],[61;73],[106;127],[133;152],[167;170],[187;210],[254;259],[280;287],[312;319],[340;359]</Collab_regions_annotation>
+		<Collab_regions_annotation>[23;416]</Collab_regions_annotation>
+		<Collab_regions_annotation>[8;14],[15;25],[26;121],[122;238],[239;268],[269;281],[282;330],[331;348],[349;418],[419;429]</Collab_regions_annotation>
+		<Collab_regions_annotation>[21;25],[30;37],[56;65],[79;86],[102;176],[182;197],[198;277],[280;329]</Collab_regions_annotation>
+	</Collab_regions>
+</Dialog>

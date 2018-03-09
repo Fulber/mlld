@@ -1,0 +1,970 @@
+<Dialog team="36">
+	<Participants/>
+	<Topics/>
+	<Body>
+		<Turn nickname="florin">
+			<Utterance genid="1" time="10.50.26" ref="0">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="2" time="10.50.35" ref="0">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="3" time="10.50.49" ref="0">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="4" time="10.51.00" ref="0">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="5" time="10.52.05" ref="0">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="6" time="10.52.06" ref="0">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="7" time="10.52.20" ref="0">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="8" time="10.55.10" ref="0">Hello</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="9" time="10.55.13" ref="0">Hello</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="10" time="10.55.15" ref="0">hello</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="11" time="10.55.17" ref="0">how's it going?</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="12" time="10.55.25" ref="0">hi, everyone...</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="13" time="10.55.25" ref="0">it's all good</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="14" time="10.55.27" ref="0">thank you</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="15" time="10.55.30" ref="0">how are you?</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="16" time="10.55.35" ref="0">well for now thank you</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="17" time="10.55.54" ref="15">all fine, thanks</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="18" time="10.56.02" ref="0">let us talk business now</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="19" time="10.56.33" ref="0">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="20" time="10.56.43" ref="0">did you know that wikis are the best way to publish information on the web?</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="21" time="10.56.45" ref="18">I am going to speak about chat conferences...</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="22" time="10.56.52" ref="0">let me introduce the business i represent : blogs</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="23" time="10.57.05" ref="0">I'm working for a big company that implements forum web sites</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="24" time="10.57.32" ref="23">They enable users of a website to interact with each other byexchanging tips and discussing hot topics related to a websites theme</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="25" time="10.58.17" ref="0">A blog is the portmanteau of a web log is a website where entries arewritten in chronological order and commonly displayed in reversechronological order.</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="26" time="10.58.17" ref="23">they are great for allowing anyone to *engage* the community with original posts of their own</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="27" time="10.58.20" ref="24">ok...but what if you need an instant response ?</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="28" time="10.58.31" ref="0">so , forums are complementary to some other form of web content</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="29" time="10.59.05" ref="24">forums cannot do that....chats , on the other hand, are especially build for that</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="30" time="10.59.06" ref="27">members can choose to be notified of new posts in a thread, and RSS feeds</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="31" time="10.59.35" ref="27">on a blog you can live a comment</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="32" time="10.59.40" ref="0"/>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="33" time="10.59.42" ref="30">that's not quite instant</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="34" time="10.59.52" ref="31">you can also do that on forums</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="35" time="11.00.49" ref="0">I see everyone is talking about communicating, but what you are missing is the fact that only chats do this in real time</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="36" time="11.00.50" ref="33">not so insatnt but you refer to a specific thing while in a chat everithing is messy</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="37" time="11.00.51" ref="33">yes, that may be true but with forums you can build tight and focused mini-communities</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="38" time="11.01.44" ref="37">I think that you can build communities even by using wikis</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="39" time="11.01.50" ref="36">in chats everythin can be messy, but the only thing really important is taht you get your answer very fast</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="40" time="11.01.58" ref="29">with forums on your website you can earn a lot of money</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="41" time="11.02.04" ref="37">the same thing with blogs you can build a community and be in contact one with each other all the time</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="42" time="11.02.11" ref="40">if the website is well advertised</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="43" time="11.03.41" ref="38">oyu are missing something ..the success of the Wikipedia may not necessarily be replicated elsewhere.</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="44" time="11.04.18" ref="38">and , most important, a collaborative Wiki may suffer from a lack of a strong vision or leadership.</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="45" time="11.04.37" ref="37"/>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="46" time="11.04.37" ref="0">themost important thing is to have a link to all other bogs , you canPingback and trackback allow one blog to notify another blog, creatinan inter-blog communication.</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="47" time="11.04.49" ref="0">butwhat about the type of the content published on a site? I think thatwikis are the best for delivering high-quality information to the users</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="48" time="11.05.15" ref="47">forums can also do that</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="49" time="11.05.19" ref="44">i think that wiki can be easly corupted by false information</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="50" time="11.05.45" ref="0">chats offer one extra thing : the user feels direct connection with the other members</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="51" time="11.05.46" ref="0">and also, forums have administrators whi can moderate the chat</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="52" time="11.05.49" ref="49">because everything is open ....editable...they have to be moderated</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="53" time="11.06.27" ref="48">yes, but wikis do it better, because they contain the opinions of thousands of users who are improving it</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="54" time="11.06.27" ref="0">Forumssave information posted on a particular topic for other people to seeat any time, this creates a discussion environment. Everything thatgets posted gets read again and again.</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="55" time="11.06.51" ref="0">Thefact that the discussion isn't real time means that it rarely turnsinto heated arguments as people are given time to research and considertheir comments before replying, this makes for mostly high-qualitydiscussion.</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="56" time="11.06.59" ref="0">chats also have one important extension : video chats .... and I think this is the best way to communicate</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="57" time="11.07.19" ref="49">wikis can be corrupted for a short time; if you implement a smart management system, good information never gets lost</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="58" time="11.07.34" ref="56">although, that's true, people have to be online to chat. With forums they don't have to be there simultaneously</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="59" time="11.08.17" ref="58">if you have a big community , you are bound to find someone online who can answer your question</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="60" time="11.08.28" ref="57">forinstance, take Wikipedia: they take a snapshot of every page for everyedit it gets; so, it is easily to revert back to any version of thewiki;</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="61" time="11.08.54" ref="60">yes, but this involves a tremendous amount of work</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="62" time="11.08.59" ref="52">yes, sure they have to be moderated; not every user is a well-intended user</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="63" time="11.09.16" ref="60">forums can have spams</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="64" time="11.09.36" ref="63">troll, multiple posts</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="65" time="11.09.43" ref="61">chats can't really be moderated, so people instead of studying could end up fighting</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="66" time="11.09.58" ref="64">that meens rong information</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="67" time="11.10.12" ref="65">that is their bussiness....you can't force someone to learn</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="68" time="11.10.48" ref="64">yes, but that's why there were created Captchas, e-mail authentication, and tripcodes -&gt; to prevent comment spam on them</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="69" time="11.11.02" ref="58">Nobody likes to post on an empty forum so you've to actively promote it and create lots of topics for discussion yourself. That's a lot of work</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="70" time="11.11.45" ref="61">sure,the resource cost is huge; but I think it is worth the cost forobtaining high-quality information; and remember - computer storagegets cheaper ! :)</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="71" time="11.11.54" ref="0">but if when you did managae to build an active community you end up profiting</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="72" time="11.11.57" ref="67">ithink that online chat can be a problem because of the acces and thatyou can easily lose contact with someone wile with blogs you can be inconntact all the time</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="73" time="11.12.55" ref="0">and blogs are easly to mantain, to create, are search engine frienly and costomer based</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="74" time="11.13.07" ref="70">ifyou a willing to spend a lot of time, that may be true for a small wiki, but when you a trying to develop an encyclopedia ....you haveabsolutely no chance</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="75" time="11.13.28" ref="74">Messages posted to a forum are publicly available for some time, which is uncommon in chat rooms, with only few exceptions.</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="76" time="11.13.34" ref="73">why are blogs search-engine friendly? I think wikis are more search-engine friendly! :P</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="77" time="11.14.01" ref="72">chats work as long as you have an internet connection....</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="78" time="11.14.11" ref="76">because you can use keywords</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="79" time="11.14.22" ref="74">never say never - what about Wikipedia ?!</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="80" time="11.14.45" ref="78">can you detail on that feature a bit?</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="81" time="11.15.15" ref="77">in terms of 'coding' your application, I bet yours is the hardest</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="82" time="11.15.29" ref="77">and only that could take up a lot of time</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="83" time="11.16.11" ref="81">it may be, but you're only going to do it once....and then use it like that for a very long time</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="84" time="11.16.19" ref="80">the blogs can be grouped by interest and all the articles can be full of keywors that are search engine friendly</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="85" time="11.16.39" ref="0">do not forghet that a blog is the best way to promote a site</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="86" time="11.16.56" ref="84">same with forums, and reading the posts looks easier</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="87" time="11.17.15" ref="84">ok, thanks for the info</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="88" time="11.17.20" ref="85">sorry , but the est way is a message to all your friends..using a CHAT</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="89" time="11.18.07" ref="88">butif you want to study, you have a lot of information on the forums,moreover, if you have questions people can take their time to answer you</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="90" time="11.18.08" ref="88">Forumsand chat are moderated that means no freedom but blogs can escape fromcensor easier. In China on a big community of blogers it was criticizedthe regime so it was forbidden that community but small bloggers couldstill continue on the topic.</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="91" time="11.18.29" ref="0">without taking the chance o answering quickly and incorrectly</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="92" time="11.18.59" ref="89">If you want to study a wiki is the best choice</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="93" time="11.19.52" ref="92">but it can be ineffective when there is a lack of consensus. You can end up with a lot of nonse...</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="94" time="11.19.55" ref="90">again, there comes the problem of people who write incorrect information (on purpose maybe)</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="95" time="11.20.24" ref="92">and you can't recieve help.</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="96" time="11.20.27" ref="90">chats are not moderated...</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="97" time="11.20.29" ref="92">you could do something like put the info on a wiki, and for questions redirect the users on a forum :D</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="98" time="11.20.54" ref="93">you only find out what you wanted to know or you don't......</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="99" time="11.21.06" ref="95">with chats ....help is always one short message away</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="100" time="11.21.34" ref="94">that's why wikis are better - the info comes from a "worldwide" consensus, because everyone can edit the content!</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="101" time="11.21.49" ref="99">maybe but i think that the information does not stay</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="102" time="11.22.15" ref="101">it is just for the moment you can not refer to it all the time you need</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="103" time="11.22.30" ref="93">as I said earlier...wikis can be ineffective when there is a lack of consensus.</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="104" time="11.23.31" ref="100">on the contrary, there is a</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="105" time="11.25.10" ref="103">how can you profit from the chat rooms?</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="106" time="11.25.10" ref="104">when using wikis,there may be copyright and other legal issues regarding collaborative content.</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="107" time="11.25.16" ref="104">ifyou don't like what the article says, just edit it; if your edit isconsidered "good", then it will stay; if not, the page will revert toits last state</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="108" time="11.25.18" ref="103">in terms of money</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="109" time="11.25.51" ref="105">oyu socialize, you can meet anyone in the world....and you cand find answer to any question in real time...</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="110" time="11.26.10" ref="106">this is true; but this is the price you pay when you embrace openness</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="111" time="11.26.14" ref="109">Vandalism can be a major problem.</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="112" time="11.26.17" ref="108">that's not the point here...</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="113" time="11.26.22" ref="105">Forums allow you to increase traffic through repeat visitors</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="114" time="11.26.52" ref="112">for that blog is the best solution t is a way to promote a site by inserting the blog on nouberous online directories.</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="115" time="11.27.08" ref="110">Forums allow you to gain more creditability</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="116" time="11.27.23" ref="113">but you can't guarantee that many visitors wiil come...</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="117" time="11.27.33" ref="110">what I mean is that, people see who postes the comments</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="118" time="11.27.49" ref="113">you have to do a lot of self-poting in order to attract people</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="119" time="11.27.53" ref="110">and users who post a lot on forums can get ranks,</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="120" time="11.28.07" ref="110">and they will be appreciated by the community</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="121" time="11.28.27" ref="117">or not because of bad intentionated people</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="122" time="11.28.36" ref="110">moreover, their answers will seem valuable</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="123" time="11.29.03" ref="117">in a wiki you can also see who edited a page, it is a feature called page history</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="124" time="11.29.18" ref="0">you all are missing the point ....tell me what's the use of getting some info..if it comes to late...?</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="125" time="11.29.40" ref="124">or when it may be corrupted</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="126" time="11.29.42" ref="121">if you're studying ...</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="127" time="11.29.52" ref="125">it's never too late</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="128" time="11.29.58" ref="124">with blogs it can came at any moment using mo-blogging</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="129" time="11.30.12" ref="0">Theblog are reachable from an mobile phone through mo-blogging. So you canbe in a middle of the news and attach photos and write articles fromyour mobile phone.</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="130" time="11.30.34" ref="129">never too late..faster than chating</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="131" time="11.30.43" ref="129">and you were talking about connectivity.... :D</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="132" time="11.31.10" ref="129">you have just described a chat...it's easier</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="133" time="11.31.16" ref="131">every one has a mobile phone</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="134" time="11.31.18" ref="129">in forums, also, the profiles tend to include graphical avatars</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="135" time="11.31.29" ref="129">and also signature blocks which are appended to their future posts</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="136" time="11.31.37" ref="133">you can also have chats on your mobile phone....</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="137" time="11.31.53" ref="0">so every one can update its blog especially a journalist</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="138" time="11.32.29" ref="0">yes but if you are working for a newspaper you can chat with your friend about an important news?</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="139" time="11.32.36" ref="136">let's come back to studying...</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="140" time="11.32.53" ref="0">no you write it ..on your blog</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="141" time="11.32.58" ref="123">wikis(atleast MediaWiki) has a feature called "The Talk Page" , where you canalso discuss about the contents/quality of an article, just like in aforum</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="142" time="11.33.00" ref="132">The fact that the discussion isn't real time means that it rarely turns into heated arguments</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="143" time="11.33.13" ref="132">as people are given time to research and consider their comments before replying</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="144" time="11.33.24" ref="132">this makes for mostly high-quality discussion!!!</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="145" time="11.33.37" ref="141">and if from the talk a consensus is reached , the information is updated in the main page</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="146" time="11.34.30" ref="144">yes but maybe we do not have time to consider our response so we have to be quick because information is precious</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="147" time="11.34.32" ref="0">whenyou are trying to find some answer...the best way is to ask someone .It is true that they can send you to o forum , blog or wiki ...but ,most likely, they can give you your answer on the spor</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="148" time="11.34.47" ref="0">spot</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="149" time="11.35.27" ref="146">again...chats excell as quick responses are concerned</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="150" time="11.35.36" ref="147">forums can be read by anyone who has a web browser</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="151" time="11.36.13" ref="147">but, with chats people have different versions of applications</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="152" time="11.36.28" ref="150">blogs can be written, editated, created by enyone with a browser no need for aditional programme</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="153" time="11.36.45" ref="147">and they do not necessarily work the same way</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="154" time="11.37.13" ref="149">what I mean is that they use different protocols, they are from different companies</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="155" time="11.38.01" ref="149">andsometimes someone could want to talk to a firend, but he won't be ableto do it imediately becuase the don't have the same kind of software</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="156" time="11.38.09" ref="155">or accounts</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="157" time="11.38.11" ref="150">thereis an infinit number of questions....so it is virtually impossible tosay that you'll find answer to all of them...already posted on the web</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="158" time="11.38.40" ref="157">all I say..is ask</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="159" time="11.38.54" ref="154">there are now chat clients embedded in browsers</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="160" time="11.39.17" ref="159">that's true</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="161" time="11.39.30" ref="159">but they don't have the same functionality</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="162" time="11.39.44" ref="0">i mean, there are features they don't have</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="163" time="11.39.45" ref="161">you can not keep a history</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="164" time="11.39.56" ref="162">they will have, as the technology will evolve</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="165" time="11.40.26" ref="164">until then, people should use something else for studying</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="166" time="11.40.32" ref="164">like forums</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="167" time="11.40.45" ref="0">we want everything to be easier so we want just the browser</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="168" time="11.41.21" ref="167">the problem with blogs,</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="169" time="11.41.35" ref="168">although it is ok that they use browsers</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="170" time="11.41.55" ref="168">is that you have to be careful when you create the page</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="171" time="11.42.08" ref="0">what is unique at a blog is that A typical blog combines text, images and links to other blogs - all in one</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="172" time="11.42.09" ref="167">as I see that we are at the technology topic</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="173" time="11.42.15" ref="168">to be browser compliant</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="174" time="11.42.30" ref="168">i mean, to look the same way in all browsers</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="175" time="11.42.48" ref="161">chats do very well as stand alone applications , thank you very much</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="176" time="11.42.55" ref="172">no one mentioned efficiency; and from that point of view, wikis are the best in terms of user systems resource requirements</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="177" time="11.43.09" ref="174">blog are ...and many great blogs are free</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="178" time="11.43.21" ref="176">wikis are mostly text plus images, there is barely dynamic content there</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="179" time="11.43.22" ref="0">I ask you...which of these applications attract the most users every day? CHATS ..for sure</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="180" time="11.43.54" ref="178">they can be seen from virtually any browsers , including text-based ones!</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="181" time="11.44.43" ref="176">i don't think forums use more resources than wikis</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="182" time="11.45.02" ref="181">yes they use - tehy use PHP</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="183" time="11.45.13" ref="182">not all of them, but most of them :D</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="184" time="11.45.22" ref="181">the same for blogs they are created with just some clicks in 2 minutes</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="185" time="11.45.51" ref="182">not necessarily</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="186" time="11.46.04" ref="182">they are widely available on the Internet and are written in a variety of programming languages</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="187" time="11.46.13" ref="182">such as Perl, Java and ASP</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="188" time="11.46.21" ref="182">not only php</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="189" time="11.46.22" ref="179">so it is only natural to start from a chat in a learning application</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="190" time="11.46.46" ref="187">try to run those in lynx (text browser) !</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="191" time="11.48.38" ref="189">soit is easier to create a blog .. you have to follow just 3 steps i.e.name the blog, Choose template (blog providers will offer you varietiesof templates) and start posting.</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="192" time="11.50.28" ref="0">ok.why don't we create an elearning system which uses wikis for lessonscontent, forums for discussions on the topics presented in the lessons,blogs for promoting the system, and chats for online user interaction?</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="193" time="11.50.39" ref="191">ok</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="194" time="11.50.43" ref="0">anyway...I personally think that we can build an application using all 4 mentioned so far ...</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="195" time="11.51.00" ref="192">yes that would be an ideea</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="196" time="11.51.03" ref="0">let's try to find together such an application</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="197" time="11.51.08" ref="0">i think that everybody has brought a lot of good arguments</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="198" time="11.51.24" ref="196">so i think that may be a good ideea</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="199" time="11.51.38" ref="0">yes and toghether we can do a nice application</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="200" time="11.51.38" ref="196">well, we could use MediaWiki for wiki management</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="201" time="11.51.39" ref="0">and we can start by using all the advantages of our products....</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="202" time="11.51.42" ref="0">people instead of having to pick</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="203" time="11.51.52" ref="200">phpbb for setting up a forum</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="204" time="11.51.54" ref="0">can have a product that does everything</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="205" time="11.52.09" ref="204">of course...</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="206" time="11.52.37" ref="0">I personally think that we would have to start with a chat first....</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="207" time="11.53.16" ref="206">from there..we can link many wikis , blogs and forums</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="208" time="11.53.19" ref="0">what do you think of an e-learning application, that also has a chat client</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="209" time="11.53.37" ref="198">you mean, we should try to find a content management system that has them all-in-one?</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="210" time="11.53.40" ref="208">the chat client will be available on the web site (like meebo)</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="211" time="11.53.44" ref="205">that great and s we can put a blog to work..promoting the website all over the internet</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="212" time="11.53.53" ref="210">but also as a desktop application</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="213" time="11.54.29" ref="209">yes,</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="214" time="11.54.36" ref="213">we can build one</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="215" time="11.55.09" ref="208">that's a great idea</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="216" time="11.55.19" ref="212">I think it is sufficient to have the chat embedded, there isn't a need for a desktop standalone application</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="217" time="11.55.22" ref="211">we can also use the blog, as a means of socializing</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="218" time="11.55.35" ref="217">as you said, students can posts photos</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="219" time="11.55.46" ref="0">having the chat as a starting point would attract many users...</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="220" time="11.55.50" ref="218">so people also have a little fun while working</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="221" time="11.55.56" ref="0">Severalblog search engines are used to search blog contents (also known as theblogosphere), such as blogdigger, Feedster, and Technorati..we have tostart with this</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="222" time="11.56.00" ref="220">which can lead to a lot of progress</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="223" time="11.57.20" ref="0">and best of all...we would have all of them and a direct connection between users</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="224" time="11.58.02" ref="223">a blog has a large impact on the young generation that it is not usedwith the traditional information taken by magazines, newspapers. Forthis target of age the blog cames easier to be accesed for gatheringinformation.</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="225" time="11.59.10" ref="0">Ok, so a lot of content will be inserted in the wiki</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="226" time="11.59.20" ref="225">which can be moderated</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="227" time="11.59.28" ref="226">people can solve problems</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="228" time="11.59.35" ref="227">on forums and chats</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="229" time="11.59.39" ref="226">will be moderated</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="230" time="11.59.45" ref="228">i mean, if they have questions</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="231" time="11.59.56" ref="230">or difficulties in solving problems</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="232" time="12.00.07" ref="231">and they can find out more about each other</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="233" time="12.00.19" ref="226">we also have to be careful not to empose strict boundaries when moderating...</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="234" time="12.00.23" ref="232">from each other's blog</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="235" time="12.00.26" ref="231">no, but also to debate on the topics they learn</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="236" time="12.00.33" ref="234">experiences, photos</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="237" time="12.00.40" ref="233">it's nice to think you have all the freedom in the world</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="238" time="12.00.48" ref="236">i guess the blog can also be used as a social network</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="239" time="12.00.51" ref="231">boundarie just for bad links and spam</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="240" time="12.01.01" ref="232">here, the blog part should help</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="241" time="12.01.11" ref="0">not for expresing their thoughts</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="242" time="12.01.36" ref="234">you took the word from my mouth :P</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="243" time="12.01.52" ref="0">yes blog are like a social software.</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="244" time="12.01.55" ref="242">i'm glad we agree then</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="245" time="12.02.12" ref="242">our collaboration should be fruitful then</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="246" time="12.03.03" ref="245">so we all hope</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="247" time="12.03.17" ref="245">i propose for forums an email notification</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="248" time="12.03.37" ref="247">yes, that is a great ideea</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="249" time="12.03.43" ref="0">so the user can find out about a new post</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="250" time="12.03.45" ref="247">and RSS feed also</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="251" time="12.03.57" ref="249">the rss feed can be use both ways</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="252" time="12.04.12" ref="251">from the blog to list the forums</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="253" time="12.04.12" ref="249">mail notification is a great idea...but should only be used when requested...</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="254" time="12.04.19" ref="252">and vice-versa</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="255" time="12.04.39" ref="253">of course, no spamming allowed</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="256" time="12.05.01" ref="0">this will turn out into a sort of social network</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="257" time="12.05.10" ref="253">a good idea would be to have an instanst access to admins using chats...</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="258" time="12.05.17" ref="256">one based on information and sharing knowledge</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="259" time="12.05.19" ref="253">yes that is good i don'yt want to have my mail box full of topics i do not want</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="260" time="12.05.38" ref="257">like conkuiztador</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="261" time="12.05.44" ref="257">this way they can be notified very quickly when something innapoprietated appears</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="262" time="12.05.58" ref="261">and can be moderated</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="263" time="12.05.58" ref="260">where regular users let administrators know</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="264" time="12.06.09" ref="263">when something incorrect shows up</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="265" time="12.06.19" ref="261">exactly</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="266" time="12.07.58" ref="261">thus, users have the feeling that they actively participate to the development and all the activities there</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="267" time="12.08.46" ref="192">how do you think we should build it</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="268" time="12.09.23" ref="203">as I said before</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="269" time="12.10.27" ref="267">maybe we could integrate ConcertChat into our application, as our chat system?</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="270" time="12.10.32" ref="267">the blog i think must be on blogger.com because is easy traked by google</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="271" time="12.10.47" ref="270">ok</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="272" time="12.10.54" ref="0">we will use their platform</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="273" time="12.11.34" ref="270">yes, I was thinking the same</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="274" time="12.12.28" ref="0">also, we have the advantage that the development costs will be very low</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="275" time="12.12.35" ref="0">for the chat , I basically think we should use C#...</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="276" time="12.12.36" ref="0">for the forum, we can also use a platform</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="277" time="12.12.46" ref="274">MediaWiki and phpbb are open-source</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="278" time="12.13.01" ref="276">because people are used with a certain way in which forums work</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="279" time="12.13.08" ref="277">blogger is also free to use</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="280" time="12.13.09" ref="275">very graphical, kind of easy to use...and gets the job done</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="281" time="12.13.11" ref="278">and a certain web layout</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="282" time="12.13.31" ref="279">I don't know what is the license for COncertChat</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="283" time="12.13.44" ref="279">and easy...and from the moment we create the blog is in google</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="284" time="12.13.46" ref="280">we can use asp .net to integrate</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="285" time="12.13.59" ref="284">the blogger platform, with the forum and the wiki</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="286" time="12.14.12" ref="0">we can use google anlytics to have a view of our traffic</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="287" time="12.14.55" ref="0">so....we have all agreed one the basics of the application</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="288" time="12.14.56" ref="285">ok. agree with that</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="289" time="12.15.34" ref="0">so, in our next meeting maybe we will start implementing</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="290" time="12.15.46" ref="0">yes... we can work toghether as i see</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="291" time="12.15.47" ref="289">since we have agreed on a final product</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="292" time="12.15.49" ref="287">a lot of details have already been said...</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="293" time="12.16.01" ref="290">nice working with you all!</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="294" time="12.16.02" ref="291">that perfect</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="295" time="12.16.06" ref="0">same here</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="296" time="12.16.22" ref="295">am confident it will turn out just great...</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="297" time="12.16.54" ref="296">ok, so it's good bye then</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="298" time="12.17.02" ref="297">keep in touch then</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="299" time="12.17.06" ref="297">thank you for the collaboration</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="300" time="12.17.13" ref="299">and all the nice ideas</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="301" time="12.17.13" ref="292">thank you too</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="302" time="12.17.14" ref="0">ok...</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="303" time="12.17.28" ref="0">see you next time</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="304" time="12.17.35" ref="0">good bye for now</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="305" time="12.17.37" ref="0">good bye</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="306" time="12.17.42" ref="0">bye</Utterance>
+		</Turn>
+		<Turn nickname="bogdan">
+			<Utterance genid="307" time="12.17.44" ref="0">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="florin">
+			<Utterance genid="308" time="12.17.47" ref="0">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="309" time="12.17.49" ref="0">good buy and keep in touch</Utterance>
+		</Turn>
+		<Turn nickname="elena">
+			<Utterance genid="310" time="12.18.03" ref="0">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="raluca">
+			<Utterance genid="311" time="12.20.05" ref="0">leaves the room</Utterance>
+		</Turn>
+	</Body>
+	<Collab_regions>
+		<Collab_regions_annotation>[209;299]</Collab_regions_annotation>
+		<Collab_regions_annotation>[30;90],[95;125],[147;190],[194;220]</Collab_regions_annotation>
+		<Collab_regions_annotation>[27;65],[72;86],[89;93],[99;111],[128;141],[152;171],[181;191],[200;207],[216;241],[247;286]</Collab_regions_annotation>
+		<Collab_regions_annotation>[152;163]</Collab_regions_annotation>
+		<Collab_regions_annotation>[20;288]</Collab_regions_annotation>
+		<Collab_regions_annotation>[91;107],[139;162],[192;244],[266;290]</Collab_regions_annotation>
+		<Collab_regions_annotation>[24;38],[49;72],[89;110],[206;216],[216;265],[270;290]</Collab_regions_annotation>
+		<Collab_regions_annotation>[64;79],[193;209]</Collab_regions_annotation>
+		<Collab_regions_annotation>[150;156],[176;191],[192;296]</Collab_regions_annotation>
+		<Collab_regions_annotation>[48;53],[61;71],[103;11],[141;153],[157;175],[179;190],[194;212],[225;288]</Collab_regions_annotation>
+		<Collab_regions_annotation>[20;191],[192;287]</Collab_regions_annotation>
+		<Collab_regions_annotation>[26;44],[84;104],[129;156],[167;191],[192;265]</Collab_regions_annotation>
+		<Collab_regions_annotation>[30;101],[141;179],[192;226]</Collab_regions_annotation>
+		<Collab_regions_annotation>[18;190],[191;288]</Collab_regions_annotation>
+		<Collab_regions_annotation>[220;287]</Collab_regions_annotation>
+		<Collab_regions_annotation>[159;174],[267;287]</Collab_regions_annotation>
+		<Collab_regions_annotation>[25;192],[194;246],[247;288]</Collab_regions_annotation>
+		<Collab_regions_annotation>[24;39],[47;68],[90;107],[172;190],[208;270],[277;286]</Collab_regions_annotation>
+		<Collab_regions_annotation>[25;194],[210;287]</Collab_regions_annotation>
+		<Collab_regions_annotation>[20;192],[196;225]</Collab_regions_annotation>
+		<Collab_regions_annotation>[19;29],[46;57],[60;68],[88;104],[110;125],[138;154],[154;171],[172;185],[191;201],[204;220]</Collab_regions_annotation>
+		<Collab_regions_annotation>[192;265],[160;170],[270;292],[130;140]</Collab_regions_annotation>
+		<Collab_regions_annotation>[20;26],[27;38],[47;75],[105;127],[138;149],[168;177],[194;294]</Collab_regions_annotation>
+		<Collab_regions_annotation>[20;69],[70;78],[84;123],[126;148],[176;192],[208;288]</Collab_regions_annotation>
+		<Collab_regions_annotation>[25;71],[84;123],[177;212],[268;290]</Collab_regions_annotation>
+		<Collab_regions_annotation>[23;41],[47;100],[124;149],[159;175],[192;293]</Collab_regions_annotation>
+		<Collab_regions_annotation>[28;48],[54;76],[90;103],[182;192]</Collab_regions_annotation>
+		<Collab_regions_annotation>[34;50],[177;192],[225;241]</Collab_regions_annotation>
+		<Collab_regions_annotation>[27;57],[67;76],[132;140],[209;309]</Collab_regions_annotation>
+	</Collab_regions>
+</Dialog>

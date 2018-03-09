@@ -1,0 +1,1234 @@
+﻿<Dialog team="4" file="Enache_351C2_in.xml">
+	<Participants/>
+	<Topics/>
+	<Body>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="1" time="03.05.23" ref="0">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="2" time="03.06.19" ref="0">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="3" time="03.07.11" ref="0">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="4" time="03.08.34" ref="0">just 3?</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="5" time="03.09.05" ref="4">Alex will be here in a short while I think</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="6" time="03.09.48" ref="0">okay</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="7" time="03.22.56" ref="0">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="8" time="03.23.18" ref="0">Hello</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="9" time="03.23.30" ref="0">hi</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="10" time="03.23.31" ref="0">How are you today?</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="11" time="03.23.34" ref="0">well we are all here..can we start ?</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="12" time="03.23.35" ref="0">hello</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="13" time="03.23.50" ref="0">yeah, it would be great :D</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="14" time="03.23.54" ref="0">Yes let's start.</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="15" time="03.24.11" ref="0">so, I will support blogs</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="16" time="03.24.18" ref="0">ok</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="17" time="03.24.35" ref="0">I'm suporting the chat</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="18" time="03.24.37" ref="0">I will tell you why my company loves blogs - in fact we have a product called Blog2007</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="19" time="03.24.49" ref="0">I'm supporting forums</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="20" time="03.24.56" ref="0">I've heard about your product</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="21" time="03.25.19" ref="0">ithink that for a company a wiki is more useful than a blog</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="22" time="03.25.23" ref="20">you did? Wow, that's great</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="23" time="03.25.23" ref="0">but I think it's not really as good as our product</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="24" time="03.25.29" ref="0">The chat 2000</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="25" time="03.25.50" ref="0">at my company we have a wiki which is very usefull</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="26" time="03.25.53" ref="0">Come on, the new enhanced forumbb 2007 beats any sollution</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="27" time="03.26.02" ref="0">I think that a chat system for a company is much more suitable</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="28" time="03.26.11" ref="27">why is that?</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="29" time="03.26.13" ref="0">why do tou say that andreea ?</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="30" time="03.26.17" ref="0">blogs and chats are for teenagers</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="31" time="03.26.28" ref="0">well let's draw something</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="32" time="03.26.37" ref="0">forums are for professionals</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="33" time="03.26.48" ref="0">and I'll explain why our pruduct is more suitable</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="34" time="03.27.31" ref="0">what about wiki andreea ...a wiki is very professional</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="35" time="03.27.36" ref="30">not quite, blogs are not for teenagers at all</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="36" time="03.27.43" ref="0">wiki is proffesional, true</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="37" time="03.27.51" ref="0">I'll explain you why blogs are more suitable</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="38" time="03.27.54" ref="0">but wiki is not so interactive</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="39" time="03.28.06" ref="0">few people actually write on wikis</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="40" time="03.28.21" ref="36">yes, but wiki has a major problem</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="41" time="03.28.49" ref="0">the major problem of wiki is that too many people can change the content</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="42" time="03.29.00" ref="41">and so, it can be confusing</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="43" time="03.29.22" ref="0">well this can be observed by somebody and not all changes are permanent</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="44" time="03.30.02" ref="0">so right, liviu</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="45" time="03.30.10" ref="0">who is actually handle the wiki</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="46" time="03.30.18" ref="0">who's the administrator</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="47" time="03.30.19" ref="43">true, but then you have to put a lof of work to reverse changes or choose the best change of all</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="48" time="03.30.23" ref="0">?</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="49" time="03.31.08" ref="0">you can complete the drawing with your products</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="50" time="03.31.09" ref="0">the forum however remembers all posts</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="51" time="03.31.30" ref="0">in the matter of speed and bandwith requirement the chat is the best</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="52" time="03.31.38" ref="0">and nobody can argue with that</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="53" time="03.31.39" ref="0">and from time to time someone cand delete the posts that are not apropiate</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="54" time="03.31.49" ref="0">so a kind of a wiki</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="55" time="03.31.54" ref="0">but more interactive</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="56" time="03.32.06" ref="52">I agre, but osmetimes we need effectiveness more than speed</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="57" time="03.32.06" ref="NaN">so... this is my statement</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="58" time="03.32.16" ref="0">and much easier to admin</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="59" time="03.32.43" ref="0">really now, a chat is for "chatting" not discussing</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="60" time="03.32.47" ref="0">if you talk about adm... the chat is as I see it better</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="61" time="03.33.01" ref="0">you can see people's opinions</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="62" time="03.33.12" ref="0">in a wiki you can find very easy , what you are looking for.</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="63" time="03.33.13" ref="58">youare right about forums with that, but it can be quite difficultsometimes for onw to follow what every other forum has said on thatspecific forum</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="64" time="03.33.17" ref="0">further more it is confusing</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="65" time="03.33.23" ref="0">and if they are not suitable... you can contradict them</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="66" time="03.33.24" ref="0">like our chat here</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="67" time="03.33.29" ref="0">or even ban the user</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="68" time="03.33.45" ref="0">OK</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="69" time="03.33.55" ref="0">you can draw this on the whiteboard</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="70" time="03.33.59" ref="0">and please do</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="71" time="03.34.17" ref="0">that'swhy I like blogs: they can be very well organised and therefore providethe reader valuable information when tounderstand a topic</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="72" time="03.34.20" ref="0">but ... this chat is only in one window</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="73" time="03.34.48" ref="0">it would be even worse if it were on many windows</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="74" time="03.34.58" ref="0">don't you think?</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="75" time="03.35.01" ref="0">but our product uses a separate window for each user/topic of discusion</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="76" time="03.35.09" ref="0">everybody knows the motto for wikipedia which is probably the most popular wiki "the free enciclopedia that evrybody cand edit"</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="77" time="03.35.12" ref="0">so it isn't that confusing</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="78" time="03.35.16" ref="0">this can be a great advantage</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="79" time="03.35.47" ref="76">yes, but not "everybody" is smart or capable of editing or adding valuable content</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="80" time="03.35.51" ref="0">dragos, if i write something, somebody can come and edit what i wrote, true?</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="81" time="03.36.06" ref="0">well yes....</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="82" time="03.36.14" ref="0">well that's bad</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="83" time="03.36.20" ref="0">not really</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="84" time="03.36.23" ref="79">in blogging however, only allowed users cand post, and that makes it more accurate</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="85" time="03.36.33" ref="0">maybe you wrote something inaccurate..</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="86" time="03.36.35" ref="0">true liviu</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="87" time="03.36.38" ref="0">just like forums</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="88" time="03.36.40" ref="0">or incomplete..</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="89" time="03.37.06" ref="0">a forum offers the possibility of reply</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="90" time="03.37.23" ref="0">to complete or correct what the other wrote</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="91" time="03.37.50" ref="90">sometimes you have too many replies and sometimes they start talking about sometimes although they are replying another topic</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="92" time="03.37.51" ref="NaN">OK i put a diadvantage of the chat</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="93" time="03.38.34" ref="0">but when you need an information</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="94" time="03.38.39" ref="0">not proffesional, that's the main dissadvantage of the chat</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="95" time="03.38.44" ref="91">true liviu...you always can see a offtopic</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="96" time="03.38.44" ref="0">you just have to ask about it</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="97" time="03.38.54" ref="0">and somebody will answer</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="98" time="03.39.13" ref="97">I agree - chat is fat to get a reply</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="99" time="03.39.25" ref="98">I mean fast not "fat"</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="100" time="03.39.26" ref="0">speedy, cheap (the chat i mean), something like a telephone</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="101" time="03.39.35" ref="94">The chat is as proffesional as it's users</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="102" time="03.39.59" ref="99">and when somebody else puts the same question..who will answer ?</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="103" time="03.40.00" ref="0">if you are a proffesional chatter iti is easy, i agree</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="104" time="03.40.05" ref="101">but you cannot spread information using chat - you cannot tell the world what you've found out</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="105" time="03.40.06" ref="100">no you just need a lowbandwith conection to use it</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="106" time="03.40.12" ref="104">that's why you need blogs</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="107" time="03.40.28" ref="0">or forums</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="108" time="03.40.36" ref="102">in a wiki you find very easy the answer</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="109" time="03.40.53" ref="104">yes you cand, and information will spread very fast</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="110" time="03.41.11" ref="108">this is true</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="111" time="03.41.15" ref="0">true, wiki's are easy to access, but a good search on a forum solves this problem as well</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="112" time="03.41.17" ref="104">blogs(ok, and forums and wiki), but blogs first - they are the best forproviding conclusions and personal opinions on a certain topic theblogger chooses to</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="113" time="03.41.49" ref="108">if the chat doesn't have somebody who knows the answer you won't get the answer</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="114" time="03.42.10" ref="112">a see a disadvantage for blogs...there a lot of them and not all usefull</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="115" time="03.42.10" ref="0">exactly brio</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="116" time="03.42.53" ref="113">that s why you need a wiki</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="117" time="03.42.54" ref="113">bolgs can also be used for asking questions to the whole "world"</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="118" time="03.43.10" ref="0">forums are for that liviu</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="119" time="03.43.16" ref="0">blogs are journals</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="120" time="03.43.22" ref="119">i agree</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="121" time="03.43.33" ref="0">in forums you ak questions and find answers</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="122" time="03.43.34" ref="0">but the forum,blog or wiki won't always contain the answer aswell</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="123" time="03.43.43" ref="114">I admit there are many blogs, but they are like newspapers - you choose what to read, you select what to read</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="124" time="03.44.17" ref="121">yes but i think it is difficult in searching through the forums..</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="125" time="03.44.22" ref="0">why don't you put the advantages of your products on the board??</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="126" time="03.44.28" ref="0">okai</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="127" time="03.44.35" ref="119">blogs are very good for sharing information and news about a company / product / technology</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="128" time="03.44.39" ref="0">searching in forums is extremely hard</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="129" time="03.44.44" ref="127">Google has quite a few blogs</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="130" time="03.45.48" ref="0">bye the way does anybody knows what wiki means</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="131" time="03.45.50" ref="0">?</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="132" time="03.46.31" ref="0">i really don't know how to draw on this board</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="133" time="03.47.19" ref="0">after the elipse there is an icon whitch will draw something where you can put in text</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="134" time="03.47.38" ref="130">wiki wiki means rapidly in hawaiian language</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="135" time="03.48.31" ref="0">the forum was the place where in roman times people used to come and talk business</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="136" time="03.49.01" ref="135">and now the next best thing could be the blog - where someone shares it's knowledge</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="137" time="03.49.22" ref="134">so it is a very quick way of letting others know what you have discovered</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="138" time="03.50.31" ref="136">yes, but knowledge is stored in books</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="139" time="03.50.52" ref="0">so a blog is not that needed</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="140" time="03.50.54" ref="0">blogs are journals, good to say what you believe about one thing</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="141" time="03.50.57" ref="138">knowledge is stored on the Internet nowadays</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="142" time="03.51.12" ref="0">but not all that good for a business</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="143" time="03.51.24" ref="0">more for oneself</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="144" time="03.51.31" ref="140">I've seen people telling how they solved catchy problems on blogs, talking techniques of programming and so on</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="145" time="03.51.33" ref="0">the wiki is very proffesional</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="146" time="03.51.48" ref="144">they were providing solutions, not talking about their personal life</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="147" time="03.51.55" ref="141">yes i can say that wiki is the simplest online database that cound work</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="148" time="03.52.02" ref="0">but if someone can edit what another wrote is not relevant</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="149" time="03.52.39" ref="148">it is supposed it is edited with good intensions</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="150" time="03.52.45" ref="0">that's the bad thing abot wiki</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="151" time="03.52.45" ref="147">you cannot debate using an wiki</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="152" time="03.52.56" ref="0">it's not reliable</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="153" time="03.53.03" ref="0">it is suposed, but that is not enoughly secure</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="154" time="03.53.14" ref="151">it is not the purpose of a wiki</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="155" time="03.53.38" ref="0">imagine a wiki for a comany</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="156" time="03.54.21" ref="155">companies however use blogs to add a more personal touch to the technology they create (Google does that)</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="157" time="03.54.47" ref="0">big companys use chat</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="158" time="03.54.58" ref="0">video/audio/written chat</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="159" time="03.54.59" ref="157">they use chat for internal purpose</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="160" time="03.55.04" ref="0">and that's a fact</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="161" time="03.55.08" ref="155">companies use wikis but for documentationt</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="162" time="03.55.12" ref="0">not communication</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="163" time="03.55.12" ref="159">but they uise blogs to communicate with users</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="164" time="03.55.14" ref="156">i would see that it is more important how usefull it is not how personal</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="165" time="03.55.14" ref="0">the market demands it</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="166" time="03.55.46" ref="0">so, let's talk about each one in turn</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="167" time="03.55.54" ref="0">okei</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="168" time="03.56.00" ref="0">chose one</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="169" time="03.56.00" ref="0">I agree</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="170" time="03.56.07" ref="0">the producer says the good parts</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="171" time="03.56.14" ref="0">no...</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="172" time="03.56.17" ref="0">and the others say the waknesses</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="173" time="03.56.25" ref="0">i'm ready to tell the bad parts aswell</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="174" time="03.56.29" ref="0">than we go to the other</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="175" time="03.56.39" ref="0">if you want you're free</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="176" time="03.56.45" ref="0">so who's first</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="177" time="03.56.46" ref="0">?</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="178" time="03.56.58" ref="0">because a good business is a business where the parties know very well what the others offer</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="179" time="03.57.33" ref="176">i will start</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="180" time="03.58.00" ref="0">a good customer knows what he wants and it isn't good business to sell him something that does't suite him</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="181" time="03.58.04" ref="0">as a said before wiki is the simplest online database</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="182" time="03.58.11" ref="0">it very easy to use</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="183" time="03.58.15" ref="0">it is fast</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="184" time="03.58.34" ref="0">and you can search very quicly what are you interested in</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="185" time="03.58.38" ref="NaN">it is not reliable</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="186" time="03.58.43" ref="0">it s also very easy to use</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="187" time="03.58.54" ref="0">wait brio for dragos to finish</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="188" time="03.59.02" ref="NaN">okei</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="189" time="03.59.25" ref="0">i thought we'll talk about a tehnology and debate</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="190" time="03.59.30" ref="0">and is the only for of documentation and commuincation that can be edited</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="191" time="03.59.41" ref="0">but please excuse me dragos and go ahead</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="192" time="03.59.56" ref="0">well i think i am done</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="193" time="04.00.24" ref="0">did you put them on the board?</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="194" time="04.00.46" ref="0">now the replies...</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="195" time="04.00.59" ref="0">i find very hard to use this board..</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="196" time="04.01.38" ref="NaN">:))</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="197" time="04.01.40" ref="182">ok, it's easy, I agree</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="198" time="04.01.45" ref="0">i see that everybody agrees with me :)</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="199" time="04.01.54" ref="0">i know</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="200" time="04.01.57" ref="0">i agree</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="201" time="04.01.59" ref="198">no, no, wait</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="202" time="04.02.08" ref="0">but i thought it would be nice</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="203" time="04.02.08" ref="0">:p</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="204" time="04.02.17" ref="0">I'll try to update it as i can</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="205" time="04.02.25" ref="0">for average users it can be difficult to keep track of all changes</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="206" time="04.03.39" ref="0">it can't be use as a communication tool (the worst), just a documentation tool, for which i think is the best of them all</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="207" time="04.04.05" ref="0">any other against opinions</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="208" time="04.04.16" ref="206">yes, and you cannot debate using wikis</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="209" time="04.04.32" ref="0">so, not a communication tool at all</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="210" time="04.05.00" ref="0">anything else?</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="211" time="04.05.12" ref="0">I'm done</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="212" time="04.05.14" ref="0">we'll go on to the next</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="213" time="04.05.45" ref="0">BRIO?</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="214" time="04.05.51" ref="0">Liviu?</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="215" time="04.05.59" ref="0">what about you?</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="216" time="04.06.07" ref="214">you tell us about forums</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="217" time="04.06.15" ref="0">:))</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="218" time="04.06.17" ref="0">okay</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="219" time="04.06.33" ref="218">so you tell us when you're done about the advantages</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="220" time="04.06.36" ref="0">1. good communication tool</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="221" time="04.06.47" ref="0">1.1 you can ask questions</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="222" time="04.07.03" ref="0">1.2 you can give answers</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="223" time="04.07.15" ref="0">1.3 you can find answers</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="224" time="04.08.12" ref="0">1.4 unlike chats, the information is well structured (if the admin is smart) and you can store it very well</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="225" time="04.08.27" ref="0">2. good documentation tool</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="226" time="04.09.01" ref="0">2.1 everything is stored, and if a company wants to organize an information it can</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="227" time="04.09.32" ref="0">2.2 available anytime and easy access with a good search engine</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="228" time="04.09.58" ref="0">3. ease of use</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="229" time="04.10.17" ref="0">3.1 anyone can add a post on a forum</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="230" time="04.10.24" ref="0">3.2 anyone can access a forum</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="231" time="04.10.32" ref="0">4. security</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="232" time="04.11.01" ref="0">4.1 authentication makes it impossible for someone to write if not accepted but anyone can see</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="233" time="04.11.43" ref="0">4.2 no one can edit your posts, so what, when and who wrote is clear and visible to everyone</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="234" time="04.12.36" ref="0">4.3 reliability is obtained through grades added to the users that give relevant information, so that you know whom to trust</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="235" time="04.12.40" ref="0">THE END</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="236" time="04.12.56" ref="223">you can..but not very easy</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="237" time="04.13.10" ref="225">not as goog a wiki is</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="238" time="04.14.21" ref="220">It'strue it's ood for communicating but sometimes you have to read everyother post in that forum to get to the conclsuion or find out thedifferent solutions each user has used</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="239" time="04.14.23" ref="237">sorry as good as wiki is</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="240" time="04.15.10" ref="222">unfortunately, many users reply offtopic or start new topics while answering others so it can be confusing</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="241" time="04.16.03" ref="231">I agree with the security thing - it is good indeed</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="242" time="04.16.10" ref="208">me too</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="243" time="04.16.18" ref="0">I tried to complete ...</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="244" time="04.16.36" ref="0">but, forums do tend to waste time</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="245" time="04.17.09" ref="0">tell us about chat brio</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="246" time="04.17.37" ref="0">okay</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="247" time="04.18.01" ref="0">I'll try to show you why they are a necesity for a company:</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="248" time="04.18.14" ref="0">1 When you search something</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="249" time="04.18.33" ref="0">you'll get the answer right away with less time spent in search</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="250" time="04.18.39" ref="0">and reading</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="251" time="04.19.16" ref="0">The speed is the second argument</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="252" time="04.19.31" ref="0">you don't need high bandwidth</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="253" time="04.19.53" ref="0">and in some cases it's a huge plus</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="254" time="04.20.23" ref="0">you don't waste time just clicking and waiting for some unrelevant information to apear</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="255" time="04.20.59" ref="0">3 If used in the right enviroment, it is very reliable</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="256" time="04.21.42" ref="0">4. The spread of chat is huge because of it's low bandwidth requirement</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="257" time="04.22.45" ref="0">5 You can debate and get good answers, whitch can be explained right away if misunderstood</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="258" time="04.23.58" ref="0">6Security : Let's say it is as secure as o forum if not moresecure(encrypted information will travel over the internet fast andsecure, forums can be hacked)</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="259" time="04.24.36" ref="0">and i think i've presented all the good things</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="260" time="04.24.59" ref="249">if somebody who is online knows the answer....if not, you will have to use a wiki...</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="261" time="04.25.42" ref="0">yes, but if you don't find it in the wiki someone online will tell you where to search in an other wiki</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="262" time="04.25.56" ref="257">However, when you have a chat with many users at once, it can be confusing to follow what everyone has said</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="263" time="04.25.57" ref="260"/>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="264" time="04.26.00" ref="261">:))</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="265" time="04.26.11" ref="0">That's true</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="266" time="04.26.58" ref="0">bandwidth is not such a big problem nowadays</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="267" time="04.27.06" ref="262">ifyou have a user reading a chat of other people, then that user has toread everything to understand the conclusions - it cannot jump to theconclusions</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="268" time="04.27.24" ref="0">but the best thing of chat is freedom of speech</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="269" time="04.27.33" ref="0">and if there isn't someone to answer you question you're lost</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="270" time="04.27.33" ref="0">if you want to say something you can</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="271" time="04.27.39" ref="0">so it's not world wide</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="272" time="04.27.57" ref="0">and if the comunity does not agree will ban you, but they'll hear your opinion</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="273" time="04.28.07" ref="258">Secuity can be good also, indeed</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="274" time="04.28.27" ref="266">at home, but on a mountain with low signal on the modem it realy is</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="275" time="04.29.17" ref="274">probably you won t need a chat there..</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="276" time="04.29.23" ref="254">Iadmit you odn't waste time, but the other person replying wastes timereplying to you about he has probably already replied many times beforeso the other person may be wassting</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="277" time="04.29.26" ref="0">fast as a communication tool but it has dissadvantages</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="278" time="04.29.28" ref="276">time</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="279" time="04.30.34" ref="0">1.no disscution structure, 2. no clear storage for everyone to see, 3. ifthe ones you chat with don't know the aswer you're lost</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="280" time="04.31.07" ref="0">liviu tell us about blogs, what advantages do they have ?</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="281" time="04.31.16" ref="279">1. Just like real life</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="282" time="04.31.31" ref="279">2. good point</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="283" time="04.31.59" ref="279">it's more difficult o provide al the facts and reasons in real time</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="284" time="04.32.14" ref="279">3. He cand give you a clue, if the information is not contained in a wiki/blog/forum they won't help either</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="285" time="04.33.11" ref="284">The dowside of chat really is if there is someone who knows the answer, he won't wait for you, and he can't save it either</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="286" time="04.33.47" ref="0">good</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="287" time="04.33.51" ref="0">now liviu</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="288" time="04.33.52" ref="0">so, should I start about blogs?</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="289" time="04.34.00" ref="287">ok</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="290" time="04.34.21" ref="0">1. blogs can be well organised and therefore provide valuable information to the reader who wants to understand a certain topic</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="291" time="04.34.34" ref="0">2. the blogger (or the many bloggers blogging on one blog) can add a personal touch to the information provided</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="292" time="04.34.51" ref="0">3.there can be blogs for everything: for kids/people about their life, orbusiness blogs - sharing information about a company / technology etc.</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="293" time="04.35.02" ref="0">4. blogs are a good support for providing conclusions and the steps taken in developing a technology</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="294" time="04.35.18" ref="0">5. one can add tags to posts so that reader can select only the post him/she likes or wants to read</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="295" time="04.35.40" ref="0">6. users can comment at the end of everry post - it's like having a forum at the end ef every post</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="296" time="04.36.46" ref="0">7. security is good also: only allowed users cand post on a blog</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="297" time="04.37.28" ref="0">and the blogger can also decide who to let to comment on his/her p</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="298" time="04.37.42" ref="0">8. Google uses blogs, and they do it very smart! Company mangagers /important software developers (both people and companies) use blogsalso! - They are a great tool for telling the world about your job /business, about how you solved an issue and the solutions you tried andwht they failed and how you discovered the best solution and so on</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="299" time="04.38.00" ref="0">ok, that's about it</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="300" time="04.38.07" ref="0">feel free to comment now</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="301" time="04.38.18" ref="291">i think that sometimes it s too personal, and it s used only as a profile for somebody</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="302" time="04.39.29" ref="292">maybe more for people than for business and technologies</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="303" time="04.40.01" ref="301">there is no such thing as too personal</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="304" time="04.40.02" ref="302">it's their choice what they blog about, as well as your choice what blog to read</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="305" time="04.40.13" ref="0">you know what the blogger is and wants</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="306" time="04.41.52" ref="0">maybe we should find a method to put all 4 of them in only one product</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="307" time="04.42.16" ref="306">maybe we should</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="308" time="04.42.16" ref="0">and to take what s best from them</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="309" time="04.42.27" ref="308">they all have clear adavantages</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="310" time="04.42.51" ref="309">that s for sure</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="311" time="04.43.14" ref="310">so now we need to find what product to make so we can use all the advantages of all 4 of these tools</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="312" time="04.43.15" ref="0">hmm</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="313" time="04.43.22" ref="0">what would be the name of our product ?</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="314" time="04.43.24" ref="306">A good idea</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="315" time="04.44.04" ref="0">The companies can benefit from having all our technologies in one product</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="316" time="04.44.43" ref="315">if we join our forces, our product could benefit of the advantages of all our 4 technologie</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="317" time="04.44.52" ref="0">i don t think it s so hard to intergrate them</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="318" time="04.44.52" ref="0">true</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="319" time="04.44.56" ref="0">all in one</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="320" time="04.45.05" ref="319">so what shall it be?</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="321" time="04.45.05" ref="317">it is</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="322" time="04.45.20" ref="321">we shall find a solution</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="323" time="04.46.03" ref="0">for example every topic from the wiki coul have discussion on it , not only a definition</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="324" time="04.46.06" ref="0">butwe have some good programers that have experience in blogging and Ifeel really confident they can work toghether with your departments</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="325" time="04.46.15" ref="0">this colud be done with forums and blogs</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="326" time="04.46.24" ref="0">an we coul use a chat for online users...</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="327" time="04.46.29" ref="0">so here's my ideea</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="328" time="04.46.29" ref="0">yes</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="329" time="04.46.54" ref="0">and then the blog for our developers to share the solutions and the featuresof the product with the public</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="330" time="04.47.01" ref="0">and for the chat some support team will be ready to give more answers</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="331" time="04.47.02" ref="0">every memeber of the company should have an account</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="332" time="04.47.16" ref="0">but also post them on a forum for further reference</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="333" time="04.47.30" ref="329">good point</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="334" time="04.47.32" ref="0">in this account he can have a chat id</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="335" time="04.47.39" ref="0">a forum id</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="336" time="04.47.42" ref="331">yes</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="337" time="04.47.44" ref="0">a personal blog</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="338" time="04.47.53" ref="0">and the ability to edit a wiki</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="339" time="04.47.59" ref="337">I like that</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="340" time="04.48.25" ref="331">but we'll need someone prepared to give more answers, and explain better the "how to"s</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="341" time="04.48.34" ref="0">we should also have a company blog to summarize the best posts or something like that</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="342" time="04.49.00" ref="341">a company blog toshare our knoledge with our partners</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="343" time="04.49.12" ref="341">good point</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="344" time="04.49.16" ref="342">precisely</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="345" time="04.49.19" ref="0">i guess the wiki is the best for documentation</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="346" time="04.49.31" ref="0">when all agree about a subject</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="347" time="04.49.37" ref="341">And to let them know about our products and implementations</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="348" time="04.49.38" ref="0">that is written in the wiki</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="349" time="04.49.43" ref="346">Yes, we could use that</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="350" time="04.50.07" ref="0">the blog is everyone shares his/her knowledge</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="351" time="04.50.35" ref="0">we could use forums for general troubleshooting or for the most spread problems of our application</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="352" time="04.50.39" ref="0">using the wiki will furthermore take away from the work of the support team</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="353" time="04.50.42" ref="0">the forum is where this knowledge is disscused</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="354" time="04.50.49" ref="0">yes</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="355" time="04.51.20" ref="0">the blogs will be where new ideas will be posted and the discused on forums</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="356" time="04.51.20" ref="0">every post on o blog becomes a post o the forum with the category of the blogger</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="357" time="04.51.29" ref="0">okey</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="358" time="04.51.34" ref="0">no, the other way</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="359" time="04.51.40" ref="0">for example</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="360" time="04.52.01" ref="0">someone from the accounting departament writes on a blog</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="361" time="04.52.24" ref="0">but we'll have to admin it so a post on a blog will get a category and will be moved or copied in the right thread</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="362" time="04.52.25" ref="0">in the forum, in the accounting category this new post appears</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="363" time="04.52.33" ref="0">exactly</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="364" time="04.52.52" ref="361">we'll use tags also to classify posts</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="365" time="04.53.03" ref="0">okay</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="366" time="04.53.16" ref="362">I like it</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="367" time="04.53.40" ref="0">so i see we found some good ideas for our new product</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="368" time="04.53.41" ref="0">the chat is the fast communication in the company</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="369" time="04.53.54" ref="0">when people want something fast they use the chat</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="370" time="04.54.14" ref="0">the blog could be our PR</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="371" time="04.54.50" ref="0">okei</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="372" time="04.55.06" ref="0">so we have something here...</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="373" time="04.55.15" ref="0">perfect</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="374" time="04.55.25" ref="0">yes, I think we almost got a way of working together</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="375" time="04.55.27" ref="0">Well I think we'll have to ralk to our tech team and have an other meeting sometime next week</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="376" time="04.55.27" ref="0">we need to meet to make a better plan for this</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="377" time="04.55.43" ref="0">so far it sounds good :D</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="378" time="04.55.46" ref="376">yes, I think we should plan a meeting or something to discuss further details</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="379" time="04.56.05" ref="378">to further polish our product</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="380" time="04.56.13" ref="0">okay</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="381" time="04.56.23" ref="0">when and where?</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="382" time="04.56.31" ref="378">good idea , it will be a real succes</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="383" time="04.56.39" ref="0">great succes indeed</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="384" time="04.56.43" ref="0">Good evening people and see you next week.</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="385" time="04.56.51" ref="0">we could make a strat-up with our new technology</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="386" time="04.57.02" ref="0">I'll talk to my secretary to arange e meeting</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="387" time="04.57.03" ref="0">and become millionares</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="388" time="04.57.07" ref="0">:)</Utterance>
+		</Turn>
+		<Turn nickname="BRIO">
+			<Utterance genid="389" time="04.57.10" ref="0">bye</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="390" time="04.57.16" ref="0">:)</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="391" time="04.57.19" ref="0">bye</Utterance>
+		</Turn>
+		<Turn nickname="Andreea Enache">
+			<Utterance genid="392" time="04.57.27" ref="0">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="393" time="04.57.29" ref="386">bye</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="394" time="04.57.32" ref="0">bye</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="395" time="04.57.43" ref="394">bye</Utterance>
+		</Turn>
+		<Turn nickname="Iacob Liviu">
+			<Utterance genid="396" time="04.57.54" ref="0">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="dragos diaconu">
+			<Utterance genid="397" time="04.58.18" ref="0">leaves the room</Utterance>
+		</Turn>
+	</Body>
+	<Collab_regions>
+		<Collab_regions_annotation>[45;67],[84;120],[156;176],[266;285],[322;356]</Collab_regions_annotation>
+		<Collab_regions_annotation>[98;164],[236;242],[273;285],[301;322],[333;349]</Collab_regions_annotation>
+		<Collab_regions_annotation>[189;201],[328;409]</Collab_regions_annotation>
+		<Collab_regions_annotation>[37;66],[267;279]</Collab_regions_annotation>
+		<Collab_regions_annotation>[337;366]</Collab_regions_annotation>
+		<Collab_regions_annotation>[15;129],[134;155],[179;210],[220;244],[247;278],[290;305],[318;378]</Collab_regions_annotation>
+		<Collab_regions_annotation>[194;209],[260;282],[300;318],[323;370]</Collab_regions_annotation>
+		<Collab_regions_annotation>[49;124],[179;299],[315;372]</Collab_regions_annotation>
+		<Collab_regions_annotation>[21;63],[76;164],[189;207],[236;241],[260;285],[301;364]</Collab_regions_annotation>
+		<Collab_regions_annotation>[30;124],[245;279],[306;355]</Collab_regions_annotation>
+		<Collab_regions_annotation>[15;52],[58;85],[167;180],[220;262],[292;311],[322;342]</Collab_regions_annotation>
+		<Collab_regions_annotation>[26;127],[166;326],[327;374]</Collab_regions_annotation>
+		<Collab_regions_annotation>[39;55],[136;144],[181;209],[216;241],[247;279],[290;305],[329;369]</Collab_regions_annotation>
+		<Collab_regions_annotation>[34;49],[84;129],[144;164],[179;209],[219;262],[279;311]</Collab_regions_annotation>
+		<Collab_regions_annotation>[27;128],[156;165],[181;186],[205;209],[220;240],[247;285],[290;310],[323;364]</Collab_regions_annotation>
+		<Collab_regions_annotation>[17;44],[56;80],[92;114],[133;188],[260;286],[300;333],[345;357],[367;379]</Collab_regions_annotation>
+		<Collab_regions_annotation>[15;19],[30;43],[76;85],[134;165],[267;285],[300;344]</Collab_regions_annotation>
+		<Collab_regions_annotation>[21;67],[76;165],[181;190],[198;209],[220;244],[248;285],[290;305],[323;370]</Collab_regions_annotation>
+		<Collab_regions_annotation>[30;50],[100;125]</Collab_regions_annotation>
+		<Collab_regions_annotation>[20;100],[299;373]</Collab_regions_annotation>
+		<Collab_regions_annotation>[181;209],[220;241],[247;279],[290;304]</Collab_regions_annotation>
+		<Collab_regions_annotation>[24;35],[60;84],[88;104],[110;121],[143;154],[188;208],[235;243],[263;287],[300;309],[323;385]</Collab_regions_annotation>
+		<Collab_regions_annotation>[27;34],[41;44],[71;76],[91;95],[123;128],[135;160],[190;196],[262;268],[309;317],[368;380]</Collab_regions_annotation>
+		<Collab_regions_annotation>[21;46],[58;88],[92;104],[106;123],[125;165],[193;209],[236;244],[260;285],[301;319],[340;356]</Collab_regions_annotation>
+		<Collab_regions_annotation>[37;71],[75;155],[180;338]</Collab_regions_annotation>
+		<Collab_regions_annotation>[15;75],[204;327]</Collab_regions_annotation>
+		<Collab_regions_annotation>[236;244],[301;315],[311;372],[260;277]</Collab_regions_annotation>
+		<Collab_regions_annotation>[49;80],[112;163],[220;244],[247;286],[290;356]</Collab_regions_annotation>
+		<Collab_regions_annotation>[34;55],[117;129],[140;154],[181;209],[216;244],[246;279],[290;305],[327;369]</Collab_regions_annotation>
+		<Collab_regions_annotation>[17;46],[89;120],[180;205],[266;285]</Collab_regions_annotation>
+		<Collab_regions_annotation>[34;60]</Collab_regions_annotation>
+		<Collab_regions_annotation>[40;165]</Collab_regions_annotation>
+		<Collab_regions_annotation>[37;67],[94;147],[158;189],[322;405]</Collab_regions_annotation>
+		<Collab_regions_annotation>[53;56],[81;86],[96;98],[118;120],[333;337]</Collab_regions_annotation>
+		<Collab_regions_annotation>[14;25],[26;129],[139;167],[179;211],[220;245],[247;286],[290;311]</Collab_regions_annotation>
+	</Collab_regions>
+</Dialog>

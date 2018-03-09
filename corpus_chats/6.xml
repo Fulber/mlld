@@ -1,0 +1,1223 @@
+<?xml version = "1.0" ?>
+<Dialog team="37">
+	<Participants>
+	<Person nickname="Maria_blog"/><Person nickname="lucian-wiki"/><Person nickname="Matei_Wave"/><Person nickname="iulia_chat"/><Person nickname="cristina_forum"/></Participants>	<Topics/>
+		<Body>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="1" ref="0" time="10:11:37">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="2" ref="0" time="10:11:48">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="3" ref="0" time="10:19:23">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="4" ref="0" time="10:28:03">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="5" ref="0" time="10:28:11">hello</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="6" ref="0" time="10:29:10">hello </Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="7" ref="0" time="10:35:13">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="8" ref="0" time="10:35:32">hello</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="9" ref="0" time="10:35:33">:)</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="10" ref="0" time="10:35:38">hi there</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="11" ref="8" time="10:36:47">hello, maria</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="12" ref="0" time="10:37:51">hello everyone:)</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="13" ref="0" time="10:38:48">I hope the others didn't forget about this meeting</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="14" ref="0" time="10:40:21">Cristina has some problems with connecting to the meeting</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="15" ref="0" time="10:40:54">we should wait some moments :)</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="16" ref="0" time="10:46:04">how about matei?</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="17" ref="0" time="10:47:38">I personally don't know anything about Matei; actually, he hasn't confirmed his participation</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="18" ref="17" time="10:48:18">actually, he did</Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="19" ref="0" time="10:48:32">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="20" ref="18" time="10:48:44">I think he forgot to add the other users at his reply</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="21" ref="0" time="10:48:58">hello, cristina</Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="22" ref="0" time="10:49:03">hello </Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="23" ref="0" time="10:49:09">hello</Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="24" ref="0" time="10:49:45">finally worked :) </Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="25" ref="0" time="10:50:30">can anyone call matei to remaind him about this meeting?</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="26" ref="0" time="10:50:40">let's wait for tem more minutes, maybe matei will show up</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="27" ref="25" time="10:50:55">I've emailed him. don;t know if it works</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="28" ref="0" time="10:51:37">i have an organizatorical question about this second chat... </Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="29" ref="28" time="10:51:52">sure, go ahead</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="30" ref="0" time="10:52:09">as far as i've understood we should discuss this:&quot;You are in the board of decisions of a company that plans to use collaborative technologies for its activities&quot;</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="31" ref="0" time="10:52:17">right?</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="32" ref="0" time="10:52:37">i understood the same thing </Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="33" ref="0" time="10:53:09">me too</Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="34" ref="0" time="10:53:18">so </Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="35" ref="0" time="10:53:43">ok... so what's the difference between chats 1,2,3,45 and 6 and 7... </Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="36" ref="0" time="10:54:34">in the emails chats 6 and 7 were called control groups... what is that meaning?</Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="37" ref="0" time="10:55:04">good question?</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="38" ref="36" time="10:55:11">I do not think it is our concern</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="39" ref="0" time="10:55:30">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="40" ref="0" time="10:55:52">hello Matei</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="41" ref="0" time="10:55:53">maybe it's not... but i'm curious...:D</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="42" ref="0" time="10:55:58">hello</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="43" ref="0" time="10:56:02">ohhh matei is here</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="44" ref="0" time="10:56:08">now we can start</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="45" ref="0" time="10:56:08">sorry for the delay: java problems</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="46" ref="0" time="10:56:09">:)</Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="47" ref="30" time="10:56:25">so we are going to talk about what Maria said  </Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="48" ref="0" time="10:57:04">noe that the board members are all here, should we start?</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="49" ref="0" time="10:57:11">* now that</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="50" ref="47" time="10:57:16">yes, it's kind of a deja vu, we still have to praise/defend our solution</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="51" ref="0" time="10:57:47">we can propose more than one solution</Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="52" ref="" time="10:58:48">so we have to defend our solution or not ?</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="53" ref="0" time="10:58:50">in the last chat we've conclusionated that there isn't a tool good for everything... every tool has his up sides :)</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="54" ref="50" time="10:58:57">I do not think we have to defend them</Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="55" ref="0" time="10:59:02">k </Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="56" ref="53" time="10:59:18">sure</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="57" ref="0" time="10:59:22">so what kind of company we have?</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="58" ref="53" time="10:59:28">Exactly, and now we will have to expand that</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="59" ref="0" time="10:59:52">guys, to simplify things, say we are a software developping company</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="60" ref="57" time="10:59:54">I do not think it is relevant, but I believe we should have something IT related</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="61" ref="57" time="11:00:02">suppose we work in a multinational company on a software project</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="62" ref="0" time="11:00:42">Ok then, now let's decide upon the actions we will have to consider for the collaboration</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="63" ref="0" time="11:00:55">ok so we need to talk with persons far far away:P </Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="64" ref="62" time="11:01:13">how could we enhance collaboration between team members and between the company and client? sounds ok?</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="65" ref="62" time="11:01:22">First of all, we must be working on a project</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="66" ref="0" time="11:01:36">sound fine:)</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="67" ref="64" time="11:02:19">we need means to stay in touch and communicate changes we make</Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="68" ref="0" time="11:02:35">how we comunicate with clients ? we have to offer the product through a website  ?</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="69" ref="65" time="11:02:36">Let's assume the team is not at their first project</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="70" ref="" time="11:02:55">and we need a platform to connect all our actions</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="71" ref="67" time="11:02:59">source versioning can cover this, in part</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="72" ref="68" time="11:03:21">first of all, we should communicate to our team</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="73" ref="71" time="11:03:21">source versioning for our code, you mean?</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="74" ref="73" time="11:03:52">yes, everybody has to write a message with the changes they've made</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="75" ref="74" time="11:04:04">I personally think the first thing we do is create a repository for the team</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="76" ref="0" time="11:04:20">in this repository we put general info</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="77" ref="74" time="11:04:25">but that's far from covering every aspect of the process</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="78" ref="0" time="11:04:27">such as coding practices</Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="79" ref="0" time="11:04:31">so we make a wiki </Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="80" ref="0" time="11:04:33">so suppose we have the email for the communication...  this is a slow solution and not very attractive... now let's see how we can improve that:P</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="81" ref="75" time="11:04:35">but who will do it? who decides that? and how</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="82" ref="0" time="11:04:37">team members task etc</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="83" ref="0" time="11:05:01">I believe wikis are a good tool for creating a information hub</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="84" ref="80" time="11:05:19">if we use mail</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="85" ref="79" time="11:05:19">yes we do, but we don't start with that unless we have already decided what to write in it</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="86" ref="0" time="11:05:23">we copy info</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="87" ref="0" time="11:05:26">disperse ir</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="88" ref="0" time="11:05:31">no no</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="89" ref="0" time="11:05:37">you got me all wrong</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="90" ref="0" time="11:05:45">I think that for an it company a wiki for storing the information (how to install this and that or how to create something) is a good idea</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="91" ref="0" time="11:05:59">and not only that</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="92" ref="0" time="11:06:11">My opinion is that we shall start with a chat</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="93" ref="0" time="11:06:15">info about where SRD are located </Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="94" ref="0" time="11:06:26">yes...</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="95" ref="90" time="11:06:28">yes, that's true. Still what do we do for live communication, wikis aren't suitable</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="96" ref="0" time="11:06:36">so wiki is a usefull tool</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="97" ref="0" time="11:06:36">of course</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="98" ref="0" time="11:06:47">but we must have a common trunk of knowledge</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="99" ref="98" time="11:07:03">yes, that is true</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="100" ref="0" time="11:07:13">we keep track of support information (documentation)</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="101" ref="0" time="11:07:19">in a wiki</Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="102" ref="0" time="11:07:20">i think that firs we have in the developing stage to use chat and wiki, and for the promoting stage forum and blogs </Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="103" ref="102" time="11:07:33">good point</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="104" ref="99" time="11:07:34">first of all we should know what each parson is doing and which are each's responsibilities</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="105" ref="104" time="11:07:41">for that we need a wiki</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="106" ref="105" time="11:07:58">but to decide we need a wiki, we shall use the chat</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="107" ref="0" time="11:07:58">for real time communication we could use the chats (whith or wthout video)</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="108" ref="107" time="11:08:10">that is true</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="109" ref="0" time="11:08:27">Ok then, now we know each person's responsabilities</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="110" ref="0" time="11:08:31">we use chats to communicate between developers</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="111" ref="0" time="11:08:54">and developers and client?</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="112" ref="0" time="11:08:54"></Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="113" ref="102" time="11:08:58">i think we should consider google wave as a middleware between chat and wiki</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="114" ref="109" time="11:08:58">also chats can be used during writing the wikis</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="115" ref="0" time="11:08:59">would that be suitable?</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="116" ref="0" time="11:09:11">hmm</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="117" ref="114" time="11:09:14">That is needed in order to controll the information</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="118" ref="0" time="11:09:15">i do not know</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="119" ref="113" time="11:09:29">I see google wave more suited for micro tasks</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="120" ref="0" time="11:09:43">such as developping a certain part of the software</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="121" ref="0" time="11:09:44">theoreticaly all good so far...chat+wiki = good work... but what about employes?</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="122" ref="0" time="11:09:48">certain features</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="123" ref="113" time="11:09:50">we can have quick, short conversations in chat and conferences in wave, and then take the relevant conclusions to wiki</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="124" ref="0" time="11:10:00">we should offer them a good emviroment</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="125" ref="123" time="11:10:00">yes</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="126" ref="119" time="11:10:16">I think waves should be the form of our project, meaning that we should keep all collaborations inside waves</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="127" ref="0" time="11:10:17">and we sould now some thiings about them</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="128" ref="0" time="11:10:27">so i prupose a blog</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="129" ref="0" time="11:10:35">for each person</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="130" ref="0" time="11:10:48">where they can present themsevs</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="131" ref="129" time="11:11:00">I would only use blogs for marketing and promoting the final product</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="132" ref="130" time="11:11:04">developpers' blogs?</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="133" ref="129" time="11:11:09">i think it will be confusing. One blog per product is better</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="134" ref="131" time="11:11:31">so blogs for marketing :)</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="135" ref="134" time="11:11:38">yes :)</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="136" ref="131" time="11:11:49">companies really use them</Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="137" ref="130" time="11:11:54">for personal information and know their skills to know who to ask what</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="138" ref="135" time="11:12:07">moreover, i would use forums for soluting problems</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="139" ref="137" time="11:12:17">Cristina suggested somethiong interesting</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="140" ref="138" time="11:12:25">cristina, what do you think about that?</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="141" ref="0" time="11:12:31">well thing about your company is very big and managers are hireing ppl every month you should be able to know something about those persons</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="142" ref="138" time="11:12:35">i was thinking the same thing. Forums for feedback and bug reports</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="143" ref="142" time="11:13:00">and how to solve certain problems</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="144" ref="143" time="11:13:14">yes, as I said before</Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="145" ref="0" time="11:13:20">if i have a problem on low level i shoul know not to ask the one that knows web development</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="146" ref="141" time="11:13:22">I bet online interviews are often the only choice. Google wave could prove a good solution</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="147" ref="144" time="11:13:50">Cristina, since you're responsible for forums,could you tell us another option?</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="148" ref="146" time="11:14:15">google waves is also good for sharing code or documents</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="149" ref="0" time="11:14:22">so you prupose GW for online interviews?</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="150" ref="148" time="11:14:32">and keeping track of all stages</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="151" ref="148" time="11:14:32">Not the best, but for quick updates, yes</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="152" ref="151" time="11:15:01">online interviews? is that possible?</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="153" ref="150" time="11:15:05">keeping track of changes is something GW seems to have been created for</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="154" ref="0" time="11:15:06">maybe interviews with persons in other countries?</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="155" ref="" time="11:15:12">It seems the best solution: you can upload photos of projects, charts</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="156" ref="155" time="11:15:48">also if we hire someone new, he watches the GW flow of develop</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="157" ref="146" time="11:15:50">Can waves offer more features than live chat?</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="158" ref="0" time="11:15:54">he catches uo fast this way</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="159" ref="157" time="11:16:17">live chat is good for conversation, but it lacks the ability to embed resources</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="160" ref="159" time="11:16:30">good ideea, indeed</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="161" ref="160" time="11:16:42">I never used waves for that</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="162" ref="0" time="11:16:48">i guess the pream,ble could be made on chat and the the chosen candidates can have a more elaborate conference on wave</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="163" ref="162" time="11:17:22">and the interviewers could keep better track on that</Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="164" ref="0" time="11:17:29">we can ofer more information to potential developer by using a forum and ask for solution to problemes that aprear in the developing stage </Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="165" ref="163" time="11:17:33">it's better structured</Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="166" ref="0" time="11:17:43">and can ofer some prizes for diferent solutions </Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="167" ref="0" time="11:17:54">so we should use wave for interviews and for more tehical meetings...</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="168" ref="166" time="11:18:04">cool, but whom do we ask for solutions?</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="169" ref="0" time="11:18:11">I want to ask your opinion on Office Live for collaboration</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="170" ref="169" time="11:18:26">what is this?</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="171" ref="169" time="11:18:33">I never used it</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="172" ref="0" time="11:18:43">a client should never know the weekness of our sistem:D</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="173" ref="0" time="11:18:43">what technology does it build upon?</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="174" ref="172" time="11:19:08">we should hava a different wave for clients</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="175" ref="173" time="11:19:11">collaborative editing of documents/spreadsheets</Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="176" ref="168" time="11:19:18">i don't to potential developer, people with a lot of free time and interested in the project  :)</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="177" ref="0" time="11:19:25">but on the support offered by using Office Offline</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="178" ref="0" time="11:19:31">how collaborative... like google docs?</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="179" ref="177" time="11:19:45">Windows technology then?</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="180" ref="0" time="11:19:52">hey, lucian, i think that we should write all our documents on wikis(exp. SRS,SDD, etc), what is your oppinion? </Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="181" ref="0" time="11:19:54">Microsoft proprietary?</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="182" ref="180" time="11:20:18">well, wikis are good for collaboration</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="183" ref="179" time="11:20:32">yes windows technology, similar to google docs</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="184" ref="0" time="11:20:33">someone starts treh structure of SDD </Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="185" ref="0" time="11:20:37">others fill in</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="186" ref="180" time="11:20:46">excellent</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="187" ref="0" time="11:20:54">if we need to store a project we should use SVN...</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="188" ref="183" time="11:21:16">google docs rule :), but we can use wikis in the same purpose</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="189" ref="187" time="11:21:16">I propose mercurial for source versioning</Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="190" ref="185" time="11:21:17">but with 5 people writing in the same time i don't think is a good idea</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="191" ref="187" time="11:21:18">you are refering to the code itself</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="192" ref="190" time="11:21:53">that is why I believe wikis are making a good comboination with chat</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="193" ref="189" time="11:22:05">it's distributed, meaning every member has his own offline repo that they can sync with the main server</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="194" ref="192" time="11:22:33">we should stik on wikis</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="195" ref="192" time="11:22:52">You write the wiki together and decide each person's role and contribution in the chat</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="196" ref="195" time="11:23:32">google docs has a nice feature ...you can chat while editing</Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="197" ref="0" time="11:23:40">good point</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="198" ref="195" time="11:24:05">are roles implemented in wikis?</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="199" ref="0" time="11:24:06">this office stuff is a good collaborative solution but o don't think is for our company....</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="200" ref="196" time="11:24:10">I believe there are wikis havig the same feature</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="201" ref="200" time="11:24:32">there are professional wikis</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="202" ref="199" time="11:24:33">no it's not, because we have wikis</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="203" ref="0" time="11:24:46">they offer blogging capabilities</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="204" ref="203" time="11:24:53">who?</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="205" ref="0" time="11:25:18">Confluence and social text</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="206" ref="199" time="11:25:18">the drawback is the license, but it has nice integration with other microsoft products like email</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="207" ref="0" time="11:25:20"></Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="208" ref="204" time="11:25:23">oh...you didn't link to your line</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="209" ref="0" time="11:26:12">Maria, what would you use blogs for, except for promoting?</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="210" ref="204" time="11:26:14">Confluence and Social text are 2 wiki based applications: they are centralised solutions, some kind of pror GW</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="211" ref="0" time="11:26:24">in a company we will have pple for every little task: a document writer, a database admin, a grafical designer etc... each person writes in the wiki what he considers important... i don't this writting collaborative documents while chatting is somenthing we trully need</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="212" ref="210" time="11:26:27">cool, i should try them</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="213" ref="0" time="11:26:30">*proto GW</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="214" ref="211" time="11:26:59">good point: what tool is best for diagrams and drawing</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="215" ref="209" time="11:27:58">as i was sayng... I would want that all the employees to have theyr space....</Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="216" ref="0" time="11:28:04">for solution to diferent problems that may apear installing on diferent OS we should use forums </Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="217" ref="214" time="11:28:12">yahoo messenger has the doodle imvironment but it's not professional</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="218" ref="215" time="11:28:26">but thay are part of the same company so everyting should be connected</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="219" ref="214" time="11:28:28">Visio</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="220" ref="217" time="11:28:41">concert chat has the whiteboard</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="221" ref="215" time="11:28:54">I would like for everyone in the company to have a blog where they can present themselves...</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="222" ref="219" time="11:28:56">so office live has its use after all</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="223" ref="220" time="11:29:02">you can do a lot of cool stuff around here</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="224" ref="221" time="11:29:36">This makes the experience more pleasent</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="225" ref="222" time="11:29:38">if it is a Microsoft solution, we should better start preparing some moey</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="226" ref="221" time="11:29:51">might be interesting if there are no team buildings :)</Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="227" ref="225" time="11:30:09">i  think that we are looking for free solutions </Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="228" ref="0" time="11:30:11">:)</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="229" ref="226" time="11:30:14">even with team buildings</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="230" ref="223" time="11:30:16">haha, it wouldn't have crossed my mind, although we're using it right now :)</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="231" ref="223" time="11:30:20">there are also a lot of collaborative whiteboards available online...and free</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="232" ref="230" time="11:30:22">a team building is for a small group</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="233" ref="231" time="11:30:42">would you mind giving some examples?</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="234" ref="229" time="11:30:49">This ideea is for all the company</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="235" ref="0" time="11:30:59">if it is a big company</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="236" ref="235" time="11:31:05">very well put</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="237" ref="0" time="11:31:31">a facebook more related to tech </Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="238" ref="0" time="11:31:43">I like the idea</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="239" ref="0" time="11:31:47">we cannot make team buildings for all the ppl from all the countries or all around the countrie</Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="240" ref="0" time="11:32:22">we make the online </Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="241" ref="239" time="11:32:28">:)</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="242" ref="239" time="11:32:38">we can assume there is a yearly summit</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="243" ref="242" time="11:32:55">which needs planning</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="244" ref="243" time="11:33:06">so now we have blogs to get to know us better, wikis to centralise info, GW to manage project development</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="245" ref="237" time="11:33:18">Many companies use information from their employees' facebook accounts</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="246" ref="0" time="11:33:19">forums as well</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="247" ref="0" time="11:33:36">how do we communicate to clients?</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="248" ref="0" time="11:33:46">team building are rare and if the company hires 3 persons... how would everyone else know about the new arivels?</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="249" ref="239" time="11:33:49">indeed, good point</Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="250" ref="247" time="11:33:54">forum </Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="251" ref="0" time="11:34:09">for diferent problems and solution to them </Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="252" ref="0" time="11:34:14">we can also make a wiki</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="253" ref="0" time="11:34:28">this is how an interface looks like</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="254" ref="0" time="11:34:34">for clients we can have a blog</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="255" ref="0" time="11:34:39">how would you, client, want it changes</Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="256" ref="252" time="11:34:55">for general informations about the product</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="257" ref="0" time="11:34:58">where periodically update the informations</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="258" ref="257" time="11:35:13">but how do they post input?</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="259" ref="254" time="11:35:17">i agree, blogs are best for announcements</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="260" ref="0" time="11:35:27">say they llike to change one of our tables etc</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="261" ref="259" time="11:35:32">they can be followed by means of rss feeds</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="262" ref="259" time="11:35:47">yes, blogs are ideal for communication, but not problem solluting</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="263" ref="262" time="11:35:55">for that we have forums</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="264" ref="258" time="11:35:57">they post comments tot the blog post or in the forum</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="265" ref="0" time="11:36:05">yes  rss feed is good, mailing lists also...</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="266" ref="264" time="11:36:21">posting does not allow modifying text</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="267" ref="0" time="11:36:32">blogs are good jus for offering informations to clients</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="268" ref="0" time="11:36:50">forums are good internaly for problen solving</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="269" ref="266" time="11:36:55">in a wiki they could edit what we offer them</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="270" ref="269" time="11:37:12">clients?</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="271" ref="270" time="11:37:19">yes</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="272" ref="266" time="11:37:25">google wave is the best when it comes to editing previous posts</Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="273" ref="0" time="11:37:26">yes but if 200 people modify </Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="274" ref="269" time="11:37:32">i wouldn't use wikis for that, but it might be interesting</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="275" ref="270" time="11:37:38">why we would want clients to modify our offer?</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="276" ref="273" time="11:37:41">200 clients?</Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="277" ref="269" time="11:37:41">and also is the spam problem </Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="278" ref="269" time="11:37:44">company wiki shouldn't be open for public editing</Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="279" ref="276" time="11:38:08">everibody can make changes on wiki if you let them </Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="280" ref="277" time="11:38:13">spam? we can restrict editing rights straightforward</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="281" ref="278" time="11:38:13">I agree, wikis are not for comunicating and establishing relations</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="282" ref="281" time="11:38:34">they are actually used this way in bussiness :)</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="283" ref="281" time="11:38:36">i igree too...</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="284" ref="281" time="11:38:44">wikis are for howtos and technical details/documentation</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="285" ref="282" time="11:38:55">really? i didn't know</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="286" ref="0" time="11:38:55">wikis forums and chats sould be used internally</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="287" ref="286" time="11:39:16">off course, nobody would chat with clients</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="288" ref="285" time="11:39:18">the professional solutions I mentioned are used this way</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="289" ref="287" time="11:39:35">maybe only for real time tech support</Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="290" ref="286" time="11:39:40">forums i think should be opened to clients </Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="291" ref="290" time="11:40:09">yes, problems come from clients too</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="292" ref="290" time="11:40:34">if we developped GW, client could indicate what we needed to change</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="293" ref="291" time="11:40:41">i've seen companies using the pair (chat, forum) for sollutions</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="294" ref="290" time="11:40:42">like bug ticketing or smth like?</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="295" ref="294" time="11:40:57">bug signaling</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="296" ref="294" time="11:41:04">yes, that is a usage</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="297" ref="295" time="11:41:14">oh sory:D</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="298" ref="296" time="11:41:17">sounds very helpful</Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="299" ref="290" time="11:42:02">so for the promoting and testing part we user blog and forums ?</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="300" ref="292" time="11:42:07">what do you mean, develop google wave?</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="301" ref="0" time="11:42:19">but for this we could have throu email an error report...</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="302" ref="301" time="11:42:35">what for?</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="303" ref="300" time="11:42:35">or any new product that needs feedback from many people</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="304" ref="302" time="11:42:57">for bug reporting...</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="305" ref="303" time="11:43:01">waves is a good tool for feedback, and so are blogs </Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="306" ref="301" time="11:43:25">automated error reporting is done through email best</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="307" ref="305" time="11:43:35">I actually wanted to say that GW was released to the public to be tested</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="308" ref="" time="11:43:53">like when the application crashes and asks the user to submit the info</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="309" ref="308" time="11:44:13">:))</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="310" ref="308" time="11:44:19">cool</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="311" ref="307" time="11:44:21">yes, but that's over, it's a stable release now</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="312" ref="308" time="11:44:32">this is what i was thinking of ....</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="313" ref="310" time="11:44:35">let's hope our fictional application won't crash</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="314" ref="0" time="11:45:08">so let's conlusionate....</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="315" ref="311" time="11:45:13">I agree</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="316" ref="0" time="11:45:35">shall we state the usage for each tool or consider the utilities forst?</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="317" ref="313" time="11:45:36">it's good to be optimistic, but then again be pragmatic and implement error handling</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="318" ref="317" time="11:46:10">I know...but it's fictional :0</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="319" ref="316" time="11:46:17">usages and the utilities</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="320" ref="316" time="11:46:28">who wants to start?</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="321" ref="320" time="11:47:06">we have
+	- quick communication: chat</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="322" ref="321" time="11:47:16">I believe chat is a good tool for any short conversation</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="323" ref="0" time="11:47:24">conferences and design collaboration: wave</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="324" ref="322" time="11:47:25">and brainstorming</Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="325" ref="321" time="11:47:34">wikis for sdd srs etc. </Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="326" ref="323" time="11:47:50">waves is also good for keeping track of progress</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="327" ref="316" time="11:47:52">blogs for presentation to customer</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="328" ref="325" time="11:48:03">blogs for customer announcements and news</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="329" ref="328" time="11:48:10">yes, publicity</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="330" ref="325" time="11:48:11">actually, wikis for any official document or todo list</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="331" ref="0" time="11:48:16">forums for support</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="332" ref="331" time="11:48:25">nice</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="333" ref="0" time="11:48:33">is that all?</Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="334" ref="0" time="11:48:41">i think so</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="335" ref="0" time="11:48:44">email for automated bug reporting</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="336" ref="0" time="11:48:54">and i stand for my ideea that every employee shoud have his personal blog so that every other employee to know something more than just his name....</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="337" ref="0" time="11:48:56">that's about all I could remember :)</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="338" ref="0" time="11:49:01">could we find a replacement for email?</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="339" ref="338" time="11:49:13">since it is not on the list</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="340" ref="339" time="11:49:28">maybe chat for real-time and forum elsewhere?</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="341" ref="336" time="11:49:33">might get crowded and confusing, but sure, everybody's free to have a blog outside the development process</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="342" ref="0" time="11:49:36">it's a good tool</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="343" ref="341" time="11:49:51">that could contribute to company promotion</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="344" ref="336" time="11:49:54">Maria has a point, in my opiniion</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="345" ref="344" time="11:50:22">I also agree, it's just like facebook</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="346" ref="344" time="11:50:22">think why team building were created</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="347" ref="336" time="11:50:27">all the team knows the tech abilities/ strong points of each meber</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="348" ref="346" time="11:50:58">so that employees should know each other better and work better</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="349" ref="348" time="11:51:09">this is what blogs offers also</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="350" ref="349" time="11:51:26">a better understanding of the other employee</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="351" ref="349" time="11:51:31">yes, we should use them for this reason</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="352" ref="349" time="11:51:39">of course, but the question is: should this be officially included in the development process?</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="353" ref="351" time="11:51:55">but i believe we should have a format</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="354" ref="352" time="11:52:11">wikis would have a link tp each memeber's page</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="355" ref="353" time="11:52:15">this in order not to get too much information</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="356" ref="353" time="11:52:21">each blog is like a wiki page, ok</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="357" ref="0" time="11:52:22">?</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="358" ref="354" time="11:52:38">good point, i agree with that</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="359" ref="355" time="11:52:41">simple to create</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="360" ref="352" time="11:52:57">I don't know ehat are you really mean... are team buildings included?</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="361" ref="360" time="11:53:40">I think he refferd to blogs</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="362" ref="360" time="11:53:54">it shouldn't obly the employee, but it is a nice thig to have for those who want to post info about themselves</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="363" ref="361" time="11:53:58">yes indeed</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="364" ref="360" time="11:54:08">team building should be only during face to face meeting</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="365" ref="" time="11:54:18">meetings</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="366" ref="364" time="11:54:57">but blogs are an interesting replacement when lacking that</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="367" ref="0" time="11:55:21">i will leave early tonight as i have to catch the last subway train to home :)</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="368" ref="367" time="11:55:58">thank you for your time, Matei</Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="369" ref="352" time="11:56:14">i think that we covered every aspect</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="370" ref="362" time="11:56:19">i thing every person should have a blog page in wich he/she can write basic information like a picture/name/years i dunno... and if they want more ellaborate informations like what hobbys they have and so on</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="371" ref="368" time="11:56:23">my pleasure, and confratulations to all for the collaborative conference</Utterance>
+		</Turn>
+		<Turn nickname="Matei_Wave">
+			<Utterance genid="372" ref="0" time="11:56:30">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="373" ref="371" time="11:56:56">so, any need we should address?</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="374" ref="0" time="11:57:05">any other problem?</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="375" ref="369" time="11:57:21">me too</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="376" ref="374" time="11:57:32">nope</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="377" ref="0" time="11:57:36">we should end here</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="378" ref="0" time="11:57:41">no, i thing it's all crear</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="379" ref="377" time="11:57:50">that's that then :)</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="380" ref="0" time="11:57:52">*clear</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="381" ref="378" time="11:57:57">ok then, thank you for the collaboration</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="382" ref="0" time="11:57:58">thank you, all</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="383" ref="0" time="11:58:06">bye</Utterance>
+		</Turn>
+		<Turn nickname="Maria_blog">
+			<Utterance genid="384" ref="0" time="11:58:09">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="385" ref="381" time="11:58:10">I will take care of everything from now on</Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="386" ref="369" time="11:58:12">bye</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="387" ref="0" time="11:58:13">bye bye</Utterance>
+		</Turn>
+		<Turn nickname="cristina_forum">
+			<Utterance genid="388" ref="0" time="11:58:20">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="389" ref="385" time="11:58:29">thanks for that </Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="390" ref="0" time="11:58:32">bye bye</Utterance>
+		</Turn>
+		<Turn nickname="lucian-wiki">
+			<Utterance genid="391" ref="0" time="11:58:34">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="iulia_chat">
+			<Utterance genid="392" ref="0" time="11:58:49">leaves the room</Utterance>
+		</Turn>131
+	</Body>
+	<Annotation>
+		<Implicit_refs>
+		</Implicit_refs>
+	</Annotation>
+	<Collab_regions>
+		<Collab_regions_annotation>[131;159],[247;286]</Collab_regions_annotation>
+		<Collab_regions_annotation>[64;89],[102;134],[159;186],[215;246],[317;362]</Collab_regions_annotation>
+		<Collab_regions_annotation>[57;70],[90;120],[128;141],[146;160],[187;211],[221;226],[342;351]</Collab_regions_annotation>
+		<Collab_regions_annotation>[134;272],[150;284]</Collab_regions_annotation>
+		<Collab_regions_annotation>[180;197],[229;240]</Collab_regions_annotation>
+		<Collab_regions_annotation>[67;80],[104;124],[131;142],[152;163],[201;211],[217;234],[274;289],[321;330],[343;364]</Collab_regions_annotation>
+		<Collab_regions_annotation>[33;64],[81;130],[154;325]</Collab_regions_annotation>
+		<Collab_regions_annotation>[57;62],[244;314]</Collab_regions_annotation>
+		<Collab_regions_annotation>[30;38],[57;61],[67;83],[104;114],[141;155],[162;167],[182;189],[217;227],[248;276],[322;331]</Collab_regions_annotation>
+		<Collab_regions_annotation>[62;168],[184;202],[321;366]</Collab_regions_annotation>
+		<Collab_regions_annotation>[68;127],[131;337]</Collab_regions_annotation>
+		<Collab_regions_annotation>[64;83],[104;110],[113;126],[164;179],[221;234],[253;269],[286;293],[316;331],[340;355]</Collab_regions_annotation>
+		<Collab_regions_annotation>[50;63],[137;168],[336;364]</Collab_regions_annotation>
+		<Collab_regions_annotation>[13;20],[25;37],[57;63],[64;83],[90;103],[104;114],[123;167],[172;184],[187;227],[272;313]</Collab_regions_annotation>
+		<Collab_regions_annotation>[65;78],[106;114],[127;138],[187;193],[214;220],[254;284],[294;308],[320;359]</Collab_regions_annotation>
+		<Collab_regions_annotation>[105;126],[128;146],[147;167],[187;225],[226;243],[294;306],[314;370]</Collab_regions_annotation>
+		<Collab_regions_annotation>[70;80],[121;135],[156;170],[188;196]</Collab_regions_annotation>
+		<Collab_regions_annotation>[50;54],[59;80],[102;121],[128;142],[147;167],[187;211],[342;366]</Collab_regions_annotation>
+		<Collab_regions_annotation>[62;166],[180;199],[234;269],[273;336]</Collab_regions_annotation>
+		<Collab_regions_annotation>[130;180],[249;290],[300;350]</Collab_regions_annotation>
+		<Collab_regions_annotation>[64;80],[90;103],[123;167],[211;215],[247;298],[321;331]</Collab_regions_annotation>
+		<Collab_regions_annotation>[30;41],[64;74],[112;120],[129;138],[164;169],[174;181],[211;222],[241;245],[278;287],[328;331]</Collab_regions_annotation>
+		<Collab_regions_annotation>[64;113],[137;182],[190;210]</Collab_regions_annotation>
+		<Collab_regions_annotation>[53;79],[92;121],[146;167],[169;231],[267;310],[336;366]</Collab_regions_annotation>
+		<Collab_regions_annotation>[47;56],[62;79],[102;117],[129;140],[146;160],[169;197],[211;227],[239;249],[286;299],[336;360]</Collab_regions_annotation>
+		<Collab_regions_annotation>[30;38],[64;78],[90;103],[121;146],[175;196],[222;225],[231;238],[254;271],[278;290],[320;351]</Collab_regions_annotation>
+		<Collab_regions_annotation>[53;89],[90;145],[146;162],[189;210]</Collab_regions_annotation>
+		<Collab_regions_annotation>[67;83],[119;138],[146;167],[216;229],[244;308],[335;370]</Collab_regions_annotation>
+		<Collab_regions_annotation>[131;161],[256;330],[339;376]</Collab_regions_annotation>
+		<Collab_regions_annotation>[104;120],[123;144],[148;167],[180;211],[216;227],[252;308],[321;336],[341;359]</Collab_regions_annotation>
+		<Collab_regions_annotation>[65;109]</Collab_regions_annotation>
+		<Collab_regions_annotation>[57;102],[113;126],[142;176],[240;370]</Collab_regions_annotation>
+		<Collab_regions_annotation>[35;56],[71;186],[187;197],[214;225],[247;308]</Collab_regions_annotation>
+	</Collab_regions>
+</Dialog>

@@ -1,0 +1,899 @@
+<?xml version = "1.0" ?>
+<Dialog team="38">
+	<Participants>
+	<Person nickname="andreea-wiki"/><Person nickname="Ana_forum"/><Person nickname="Mike-wave"/><Person nickname="andrei-blog"/><Person nickname="Flory_chat"/></Participants>	<Topics/>
+		<Body>
+		<Turn nickname="andreea-wiki">
+			<Utterance genid="1" ref="0" time="10:39:16">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="andreea-wiki">
+			<Utterance genid="2" ref="0" time="10:39:24">hello</Utterance>
+		</Turn>
+		<Turn nickname="andreea-wiki">
+			<Utterance genid="3" ref="0" time="10:39:44">come on, close, closer :-P</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="4" ref="0" time="10:39:48">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="5" ref="0" time="10:40:05">hello</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="6" ref="0" time="10:45:15">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="7" ref="0" time="10:54:39">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="8" ref="0" time="10:55:01">hello</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="9" ref="0" time="10:55:22">are you ready?</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="10" ref="0" time="10:55:25">:)</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="11" ref="0" time="10:55:43">where is mihai?</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="12" ref="9" time="10:55:43">we should wait for mihai</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="13" ref="0" time="10:56:09">late.... as always</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="14" ref="0" time="10:57:22">first of all we should talk about an activity that we should choose</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="15" ref="14" time="10:57:51">for the debate</Utterance>
+		</Turn>
+		<Turn nickname="andreea-wiki">
+			<Utterance genid="16" ref="0" time="11:01:24">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="17" ref="0" time="11:01:27">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="18" ref="0" time="11:02:10">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="andreea-wiki">
+			<Utterance genid="19" ref="0" time="11:03:07">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="andreea-wiki">
+			<Utterance genid="20" ref="15" time="11:05:08">you mean what the company needs in order to decide what technology it needs ?</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="21" ref="0" time="11:06:10">yes</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="22" ref="0" time="11:07:05">we have to debate here about a technology that is the most appropriate</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="23" ref="20" time="11:07:25">for one activity</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="24" ref="0" time="11:08:12">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="25" ref="0" time="11:08:22">hello there</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="26" ref="0" time="11:08:30">sorry for the late entrance</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="27" ref="23" time="11:08:54">what activity?</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="28" ref="27" time="11:09:12">:))</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="29" ref="0" time="11:09:47">that we will choose here</Utterance>
+		</Turn>
+		<Turn nickname="andreea-wiki">
+			<Utterance genid="30" ref="0" time="11:10:02">we have to think at a project or something that it happens in a company and then to decide what technology we should use</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="31" ref="0" time="11:10:05">what is our line of interest?</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="32" ref="29" time="11:10:11">first of all we have to decide one</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="33" ref="29" time="11:10:16">doesn't matter anyway, wave is still best :P</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="34" ref="0" time="11:10:27">it is not about an activity. we should decide which technology  is better for the activities in our company </Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="35" ref="34" time="11:10:46">and what are those activities?</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="36" ref="34" time="11:10:50">first of all let's decide what our company is about</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="37" ref="0" time="11:11:07">Everything that happens in a company</Utterance>
+		</Turn>
+		<Turn nickname="andreea-wiki">
+			<Utterance genid="38" ref="30" time="11:11:24">ok</Utterance>
+		</Turn>
+		<Turn nickname="andreea-wiki">
+			<Utterance genid="39" ref="0" time="11:11:36">let's think about a toy factory?</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="40" ref="0" time="11:11:41">one of the most important activity in a company i think is brainstorming for ideas</Utterance>
+		</Turn>
+		<Turn nickname="andreea-wiki">
+			<Utterance genid="41" ref="0" time="11:12:09">or you want something more general</Utterance>
+		</Turn>
+		<Turn nickname="andreea-wiki">
+			<Utterance genid="42" ref="0" time="11:12:11">?</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="43" ref="39" time="11:12:23">oh come on. We are programmers, let's choose something in our line of work</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="44" ref="43" time="11:12:30">maybe a software firm</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="45" ref="44" time="11:12:39">works for me</Utterance>
+		</Turn>
+		<Turn nickname="andreea-wiki">
+			<Utterance genid="46" ref="0" time="11:12:45">ok</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="47" ref="0" time="11:13:20">well, no matter what the company is about blogs are a must </Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="48" ref="0" time="11:13:24">we don't have to use a specific company</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="49" ref="44" time="11:13:31">I'm ok with that</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="50" ref="0" time="11:13:46">we could talk about something more general</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="51" ref="48" time="11:13:51">i think we do. Different company types require different collaborative tools</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="52" ref="48" time="11:14:01">yes we have </Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="53" ref="51" time="11:14:57">I agree with him. And business relationships vary along with the company profile</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="54" ref="48" time="11:15:03">flory we're the majority, we decide</Utterance>
+		</Turn>
+		<Turn nickname="andreea-wiki">
+			<Utterance genid="55" ref="39" time="11:15:09">but a software company needs a large variety of technologies, so it should be ok</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="56" ref="55" time="11:15:39">depends on the activity. We might just need to use every technology</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="57" ref="54" time="11:16:20">andrei , please focus on the discussion</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="58" ref="55" time="11:16:37">so we are developing software.... let's start with this</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="59" ref="56" time="11:16:47">Wave, chat and forum come to mind for brainstorming, document editing and so on</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="60" ref="58" time="11:17:06">right, so we need a brainstorming tool</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="61" ref="0" time="11:17:10">yes </Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="62" ref="60" time="11:17:19">because every program starts with ideeas</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="63" ref="62" time="11:17:39">we can use chats for that</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="64" ref="62" time="11:17:48">every project let's say</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="65" ref="63" time="11:18:00">skype</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="66" ref="0" time="11:18:03">for brainstorming i agree with using chat</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="67" ref="63" time="11:18:18">depends. Do we want lots of small ideeas? Or brewing up large, well-formed ideeas</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="68" ref="67" time="11:18:40">for the small ones we could use chats, like this one. For larger ones, probably wave is better</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="69" ref="0" time="11:18:45">because is easy to use and simple</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="70" ref="68" time="11:18:50">since it was designed for that kind of stuff</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="71" ref="63" time="11:19:22">I think chat is ok only if distance is a problem for those who work in a project</Utterance>
+		</Turn>
+		<Turn nickname="andreea-wiki">
+			<Utterance genid="72" ref="0" time="11:19:43">if you want developed ideas we can alse wiki, a document that everyone can  edit when is avaialable</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="73" ref="0" time="11:19:55">we used chat for brainstorming, and it was useful</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="74" ref="0" time="11:20:08">but otherwise a face to face conversation is more appropriate</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="75" ref="74" time="11:20:41">but if you use tools like chat you can communicate while working</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="76" ref="72" time="11:20:47">Yes but wave has that cool &quot;in-comment&quot; reply thing. If you want to discuss about a particular item in an ideea, you can write at that exact spot. Wave is built for such kinds of things</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="77" ref="76" time="11:21:04">does wave support videochat?</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="78" ref="77" time="11:22:03">no, not yet</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="79" ref="78" time="11:22:22">then we should use skype</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="80" ref="0" time="11:22:25">i believe that chat supports videochat</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="81" ref="79" time="11:22:49">i agree</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="82" ref="78" time="11:22:53">but I was reffering to the large, well formed ideeas. Like 1-2 pages long. That is what wave could be used for. In the case of small, quick ideeas. Face to face, chat / skype is better</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="83" ref="0" time="11:23:00">so it has an advantage , at least for the moment</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="84" ref="83" time="11:23:29">yes, chat has an advantage when you want to brew up lots of small ideeas in a short time</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="85" ref="82" time="11:23:48">isn't wiki better for large, well formed ideas?</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="86" ref="0" time="11:23:57">yes , but if you think, big ideas, come of out of small ones</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="87" ref="85" time="11:24:27">wave does it better, as I said above, it has all the features of the wiki, but is more flexible. It has that &quot;in-comment&quot; reply thing, for one</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="88" ref="76" time="11:24:37">read this</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="89" ref="87" time="11:25:22">and also lots of cool gadgets for brainstorming. It even has  template for it.</Utterance>
+		</Turn>
+		<Turn nickname="andreea-wiki">
+			<Utterance genid="90" ref="88" time="11:25:52">well, so you need that?, you read and you can comment write with another collor</Utterance>
+		</Turn>
+		<Turn nickname="andreea-wiki">
+			<Utterance genid="91" ref="0" time="11:26:05">or something</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="92" ref="0" time="11:26:28">chat is used for fixed clear problems that we find in an company</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="93" ref="89" time="11:26:32">we can let our software developing teams decide what to use, chat like skype or wave</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="94" ref="93" time="11:27:07">let them work with what they are comfortable</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="95" ref="94" time="11:27:17">and they will probably choose skype</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="96" ref="0" time="11:27:58">which is fine with me :)</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="97" ref="90" time="11:28:18">ok, so everybody agrees that chat's and wave are more suitable for brainstorming?</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="98" ref="97" time="11:28:25">sure</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="99" ref="0" time="11:28:30">ok</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="100" ref="97" time="11:28:49">yep</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="101" ref="0" time="11:28:50">so we can go on to another activity in the company</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="102" ref="0" time="11:28:53">we can improve our public image with a blog</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="103" ref="102" time="11:29:12">right, like a developers blog</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="104" ref="103" time="11:29:18">yes</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="105" ref="104" time="11:29:46">let people know about our projects</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="106" ref="105" time="11:29:59">and patches and updates</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="107" ref="0" time="11:30:15">it's ok , but that is a different activity</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="108" ref="102" time="11:30:24">ok, agree with that but you can also improve the image using forums that speak well of us, where our people post interesting ideas</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="109" ref="0" time="11:30:34">it's a publishing activity</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="110" ref="0" time="11:30:46">for a brainstorming one chat is better</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="111" ref="108" time="11:30:52">forums would be better suited for tech support</Utterance>
+		</Turn>
+		<Turn nickname="andreea-wiki">
+			<Utterance genid="112" ref="0" time="11:31:04">also forums are good because you can answer to customer's questions</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="113" ref="111" time="11:31:11">that also </Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="114" ref="108" time="11:31:14">blogs are better for that</Utterance>
+		</Turn>
+		<Turn nickname="andreea-wiki">
+			<Utterance genid="115" ref="0" time="11:31:16">*useful</Utterance>
+		</Turn>
+		<Turn nickname="andreea-wiki">
+			<Utterance genid="116" ref="0" time="11:31:35">blogs are mostly used to present youself</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="117" ref="109" time="11:31:54">but I think wiki's are good for publishing too</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="118" ref="116" time="11:31:57">and that is what i said we could use it for</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="119" ref="116" time="11:32:12">let blogs bring our image to the public</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="120" ref="117" time="11:32:43">wiki could also be used internally in the software development process</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="121" ref="0" time="11:32:50">blog is more interactive than wiki</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="122" ref="121" time="11:33:14">and also wikis are more tehnical</Utterance>
+		</Turn>
+		<Turn nickname="andreea-wiki">
+			<Utterance genid="123" ref="0" time="11:33:14">we can use wiki for documentation, every software project has to be well documented, and I think it's a tool that makes your life easier</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="124" ref="119" time="11:33:16">and keep those interested updated to our status - if we are hiring, we want to change the location</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="125" ref="121" time="11:33:28">we can use wikis to present our products an other technical stuff</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="126" ref="0" time="11:34:40">we can use wiki for the company presentation , it's history and purposes</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="127" ref="0" time="11:35:21">and also we can have employees chatting with potential custumers on chat rooms or individual chats</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="128" ref="126" time="11:35:40">and blogs for updates and news, wave / chat for brainstorming and forums for client interactions</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="129" ref="128" time="11:37:23">it's too early to sum up </Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="130" ref="0" time="11:37:32">so forums for the technical part of the company</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="131" ref="129" time="11:37:36">i was not summing up, mearly reiterating</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="132" ref="131" time="11:38:07">there are more activities, still</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="133" ref="132" time="11:38:29">like the actual program developement</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="134" ref="130" time="11:38:45">like the customer support, answering questions...</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="135" ref="0" time="11:39:03">it's a little bit off-topic but we can also use other helpful tools</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="136" ref="135" time="11:39:09">like calendars</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="137" ref="134" time="11:39:10">yes, that's pretty much what forums are used for in this case</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="138" ref="136" time="11:39:14">google calendar for example</Utterance>
+		</Turn>
+		<Turn nickname="andreea-wiki">
+			<Utterance genid="139" ref="0" time="11:39:34">for customer support we can use wiki to make tutorials</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="140" ref="138" time="11:39:40">what would that be fore?</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="141" ref="" time="11:39:56">for *</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="142" ref="140" time="11:40:03">planning</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="143" ref="142" time="11:40:12">planning what?</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="144" ref="142" time="11:40:12">scheduling</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="145" ref="144" time="11:40:53">I think that should be in the project documentation or something.</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="146" ref="142" time="11:40:56">for that we can use a chat or a forum so everyone agrees</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="147" ref="144" time="11:40:56">i think it's a must</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="148" ref="0" time="11:40:58">i believe that wikis can be use for task management</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="149" ref="148" time="11:41:11">for a given project</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="150" ref="146" time="11:41:36">google calendar offers support for collaborative scheduling</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="151" ref="0" time="11:41:45">it can be accesed by every employee in the company</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="152" ref="148" time="11:41:56">Yes....and for collaborative editing of project documentation or specifications, wave is probably best</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="153" ref="152" time="11:42:35">i would support wiki on that</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="154" ref="151" time="11:42:44">it can also be use by the project managers to organize their teams</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="155" ref="153" time="11:43:10">both are good, depends on what is the matter really about</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="156" ref="153" time="11:43:13">wave is more flexible</Utterance>
+		</Turn>
+		<Turn nickname="andreea-wiki">
+			<Utterance genid="157" ref="152" time="11:43:36">I think that most companies choose to make their documentation usin wiki</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="158" ref="155" time="11:43:51">well it's good that we have where to choose from </Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="159" ref="157" time="11:43:58">because they don't know about wave, but we do</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="160" ref="159" time="11:44:35">but is wave secure?</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="161" ref="159" time="11:44:45">we could put different teams work with different tools and observe which is more productive</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="162" ref="0" time="11:44:51">because we need something that's reliable too</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="163" ref="161" time="11:45:05">yeah, but that will take time</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="164" ref="163" time="11:45:19">no</Utterance>
+		</Turn>
+		<Turn nickname="andreea-wiki">
+			<Utterance genid="165" ref="0" time="11:45:21">you don't need so many features to make a documentation and most people choose to keep it simple using wiki</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="166" ref="160" time="11:45:29">yes, only the people that the creator of the wave decides to implicate will be allowed to view or edit a document. And those rights may be further restricted by the wave's creator</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="167" ref="165" time="11:46:00">simple is such a relative term</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="168" ref="163" time="11:46:25">until we decide which is better no time is lost</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="169" ref="168" time="11:47:09">but you don't have time to the decide which is best for every project the company has </Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="170" ref="169" time="11:47:41">but we can let each project manager decide which tool is best </Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="171" ref="166" time="11:47:50">so until now, we talked about the ideas generator part a a project, the development one, </Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="172" ref="169" time="11:48:06">we could let the project managers decide. Although I still maintain that wave is better for this task</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="173" ref="0" time="11:48:12">i tkink it remains the selling part</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="174" ref="173" time="11:48:37">maybe a wiki page for the products?</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="175" ref="173" time="11:48:43">for that i think blogs are better</Utterance>
+		</Turn>
+		<Turn nickname="andreea-wiki">
+			<Utterance genid="176" ref="167" time="11:48:58">and forums</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="177" ref="174" time="11:49:01">i already suggested that</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="178" ref="175" time="11:49:05">do you mean the actual selling or advertising? </Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="179" ref="175" time="11:49:17">but you can't put a price for a product on a blog</Utterance>
+		</Turn>
+		<Turn nickname="andreea-wiki">
+			<Utterance genid="180" ref="0" time="11:49:18">advertising</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="181" ref="180" time="11:49:35">oh. Well I agree then</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="182" ref="181" time="11:51:38">but don't you think that we should use a web site for advertising?</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="183" ref="0" time="11:51:41">we can discuss the product features on a blog</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="184" ref="182" time="11:52:01">don't we have to choose between the technologies that we chose in our names?</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="185" ref="183" time="11:52:04">and many visitors will be aware of it</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="186" ref="182" time="11:52:05">we best use both</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="187" ref="184" time="11:52:20">because yeah, a simple site would be best</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="188" ref="0" time="11:53:09">not necessarily</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="189" ref="182" time="11:53:36">other technologies are ok too</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="190" ref="187" time="11:53:56">with blogs we can keep our potential customers up to date</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="191" ref="190" time="11:54:14">but is it reliable</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="192" ref="191" time="11:54:40">what do you mean by reliable?</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="193" ref="191" time="11:54:50">what if somenone makes a blog where he writes things that are not true about us?</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="194" ref="192" time="11:54:53">why would it be less reliable than a website</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="195" ref="193" time="11:55:06">we slap him with a lawsuit</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="196" ref="195" time="11:55:19">if we can afford it</Utterance>
+		</Turn>
+		<Turn nickname="andreea-wiki">
+			<Utterance genid="197" ref="0" time="11:55:32">it would be less reliable than a wiki, because wikis are verified</Utterance>
+		</Turn>
+		<Turn nickname="andreea-wiki">
+			<Utterance genid="198" ref="0" time="11:56:07">but we've talked about that in our first chat</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="199" ref="0" time="11:56:14">well, our blog will be reliable</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="200" ref="199" time="11:57:54">and any publicity is good publicity, if others decide to trash our products we get free advertising, if their comments are untrue and their readers are not dumb</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="201" ref="" time="11:58:22">never assume people are not dumb</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="202" ref="0" time="11:58:33">i think blogs are more personal than wikis, so people that read it will have a more realistic opinion concerning the product (that is discussed in the blog)</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="203" ref="201" time="11:58:35">:)</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="204" ref="0" time="12:01:03">what about sharing solutions between members of a team?</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="205" ref="202" time="12:01:08">they could be more personal, but we talk here about business, flow of money </Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="206" ref="" time="12:01:13">it is easier to choose a product that someone else bought before you</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="207" ref="204" time="12:01:36">if we are talking about programming, then SVN is basically the only way to go here</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="208" ref="206" time="12:01:47">it depends on what you are doing</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="209" ref="208" time="12:02:28">because, after all, we develop software which is customer oriented</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="210" ref="206" time="12:02:45">that's the herd effect</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="211" ref="207" time="12:02:53">if we want to share source code</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="212" ref="0" time="12:03:35">otherwise we could use a forum where everyone writes about the problems they have stumbled upon</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="213" ref="207" time="12:03:51">git is also a solution</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="214" ref="212" time="12:04:09">a private one though. We wouldn't want people finding out about our flaws</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="215" ref="214" time="12:04:30">but wouldn't a wiki be better for that?</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="216" ref="215" time="12:05:19">we need a Question &amp; Answer type of tool. So wikis and blogs are kind of out of the question</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="217" ref="216" time="12:05:45">using blogs internally sounds stupid anyway</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="218" ref="217" time="12:06:22">althoug development journals can be made</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="219" ref="" time="12:06:44">* although</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="220" ref="218" time="12:07:50">and make the journals available for all members of the team</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="221" ref="218" time="12:07:56">that depends on preference actually. Lots of things we discuss here actually depend on how comfortable you are with them</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="222" ref="221" time="12:08:51">not really, we are talking about how a group of professionals can comunicate</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="223" ref="221" time="12:09:04">and if we are a major company we probably use our own solutions</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="224" ref="0" time="12:09:30">another thing we can do is generate reports</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="225" ref="0" time="12:09:55">i had worked with a library called jasperreports that we can use for report generation</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="226" ref="0" time="12:11:38">come on! talk</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="227" ref="0" time="12:11:48">this is a brainstorming</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="228" ref="0" time="12:11:53">any ideea can prove golden</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="229" ref="226" time="12:11:55">i'm thinking of another activity</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="230" ref="229" time="12:12:08">let's have it</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="231" ref="230" time="12:12:28">hold your horses, i don't even have it yet</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="232" ref="231" time="12:13:12">so we have brainstorming, documentation and solution, customer relations, advertising, update information, programming colaboration and reports</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="233" ref="225" time="12:13:17">the financial departament with all of it's activities</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="234" ref="232" time="12:13:20">what else do we need to do?</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="235" ref="233" time="12:13:31">maybe that is what remains...</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="236" ref="233" time="12:13:47">we can use reports for that</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="237" ref="0" time="12:14:04">also, we can use project management tools</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="238" ref="237" time="12:14:12">like primavera :P</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="239" ref="0" time="12:14:13">what are the tools for that?</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="240" ref="235" time="12:14:13">the people at financial need number crunching and simulation software</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="241" ref="239" time="12:14:36">jasperreports, it's a library for java </Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="242" ref="241" time="12:14:59">i don't know if it's best but it does the job and i vouch for it</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="243" ref="0" time="12:15:24">no, i mean wihich one is better: blogs , chat ,wiki  etc.</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="244" ref="0" time="12:15:36">for the reports</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="245" ref="244" time="12:15:55">jasper-something. Andrei just said it</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="246" ref="244" time="12:16:00">jasperreports is used to generate reports in many formats including pdf</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="247" ref="243" time="12:16:03">but is it certified by any financial authority?</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="248" ref="247" time="12:16:31">sorry, that was for andrei's library</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="249" ref="246" time="12:16:57">it collects informations from company databases and generates reports respecting a template </Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="250" ref="249" time="12:17:30">sounds like something usefull</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="251" ref="248" time="12:17:39">fortunatley it's open source</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="252" ref="250" time="12:17:59">now we just need somewhere we can put a download link to our product</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="253" ref="252" time="12:18:08">and i think we're pretty much done</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="254" ref="252" time="12:18:14">we can have sites, forums and blogs for that</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="255" ref="253" time="12:18:26">we can put the links all over the internet</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="256" ref="254" time="12:18:32">and even wiki's</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="257" ref="254" time="12:18:55">Maybe just wikis and blogs. In those we can both describe the product and link it in that page. Forums are good too, but that is not their purpose</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="258" ref="0" time="12:20:22">So....are we about ready to sum up?</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="259" ref="258" time="12:20:39">pretty much i guess</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="260" ref="258" time="12:20:42">I think we are</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="261" ref="0" time="12:21:02">so i think that blogs are a must for public image</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="262" ref="261" time="12:21:10">we should defenetly use them</Utterance>
+		</Turn>
+		<Turn nickname="andreea-wiki">
+			<Utterance genid="263" ref="202" time="12:21:16">wikis for documentation</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="264" ref="261" time="12:21:16">Wave / chat for brainstorming</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="265" ref="0" time="12:21:24">for the projects , chats are a good start</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="266" ref="0" time="12:21:31">forums for customer interaction</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="267" ref="0" time="12:21:43">and forums for debugging problems</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="268" ref="0" time="12:21:55">are we done people?</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="269" ref="0" time="12:22:03">yes</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="270" ref="0" time="12:22:10">good job :)</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="271" ref="0" time="12:22:14">yes</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="272" ref="0" time="12:22:17">yes i think we covered pretty much everything</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="273" ref="0" time="12:22:20">good work</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="274" ref="0" time="12:22:30">now i'm going to bed</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="275" ref="0" time="12:22:37">good night to everyone</Utterance>
+		</Turn>
+		<Turn nickname="andreea-wiki">
+			<Utterance genid="276" ref="0" time="12:22:41">bye</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="277" ref="0" time="12:22:43">nighty night</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="278" ref="0" time="12:22:46">good night!!!</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="279" ref="0" time="12:22:46">bye bye</Utterance>
+		</Turn>
+		<Turn nickname="Mike-wave">
+			<Utterance genid="280" ref="0" time="12:22:47">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="andreea-wiki">
+			<Utterance genid="281" ref="0" time="12:22:49">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="Ana_forum">
+			<Utterance genid="282" ref="0" time="12:22:50">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="Flory_chat">
+			<Utterance genid="283" ref="0" time="12:22:53">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="andrei-blog">
+			<Utterance genid="284" ref="0" time="12:22:55">leaves the room</Utterance>
+		</Turn>
+	</Body>
+	<Annotation>
+		<Implicit_refs>
+		</Implicit_refs>
+	</Annotation>
+	<Collab_regions>
+		<Collab_regions_annotation>[66;97]</Collab_regions_annotation>
+		<Collab_regions_annotation>[30;60],[92;100],[139;153],[173;190],[229;240],[258;267]</Collab_regions_annotation>
+		<Collab_regions_annotation>[48;72],[82;92],[108;128],[145;175],[232;257]</Collab_regions_annotation>
+		<Collab_regions_annotation>[31;38],[43;71],[101;165],[183;199],[204;225],[232;254],[258;267]</Collab_regions_annotation>
+		<Collab_regions_annotation>[29;46],[48;100],[102;109],[110;130],[131;199],[204;216]</Collab_regions_annotation>
+		<Collab_regions_annotation>[36;58],[59;97],[101;133],[135;172],[204;223],[237;257]</Collab_regions_annotation>
+		<Collab_regions_annotation>[36;56],[111;126],[148;166],[191;202],[258;272]</Collab_regions_annotation>
+		<Collab_regions_annotation>[44;53],[59;76],[82;94],[102;128],[144;152],[167;172],[173;183],[202;225],[248;257]</Collab_regions_annotation>
+		<Collab_regions_annotation>[77;97],[101;119],[223;243]</Collab_regions_annotation>
+		<Collab_regions_annotation>[22;54],[63;81],[82;92],[110;168],[175;222],[231;257]</Collab_regions_annotation>
+		<Collab_regions_annotation>[45;97],[150;172],[204;267]</Collab_regions_annotation>
+		<Collab_regions_annotation>[36;56],[58;97],[102;128],[174;202],[238;257]</Collab_regions_annotation>
+		<Collab_regions_annotation>[83;100],[122;126],[173;190],[258;267]</Collab_regions_annotation>
+		<Collab_regions_annotation>[77;116],[177;276]</Collab_regions_annotation>
+		<Collab_regions_annotation>[34;57],[58;96],[98;126],[173;203],[204;221],[233;254],[259;267]</Collab_regions_annotation>
+		<Collab_regions_annotation>[60;100],[239;257]</Collab_regions_annotation>
+		<Collab_regions_annotation>[180;220],[40;70]</Collab_regions_annotation>
+		<Collab_regions_annotation>[66;76],[85;100],[116;136],[165;202],[204;257]</Collab_regions_annotation>
+		<Collab_regions_annotation>[30;55],[63;90],[102;128],[145;166],[174;202],[204;222],[232;266]</Collab_regions_annotation>
+		<Collab_regions_annotation>[48;72],[82;92],[108;128],[145;175],[232;257]</Collab_regions_annotation>
+		<Collab_regions_annotation>[58;100],[102;172],[173;202],[232;253]</Collab_regions_annotation>
+		<Collab_regions_annotation>[40;100],[144;170],[200;250]</Collab_regions_annotation>
+		<Collab_regions_annotation>[68;79],[120;123],[261;267]</Collab_regions_annotation>
+		<Collab_regions_annotation>[27;32],[53;66],[74;78],[85;94],[108;114],[123;130],[165;170],[212;220],[232;239],[264;270]</Collab_regions_annotation>
+		<Collab_regions_annotation>[30;58],[63;97],[102;130],[141;172],[182;202],[207;223],[233;252]</Collab_regions_annotation>
+		<Collab_regions_annotation>[39;54],[60;66],[76;82],[102;108],[111;129],[138;150],[152;161],[165;172],[204;218],[233;251]</Collab_regions_annotation>
+		<Collab_regions_annotation>[59;76],[82;96],[111;125],[160;260]</Collab_regions_annotation>
+		<Collab_regions_annotation>[30;100],[173;206],[233;257]</Collab_regions_annotation>
+		<Collab_regions_annotation>[14;58],[67;98],[102;172],[173;232],[234;273]</Collab_regions_annotation>
+		<Collab_regions_annotation>[30;58],[67;96],[108;134],[148;190],[200;232]</Collab_regions_annotation>
+		<Collab_regions_annotation>[50;56],[82;98],[111;130],[159;173],[247;258]</Collab_regions_annotation>
+		<Collab_regions_annotation>[27;58],[71;97],[139;187]</Collab_regions_annotation>
+		<Collab_regions_annotation>[30;78],[94;114],[141;217],[240;279]</Collab_regions_annotation>
+		<Collab_regions_annotation>[59;100],[102;129],[140;177],[204;230],[252;257]</Collab_regions_annotation>
+	</Collab_regions>
+</Dialog>

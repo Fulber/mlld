@@ -1,0 +1,832 @@
+<?xml version = "1.0" ?>
+<Dialog team="36">
+	<Participants>
+	<Person nickname="vlad_wiki"/><Person nickname="stefan_blog"/><Person nickname="anda_wave"/><Person nickname="luci_forum"/><Person nickname="ale_chat"/></Participants>	<Topics/>
+		<Body>
+		<Turn nickname="luci_forum">
+			<Utterance genid="1" ref="0" time="12:23:24">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="2" ref="0" time="12:23:31">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="ale_chat">
+			<Utterance genid="3" ref="0" time="12:24:31">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="4" ref="0" time="12:24:48">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="5" ref="0" time="12:26:00">joins the room</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="6" ref="0" time="12:26:16">hello everyone</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="7" ref="0" time="12:26:33">hello stefan</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="8" ref="0" time="12:26:36">Hello everyone!</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="9" ref="0" time="12:26:42">Hy:)</Utterance>
+		</Turn>
+		<Turn nickname="ale_chat">
+			<Utterance genid="10" ref="0" time="12:26:57">Hello!</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="11" ref="0" time="12:27:07">let's start by naming a department</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="12" ref="0" time="12:27:20">and name a couple of its activities</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="13" ref="0" time="12:27:41">then each we say what technology it's appropriate for the activity, ok?</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="14" ref="0" time="12:28:01">yes, fine by me</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="15" ref="11" time="12:28:34">yes, let's see what department is most important .</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="16" ref="0" time="12:29:04">i think it would be best if we enumerated several activities</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="17" ref="16" time="12:30:08">like in Marketing we have market study</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="18" ref="16" time="12:30:36">Also in Public Relations we have client feedback</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="19" ref="17" time="12:32:03">to have a marketing study is good to watch a community of users, some kind of tool to search on their social accounts.</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="20" ref="0" time="12:32:04">in administration we may have security for instance</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="21" ref="16" time="12:32:24">in human resources we have to hire new employees</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="22" ref="0" time="12:34:05">what does the audit do?</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="23" ref="21" time="12:34:28">so how can we hire them, better than the competition ?</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="24" ref="22" time="12:35:06">for what i know the audit helps improvig business operations</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="25" ref="24" time="12:35:39">and it , promotes corporate governance and  profitability...is it right?</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="26" ref="22" time="12:35:48">audit refers to the process of evaluating a person, a system, a department or even the whole company</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="27" ref="26" time="12:36:18">for that we can use many tehnologies</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="28" ref="0" time="12:36:36">so what kind of tehnology would be useful for this? i mean, what would be useful to communicate  in order to carry out an audit activity</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="29" ref="27" time="12:37:02">yoes, you might be right..</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="30" ref="0" time="12:38:28">i think that it is extremely important to have good communication in a business. i think it matters a lot for business organisations</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="31" ref="0" time="12:38:46">all organisations are in fact made up of people isn't it so?</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="32" ref="31" time="12:38:56">yes they are</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="33" ref="28" time="12:38:57">generally, the auditing  is done using special software for generating reports, analysis, etc... but it can be done using traditional technologies</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="34" ref="30" time="12:39:19">and to have a good communication we to have a good interface, for that we can use a wiki so that information is available for anybody</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="35" ref="33" time="12:39:36">i don't see how a blog can be useful for that, maybe you guys can help :)</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="36" ref="34" time="12:39:38">also i think a forum would be helpfull , am I right ?</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="37" ref="36" time="12:40:20">yes, forums can be used for auditing</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="38" ref="36" time="12:40:43">a forum is always a good idea, especially for postin activity reports</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="39" ref="34" time="12:40:49">yes, you might be right...but isn't wiki oriented on...specific data? that does not involve the information insided an organisation. that kind of information should be kept private. i mean, beweeen the walls of that organisation</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="40" ref="39" time="12:41:36">of course, a private wiki. I forgot to mention the security part</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="41" ref="38" time="12:41:39">i agree. forums might be very useful...but if used excessively..i don't know...</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="42" ref="41" time="12:42:57">well, it's either a forum, or a private wiki for this activity, i don't see how the other technologies can help</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="43" ref="0" time="12:43:15">how can we make sure that if an employer encounters a problem, other employers know about that and should avoid it ?</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="44" ref="40" time="12:43:25">but i really do believe that it is utterly important that one should always be kept informed in the progress if the company. and the people in te company should always talk and communicate. i believe that google wave would be very suitable for a great number of activities</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="45" ref="41" time="12:43:41">as I said... although special software is required for auditing, a private forum or a private wiki can also be used... i am not saying to use forums exclusively or excessively</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="46" ref="42" time="12:43:46">probably, let's try to look to other activities.</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="47" ref="46" time="12:44:05">what about brainstorming</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="48" ref="44" time="12:44:40">google wave and chat are suitable for brainstorming</Utterance>
+		</Turn>
+		<Turn nickname="ale_chat">
+			<Utterance genid="49" ref="47" time="12:45:07">well, i think that is the exclusive domain for chat</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="50" ref="44" time="12:45:24">how does google wave help in communication between employers ?</Utterance>
+		</Turn>
+		<Turn nickname="ale_chat">
+			<Utterance genid="51" ref="49" time="12:45:31">and, yes, google wave too</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="52" ref="50" time="12:45:57">it provides real time communication</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="53" ref="49" time="12:46:13">so we should make special chat-rooms for brainstorming ?</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="54" ref="53" time="12:46:40">yes, i think we are conducting a brainstorming right now</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="55" ref="51" time="12:47:57">but which do you think is best, wave or chat?</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="56" ref="53" time="12:48:25">wave certainly. in a company i mean. beacuse it allows a lager number of persons to use it</Utterance>
+		</Turn>
+		<Turn nickname="ale_chat">
+			<Utterance genid="57" ref="56" time="12:48:54">i know it does. butit might get a little ambiguous sometimes</Utterance>
+		</Turn>
+		<Turn nickname="ale_chat">
+			<Utterance genid="58" ref="57" time="12:49:17">aand it might annoy people and be a wall against effective communication</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="59" ref="58" time="12:49:25">i don't believe that</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="60" ref="50" time="12:49:34">each employee should have it's own blog, to post updates on his/her's project status</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="61" ref="60" time="12:50:16">yes, but you surely can't use a blog for brainstorming</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="62" ref="58" time="12:50:16">first of all google wave allows you to use a lot of thins that you cannot use in a chat room: pictures, maps, plans, not to mention that everything happens in real time</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="63" ref="58" time="12:50:52">it might be harder at first, but i assure you that it's very useful</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="64" ref="62" time="12:50:55">yes, we know that, but I find all that confusing...</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="65" ref="61" time="12:51:10">;))i'm not sure about that...but a forum might be very useful for the emplyees. in order for them to find out the latest and immediate news</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="66" ref="64" time="12:51:29">yes, but once you get the hang of it it's easy</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="67" ref="65" time="12:51:53">that sounds like a job for the mighty blog</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="68" ref="66" time="12:52:04">i should really give another chance to google wave, then</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="69" ref="0" time="12:52:23">if i am kept well informed about company plans and progress it is obvious that i will make a better employe. and i think that this information would come best through a forum</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="70" ref="68" time="12:52:39">further more, you should provide training for the users</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="71" ref="68" time="12:52:59">;))oh come on..i would give a chance to a forum too. it's just they are suitable in various activities</Utterance>
+		</Turn>
+		<Turn nickname="ale_chat">
+			<Utterance genid="72" ref="71" time="12:53:56">yes, for instance a chat would be best in a man to man communication. it would cetainly save a lot of time if two persons nedd to talk briefly abot something</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="73" ref="67" time="12:53:57">you can subscribe to a blog via RSS and get emails about recent activities</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="74" ref="73" time="12:55:26">i think a blog would be appropriate for persons like the directors or the chief executives. persons that are important to everybody and that sit in the &quot;top&quot; of the business. persons whose information would help everyone</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="75" ref="0" time="12:57:31">what about market studying ? </Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="76" ref="0" time="12:57:55">i think it's an important part of the company</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="77" ref="75" time="12:58:18">that's a very important activity for a company nowadays</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="78" ref="76" time="12:58:20">that certainly would need google wave</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="79" ref="78" time="12:58:38">please elaborate</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="80" ref="78" time="12:58:41">when conducting a market study, you do a lot of talking, like chat or wave</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="81" ref="78" time="12:58:42">how can we use it ? </Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="82" ref="77" time="12:59:19">indeed it is. and to do it well several employees in the marketing department will always need to talk between them</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="83" ref="0" time="12:59:42">so what google wave would do for them is to allow them to have efficient brainstorming</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="84" ref="83" time="01:00:08">a blog won't be of any help in a market study</Utterance>
+		</Turn>
+		<Turn nickname="ale_chat">
+			<Utterance genid="85" ref="84" time="01:00:30">yes, it allows good communication in a group of persons</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="86" ref="83" time="01:01:24">yes, but not research... you also need research for a market study... you need to  gather information, statistics from different forums, wikis. how does wave cope with that?</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="87" ref="81" time="01:02:02">a market study is when you are starting a new business or launching a new product. isn't it so?</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="88" ref="86" time="01:02:15">yes you need to do reasearch, let me think</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="89" ref="87" time="01:02:22">i think both</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="90" ref="87" time="01:02:32">so that means you would need a lot of opinions form you colleagues a lot of brainstorming..</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="91" ref="87" time="01:02:42">every time you are lauching a new product, you need to do a market study</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="92" ref="87" time="01:02:56">yes</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="93" ref="86" time="01:03:01">we need to search tags that users use on their accounts</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="94" ref="90" time="01:03:02">and that would be very easy to have with a wave that would keep everyone in the talk'</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="95" ref="0" time="01:03:20">in this way we can make a statistic for our study</Utterance>
+		</Turn>
+		<Turn nickname="ale_chat">
+			<Utterance genid="96" ref="94" time="01:04:08">but how can we make statistics with the technology we have now? we could alse use twitter and facebook</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="97" ref="96" time="01:04:31">facebook is probably the best idea for a market study</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="98" ref="86" time="01:04:57">we can make a wiki page to see how our clients react to our products</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="99" ref="97" time="01:04:57">mainly because you can clearly see the likes and interests</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="100" ref="96" time="01:05:15">indeed... there are several software that let you search facebook, twitter and other social networks for new trends</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="101" ref="98" time="01:05:19">you can post product ideas on a blog</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="102" ref="101" time="01:06:04">or subscribe to competitor's blogs</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="103" ref="101" time="01:06:09">yes, that a good idea. you could also make a poll on a forum an let people vote for various products</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="104" ref="101" time="01:06:13">yes, that is true. but i think that the most suitable for this is facebook. ale is right. facebook is the best in finding out what people like or dislike</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="105" ref="0" time="01:06:59">or forums. forums are as well useful. and the company itself may create a forum dedicated to a certain type of product and check the reactions that the posiible clients may have to it</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="106" ref="105" time="01:07:41">yes, it's a usefull way to evaluate a product.</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="107" ref="0" time="01:08:18">and for launching a new product or service i think that a blog or facebook are the best</Utterance>
+		</Turn>
+		<Turn nickname="ale_chat">
+			<Utterance genid="108" ref="104" time="01:08:22">not only facebook. I think you can use youtube the same way. search for the most viewed videos and see what people like</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="109" ref="0" time="01:08:26">for how much time should we do the survey ? or how do we measure the impact ?</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="110" ref="105" time="01:08:34">definately! that is a good idea</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="111" ref="108" time="01:08:42">yes goog idea</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="112" ref="110" time="01:09:42">I would really like to see a forum page or even a blog page for the products I use often, to be able to make suggestions and state my opinion</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="113" ref="108" time="01:09:45">yes ale, but youtube might not be oriented on you product. it is harder to use youtube. but to see precisely people's opinions on your product or on product that are related to it or are similar...then i think blogs and most certainly facebook would be really helpful</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="114" ref="112" time="01:10:15">yes , this will atract many users.</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="115" ref="0" time="01:10:27">it'a a good way to make a commercial</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="116" ref="112" time="01:10:29">i belive almost all products have associated forums and blogs, because it's a good way of obtaining client feedvack</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="117" ref="0" time="01:10:39">or even to raise the number of sales of your product</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="118" ref="114" time="01:11:04">really, i heard a lot of people saying that they have discovered new product or that they have participated to various surveys made on blogs or especially on facebook</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="119" ref="116" time="01:11:20">i haven't found much products that have an associated blog page... </Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="120" ref="0" time="01:11:57">but when it comes to establishing a marketing plan i think that google wave would be very helpful. it involves a lot of brainstorming</Utterance>
+		</Turn>
+		<Turn nickname="ale_chat">
+			<Utterance genid="121" ref="118" time="01:12:10">on twitter, too:)</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="122" ref="0" time="01:12:33">and at the same time chat would be useful. if two participants to a wave have to talk something in private for instance</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="123" ref="119" time="01:12:37">if people love a product, they will make a blog or forum on a fan webpage</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="124" ref="118" time="01:13:09">facebook makes millions every year by selling surveys to companies</Utterance>
+		</Turn>
+		<Turn nickname="ale_chat">
+			<Utterance genid="125" ref="123" time="01:13:13">yes, i agree. i myself use this to fin about new products or to be a fan of others</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="126" ref="0" time="01:14:18">so for doing a market study, which involve research, collaboration, brainstorming we should use either google wave, a chat or a forum, but not a wiki. for promoting we could use a forum or a blog. am I right?</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="127" ref="126" time="01:14:34">yes luci, you are right</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="128" ref="124" time="01:14:50">yes indeed...facebook has gone wild when it comes to the relationship of costumers with the product </Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="129" ref="126" time="01:14:58">wiki dosen't help to much </Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="130" ref="126" time="01:15:11">or a facebook</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="131" ref="0" time="01:15:27">we have talked about promoting a product, what about our internal communication and organisation ?</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="132" ref="129" time="01:15:27">no, it doesn't indeed. not in this domain</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="133" ref="131" time="01:15:51">that's what i was intending to point out</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="134" ref="0" time="01:16:49">but what about recruiting new personnel?</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="135" ref="134" time="01:17:22">you mean Human Resources? i think that's the land for wikis and forums, blogs too </Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="136" ref="134" time="01:17:41">yes we can't talk about how our personnel commuincates if we don't have one yet.</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="137" ref="131" time="01:17:45">when we promote a product we need to identify a market for it, analize the current market, establish a plan. and this work is done by many persons who always need to keep in touch. brainstorming is the most important word in this part. and google wave is the best for brainstorming</Utterance>
+		</Turn>
+		<Turn nickname="ale_chat">
+			<Utterance genid="138" ref="134" time="01:18:13">;)) facebook comes again to my mind. </Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="139" ref="135" time="01:18:39">you need a wiki to specify what do you want from your candidates</Utterance>
+		</Turn>
+		<Turn nickname="ale_chat">
+			<Utterance genid="140" ref="138" time="01:19:16">i've seen that more and more programs are being developed foremployers to fin out the profile of their possible emploees</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="141" ref="139" time="01:19:19">yes, and a forum for the questions candidates may have</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="142" ref="134" time="01:19:19">and a blog to keep updates for new job oppenings</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="143" ref="139" time="01:19:21">yes, also you need to make it visible. so we can promote it threw blogs, forums</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="144" ref="143" time="01:19:43">redunant information</Utterance>
+		</Turn>
+		<Turn nickname="ale_chat">
+			<Utterance genid="145" ref="143" time="01:20:00">but would't it be useful for an employer to know who will come to his intrerview? facebook is not redundant for that</Utterance>
+		</Turn>
+		<Turn nickname="ale_chat">
+			<Utterance genid="146" ref="145" time="01:20:18">;))i'm sorry i had misread</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="147" ref="146" time="01:20:27">no problem</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="148" ref="140" time="01:20:43">you can surely find possible employees on facebook, and judge them by their pictures, likes and friends before you hire them. I am almost certain that before google hires somebody, it first checks his/her facebook profile</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="149" ref="146" time="01:20:55">let's see how smart is this tool that we are in</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="150" ref="142" time="01:21:13">yes, keeping a blog page for new jobs openings is a good ideea.</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="151" ref="148" time="01:21:35">that's an odd thing to do.</Utterance>
+		</Turn>
+		<Turn nickname="ale_chat">
+			<Utterance genid="152" ref="150" time="01:22:18">i've seen big companies having this</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="153" ref="151" time="01:22:34">it's the world we live in, vlad. You wouldn't hire someone with a weird profile. First impression mattters</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="154" ref="151" time="01:22:50">no it isn't actually. it is very normal nowadays. and what is more is that it is growing and growing still in this domain. in finding out who people are and what people do</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="155" ref="153" time="01:23:04">i agree</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="156" ref="154" time="01:23:18">that frightens me...</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="157" ref="156" time="01:23:31">me two</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="158" ref="153" time="01:23:40">indeed. people should be more aware of what they write in their facebook profiles. it can get harmful at a point</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="159" ref="156" time="01:23:49">but that's not the point of our discusiion</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="160" ref="156" time="01:23:56">probably that's why i don't have a facebook profile yet</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="161" ref="157" time="01:24:03">offtopic: the privacy policy of facebook is larger than the U.S. constitution</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="162" ref="160" time="01:24:05">me two :))</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="163" ref="161" time="01:24:13">:))</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="164" ref="0" time="01:24:57">hiring people is a great responsibility.  you need to implement policies relating to the management of individuals. and how could you best know people if not through a social network as large and complex as facebook is?</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="165" ref="" time="01:24:58">so should we make some tools to keep the privacy of our employers ?</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="166" ref="164" time="01:25:34">sorry , wrong refernce</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="167" ref="165" time="01:25:35">;))one can keep one's profile private. that would save him form employers probably</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="168" ref="165" time="01:25:41">yes, that's a security issue</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="169" ref="168" time="01:26:08">we can't fight that with our tools can't we ?</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="170" ref="167" time="01:26:23">but if you are good at something, let's say it's a good idea to brag on facebook, as long as you don't get too arrogant</Utterance>
+		</Turn>
+		<Turn nickname="ale_chat">
+			<Utterance genid="171" ref="0" time="01:26:34">but human resources doesn't only involve hiring people. it also involves training, development, selection</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="172" ref="171" time="01:26:47">training -&gt; wiki</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="173" ref="171" time="01:26:54">agreed.</Utterance>
+		</Turn>
+		<Turn nickname="ale_chat">
+			<Utterance genid="174" ref="0" time="01:27:00">and that is the inside of an organisation. </Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="175" ref="172" time="01:27:04">learning -&gt; wiki</Utterance>
+		</Turn>
+		<Turn nickname="ale_chat">
+			<Utterance genid="176" ref="172" time="01:27:10">wiki, chat rooms, google wave</Utterance>
+		</Turn>
+		<Turn nickname="ale_chat">
+			<Utterance genid="177" ref="176" time="01:27:22">all of these are suitable i think</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="178" ref="0" time="01:27:45">should we detail how or is it obious ? :))</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="179" ref="0" time="01:27:59">let's detail it a bit</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="180" ref="178" time="01:28:28">yea... this is a strong point for wikis. but forums can be used for training too.</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="181" ref="177" time="01:28:38">indeed. and not only that but there should be a great environment in every company. and for that employees should be able to communicate. gogle wave would be best for that</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="182" ref="172" time="01:28:41">training tutorials, how-to's and other such information goes hand in hand with the well-structure wiki</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="183" ref="0" time="01:29:12">or, if it is about non-working communication, a friendly and more personal one i think that many communicate thorough twitter nowadays</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="184" ref="0" time="01:29:41">i think we need to have an engine to search all the wikis. </Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="185" ref="182" time="01:29:51">yes, or with a nice blog made by the trainer</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="186" ref="184" time="01:30:05">are there such engines?</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="187" ref="186" time="01:30:19">i am certain they exist</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="188" ref="184" time="01:30:36">for example if John is new in the company and wants to learn JavaScript he should search the wikis of his colleagues, and find out how did they start learning that language</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="189" ref="188" time="01:31:14">not everyone starts a wiki. more and more people start a personal blog</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="190" ref="188" time="01:31:16">on the contrary, John should search the blogs of his colleagues for wiki tutorials</Utterance>
+		</Turn>
+		<Turn nickname="ale_chat">
+			<Utterance genid="191" ref="188" time="01:31:28">or he might try the company forum</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="192" ref="190" time="01:32:20">yes that's what i meant to say.But you know, try to pull the river to flow how you want :).</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="193" ref="191" time="01:32:30">he can also use chat to ask his colleagues when he runs into a problem..i think a chat would really help him in this matter</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="194" ref="191" time="01:32:36">clearly, a company must have a forum with a dedicated section for training</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="195" ref="192" time="01:32:53">:))</Utterance>
+		</Turn>
+		<Turn nickname="ale_chat">
+			<Utterance genid="196" ref="194" time="01:33:07">good point</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="197" ref="192" time="01:33:58">i'm selling mah product lol :)</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="198" ref="192" time="01:34:02">hey, every tehnology has its strong and weak points...</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="199" ref="0" time="01:36:29">let's talk about the development phase</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="200" ref="0" time="01:36:35">so everybody made his point abot HR</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="201" ref="199" time="01:37:10">hmmm i think in development brainstorming is very useful. and we come again to chats a google wave</Utterance>
+		</Turn>
+		<Turn nickname="ale_chat">
+			<Utterance genid="202" ref="199" time="01:37:47">that's an activity which involves a lot of collaboration - a job for a chat room, maybe an IRC channel</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="203" ref="201" time="01:38:00">i see a pattern here: every aspect of the company needs inter-personal communication, aka chat/wave</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="204" ref="203" time="01:38:15">why don't we implement that everywhere</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="205" ref="201" time="01:38:41">in development not only that the team should always know what there is to be done, but they should also always know the stage that the process of development has reached</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="206" ref="204" time="01:38:44">well, you really can't get away without a chat</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="207" ref="204" time="01:39:44">;))it is true. you cannot do things without interpersonal communcation. communication inside the company is the most important factor for a business to succeed i think</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="208" ref="207" time="01:39:59">this is why waves and chats are extremely useful</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="209" ref="205" time="01:40:27">yes anda, but the developers should log their activity somewhere. their notes, their progress. a forum let you do that in a very organised way</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="210" ref="207" time="01:40:36">yes. Most of life's problems are generated by communication issues, or lack of communication</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="211" ref="209" time="01:41:25">hm...i think that a private wiki would also be suitable for that..</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="212" ref="209" time="01:42:21">a forumis indeed useful too..it is the &quot;history &quot; of a company. it is very good for kkeping track of the company's progress</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="213" ref="211" time="01:42:22">yey</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="214" ref="213" time="01:42:31">:))</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="215" ref="212" time="01:43:05">indeed</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="216" ref="0" time="01:43:48">so we discussed how to implement these tehnologies, now we need to get to work, right ?</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="217" ref="216" time="01:44:03">yes, we just got over the easy part</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="218" ref="216" time="01:44:11">it's easier said than done</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="219" ref="0" time="01:47:34">all in all, i think that the best tools for the development phase are forums and chat rooms, maybe wikis too. more or less, the forums were invented especially for this. think of TRAC + SVN (forum, wiki and software versioning and a revision control)</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="220" ref="219" time="01:48:18">yes, SVN is a very powerfull tool</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="221" ref="0" time="01:48:27">but how can a team communicate faster if not through google wave?</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="222" ref="220" time="01:48:46">yes, for software development it is, even though GIT is better</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="223" ref="219" time="01:49:43">also chats and wave are good anytime, blogs&amp;facebook to promote ideas and people and forums are best for multi-topic communication</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="224" ref="0" time="01:50:56">but how about audits. what should we use in the process of audit?</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="225" ref="224" time="01:52:01">i am sorry, i forgot we have already talked about it.</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="226" ref="0" time="01:53:46">;))so we have mentioned many tools of communication. they all are great if you agree, and they all are useful for various activities</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="227" ref="0" time="01:53:53">if we implement all of these technologies we are sure to make great progress in the company</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="228" ref="227" time="01:54:13">indeed</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="229" ref="226" time="01:54:19">we have to make sure each of the technologies is in its place</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="230" ref="0" time="01:54:36">and chat is everywhere :))</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="231" ref="0" time="01:54:38">we have to use all these technologies in a smart and efficient way</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="232" ref="227" time="01:54:57">:))of course we would make great prfit. but we should use them carefully. tehnology is runnning out of control nowadays. it has become so complex that it can sometimes become a threat for a company</Utterance>
+		</Turn>
+		<Turn nickname="ale_chat">
+			<Utterance genid="233" ref="230" time="01:55:42">yes, you can't make anything without first discussing it on chat</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="234" ref="" time="01:56:06">Never trust a computer you cannot throw out a window -  Steve Wozniak</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="235" ref="" time="01:57:17">yes, so that's why we should be carefull in the first place how we implement the chat. (and make sure our employers don't stay too much on them, they can waste time, rather than talking face to face )</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="236" ref="0" time="01:57:17">i think we made our point people, don't you agree</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="237" ref="234" time="01:57:27">:)) yes. that's what i was saying. we should not forget about real, live communication. a company should certainly have that too. beacuse interhuman relationships and effective work occur when people interract and use all of their senses</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="238" ref="" time="01:57:40">yes, tommorow we get to work, and implement this</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="239" ref="234" time="01:57:42">if you stick to the well known and tested tools, like forums you are safe</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="240" ref="239" time="01:58:01">stop it luci. all of them are great</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="241" ref="0" time="01:58:08">i completely forgot about work</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="242" ref="241" time="01:58:26">i guess i will go to sleep mode now</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="243" ref="0" time="01:58:41">:))taling here in this chat? see? come on come on let us do some work</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="244" ref="0" time="01:59:21">so it's been nice talking to you, good night</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="245" ref="243" time="01:59:23">and let us communicate thorugh a tool like google wave about our spg homework;))</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="246" ref="244" time="02:00:25">good night, it's nice we have reced several great conclusions about these tools. i wonder how our parents could do it without them:)</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="247" ref="240" time="02:00:30">that's all for today. let us start using these tools to complete our university assignments :)</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="248" ref="247" time="02:00:50">of course.;))</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="249" ref="247" time="02:01:27">yes</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="250" ref="0" time="02:01:34">well, that is it. we shall debate on these matters again some other time. after all, we could talk endlessly about them, could we not?</Utterance>
+		</Turn>
+		<Turn nickname="ale_chat">
+			<Utterance genid="251" ref="245" time="02:01:42">nice talking with you guys. goodbye and see you soon.</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="252" ref="250" time="02:01:48">we're stuck in a loop :))</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="253" ref="0" time="02:01:49">good night  my dear colleagues&gt;:D&lt;</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="254" ref="0" time="02:01:52">good night</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="255" ref="250" time="02:01:55">good night</Utterance>
+		</Turn>
+		<Turn nickname="ale_chat">
+			<Utterance genid="256" ref="0" time="02:01:59">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="stefan_blog">
+			<Utterance genid="257" ref="0" time="02:02:02">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="vlad_wiki">
+			<Utterance genid="258" ref="0" time="02:02:02">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="259" ref="255" time="02:02:03">good night</Utterance>
+		</Turn>
+		<Turn nickname="anda_wave">
+			<Utterance genid="260" ref="0" time="02:02:07">leaves the room</Utterance>
+		</Turn>
+		<Turn nickname="luci_forum">
+			<Utterance genid="261" ref="0" time="02:02:08">leaves the room</Utterance>
+		</Turn>
+	</Body>
+	<Annotation>
+		<Implicit_refs>
+		</Implicit_refs>
+	</Annotation>
+	<Collab_regions>
+		<Collab_regions_annotation>[70;97],[116;132],[171;194],[201;212],[216;237]</Collab_regions_annotation>
+		<Collab_regions_annotation>[17;21],[34;74],[75;108],[126;154]</Collab_regions_annotation>
+		<Collab_regions_annotation>[11;34],[43;74],[75;86],[100;126],[188;219]</Collab_regions_annotation>
+		<Collab_regions_annotation>[30;40],[50;66],[172;177]</Collab_regions_annotation>
+		<Collab_regions_annotation>[11;33],[47;58],[75;87],[93;105],[171;194],[201;212],[229;237]</Collab_regions_annotation>
+		<Collab_regions_annotation>[47;64],[75;126],[145;164],[200;210],[229;237]</Collab_regions_annotation>
+		<Collab_regions_annotation>[15;27],[35;41],[51;73],[77;91],[96;108],[110;126],[137;145],[165;170],[188;194],[205;212]</Collab_regions_annotation>
+		<Collab_regions_annotation>[16;74],[80;158],[184;212],[219;237]</Collab_regions_annotation>
+		<Collab_regions_annotation>[75;126],[171;194],[201;212]</Collab_regions_annotation>
+		<Collab_regions_annotation>[11;21],[28;74],[75;130],[134;194]</Collab_regions_annotation>
+		<Collab_regions_annotation>[11;46],[75;110],[134;158],[171;194],[199;225],[226;238]</Collab_regions_annotation>
+		<Collab_regions_annotation>[33;46],[47;74],[75;126],[134;150],[164;194],[199;223]</Collab_regions_annotation>
+		<Collab_regions_annotation>[19;150],[203;227]</Collab_regions_annotation>
+		<Collab_regions_annotation>[37;42],[75;85],[96;105],[113;128],[134;143],[171;194]</Collab_regions_annotation>
+		<Collab_regions_annotation>[13;32],[43;74],[89;100],[112;144],[164;195],[205;213],[219;238]</Collab_regions_annotation>
+		<Collab_regions_annotation>[42;62],[72;148]</Collab_regions_annotation>
+		<Collab_regions_annotation>[30;45],[60;101],[112;128],[140;154],[219;235]</Collab_regions_annotation>
+		<Collab_regions_annotation>[30;45],[47;74],[75;128],[131;164],[171;194],[201;223]</Collab_regions_annotation>
+		<Collab_regions_annotation>[30;45],[75;85],[127;137],[218;230]</Collab_regions_annotation>
+		<Collab_regions_annotation>[31;45],[41;74],[80;102],[135;152],[184;194],[199;212],[219;235]</Collab_regions_annotation>
+		<Collab_regions_annotation>[26;49],[60;105],[112;154]</Collab_regions_annotation>
+		<Collab_regions_annotation>[16;47],[49;88],[101;130],[217;238]</Collab_regions_annotation>
+		<Collab_regions_annotation>[34;43],[61;66],[78;95],[112;119],[148;155],[171;185],[201;208]</Collab_regions_annotation>
+		<Collab_regions_annotation>[17;46],[47;74],[75;111],[199;212]</Collab_regions_annotation>
+		<Collab_regions_annotation>[16;62],[71;74],[80;137],[164;196]</Collab_regions_annotation>
+		<Collab_regions_annotation>[28;45],[47;68],[75;128],[136;164],[172;193],[203;212]</Collab_regions_annotation>
+		<Collab_regions_annotation>[11;150],[171;212],[224;237]</Collab_regions_annotation>
+		<Collab_regions_annotation>[16;27],[46;74],[75;123]</Collab_regions_annotation>
+		<Collab_regions_annotation>[15;26],[36;45],[55;65],[75;100],[108;119],[126;128],[134;143],[171;182],[201;210],[226;233]</Collab_regions_annotation>
+		<Collab_regions_annotation>[19;46],[47;74],[80;130],[179;194]</Collab_regions_annotation>
+		<Collab_regions_annotation>[13;250]</Collab_regions_annotation>
+		<Collab_regions_annotation>[40;54],[123;163]</Collab_regions_annotation>
+		<Collab_regions_annotation>[6;50],[60;140],[160;170]</Collab_regions_annotation>
+		<Collab_regions_annotation>[31;33],[37;42],[155;158],[213;216]</Collab_regions_annotation>
+		<Collab_regions_annotation>[34;65],[70;141],[157;173],[202;239],[249;261]</Collab_regions_annotation>
+		<Collab_regions_annotation>[31;33],[37;42],[155;158],[213;216]</Collab_regions_annotation>
+	</Collab_regions>
+</Dialog>
