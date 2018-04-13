@@ -5,7 +5,7 @@ from utils.parser import ConvParser
 
 class Core(object):
 
-	def __init__(self, corpus_dir):
+	def __init__(self, corpus_dir, scores_dir):
 		self.corpus_dir = corpus_dir
 
 	def write_raw(self, file, ranks):
@@ -22,9 +22,7 @@ class Core(object):
 	def process_one(self, file_name):
 		cp = ConvParser(file_name)
 		ranks = cp.prepareData('English', 5)
-		
-		self.write_raw('data.txt', ranks)
-		
+		self.write_raw(join(self.scores_dir, 'raw_' + file_name +'.txt'), ranks)
 		return ranks
 
 	def process_all(self, start):
@@ -36,7 +34,7 @@ class Core(object):
 			all_ranks.append(ranks)
 	
 def main():
-	core = Core("corpus_chats")
+	core = Core("corpus_chats", "corpus_scores")
 	core.process_all(6)
 
 if __name__ == "__main__":
