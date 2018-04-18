@@ -36,15 +36,15 @@ class ConvParser(object):
 			auth1 = turns[i]['nickname']
 			utt1 = turns[i]['utterance']
 
-			for j in range(depth):
-				auth2 = turns[i + j + 1]['nickname']
-				utt2 = turns[i + j + 1]['utterance']
+			for j in range(1, depth + 1):
+				auth2 = turns[i + j]['nickname']
+				utt2 = turns[i + j]['utterance']
 				
 				print('---[' + self.file_name, ':', utt1['genid'], '~', utt2['genid'], ']---')
 				rank = self.ur.readerbench_all(utt1['text'], utt2['text'], lang)['similarityScores']
-				rank['question'] = int(self.ur.is_question(utt1['text']))
+				rank['question'] = float(self.ur.is_question(utt1['text']))
 				rank['authorReference'] = self.ur.author_reference(auth1, utt1['text'], auth2, utt2['text'])
-				rank['link'] = int(utt1['genid'] == utt2['ref'])
+				rank['link'] = float(utt1['genid'] == utt2['ref'])
 				
 				ranks.append(rank)
 				print(rank)
