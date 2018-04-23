@@ -7,6 +7,7 @@ class Core(object):
 
 	def __init__(self, corpus_dir, scores_dir):
 		self.corpus_dir = corpus_dir
+		self.scores_dir = scores_dir
 
 	def write_raw(self, file, ranks):
 		with open(file, 'a+') as f:
@@ -19,10 +20,10 @@ class Core(object):
 		with open(file, 'a+') as f:
 			json.dump(ranks, f)
 
-	def process_one(self, file_name):
+	def process_one(self, file_name, index):
 		cp = ConvParser(file_name)
-		ranks = cp.prepareData('English', 5)
-		self.write_raw(join(self.scores_dir, 'raw_' + file_name +'.txt'), ranks)
+		ranks = cp.prepareData('English', 1)
+		self.write_raw(join(self.scores_dir, '1_raw_' + str(index) + '.txt'), ranks)
 		return ranks
 
 	def process_all(self, start):
@@ -30,12 +31,13 @@ class Core(object):
 		all_ranks = []
 		
 		for i in range(start, len(corpus)):
-			ranks = self.process_one(corpus[i])
-			all_ranks.append(ranks)
-	
+			ranks = self.process_one(corpus[i], i)
+			all_ranks = all_ranks + ranks
+		self.write_raw(join(self.scores_dir, 'data_raw_1.txt'), all_ranks)
+
 def main():
 	core = Core("corpus_chats", "corpus_scores")
-	core.process_all(6)
+	core.process_all(0)
 
 if __name__ == "__main__":
 	main()

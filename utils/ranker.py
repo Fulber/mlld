@@ -57,9 +57,9 @@ class UtteranceRanker(object):
 	def author_reference(self, auth1, utt1, auth2, utt2):
 		rank = 0.0
 		if auth1.lower() in utt2.lower():
-			rank += 1
+			rank += 0.5
 		if auth2.lower() in utt1.lower():
-			rank += 1
+			rank += 0.5
 		return rank
 
 def main():
