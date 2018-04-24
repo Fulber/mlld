@@ -11,7 +11,7 @@ class SVMTrainer(object):
 	def __init__(self, decimal_precision):
 		self.precision = decimal_precision
 		np.set_printoptions(threshold = np.inf)
-		self.svc = SVC()
+		self.svc = SVC(kernel = 'rbf')
 
 	def read_data(self, filename):
 		with open(filename, 'r') as f:
@@ -25,7 +25,6 @@ class SVMTrainer(object):
 	def train(self, features, labels):
 		non_zero = np.count_nonzero(labels != 0)
 		print('[INFO] ', non_zero, ' links present in training data, out of ', len(labels))
-		
 		self.svc.fit(features, labels)
 
 	def predict(self, file):
@@ -61,9 +60,10 @@ class SVMTrainer(object):
 		print('[INFO] Cross validation reasults: ', cvr)
 
 def main():
-	my_trainer = SVMTrainer(5)
+	my_trainer = SVMTrainer(17)
 	#my_trainer.validate('data_raw.txt')
-	my_trainer.predict('data_raw.txt')
+	#my_trainer.validate('corpus_scores\\10_opt_raw.txt')
+	my_trainer.predict('corpus_scores\\10_opt_raw.txt')
 	print('test')
 
 if __name__ == "__main__":

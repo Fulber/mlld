@@ -26,7 +26,7 @@ class ConvParser(object):
 				})
 		return turns
 
-	def prepareData(self, lang, depth):
+	def prepareData(self, lang, depth, optimize):
 		turns = self.get_turns()
 		print('Ranking ', len(turns), 'turns from ' + self.file_name)
 		
@@ -40,14 +40,17 @@ class ConvParser(object):
 				auth2 = turns[i + j]['nickname']
 				utt2 = turns[i + j]['utterance']
 				
-				print('---[' + self.file_name, ':', utt1['genid'], '~', utt2['genid'], ']---')
-				rank = self.ur.readerbench_all(utt1['text'], utt2['text'], lang)['similarityScores']
-				rank['question'] = float(self.ur.is_question(utt1['text']))
-				rank['authorReference'] = self.ur.author_reference(auth1, utt1['text'], auth2, utt2['text'])
-				rank['link'] = int(utt1['genid'] == utt2['ref'])
+				linked = utt1['genid'] == utt2['ref']
 				
-				ranks.append(rank)
-				print(rank)
+				if not optimize or j == 1 or (optimize and linked):
+					print('---[' + self.file_name, ':', utt1['genid'], '~', utt2['genid'], ']---')
+					rank = self.ur.readerbench_all(utt1['text'], utt2['text'], lang)['similarityScores']
+					rank['question'] = float(self.ur.is_question(utt1['text']))
+					rank['authorReference'] = self.ur.author_reference(auth1, utt1['text'], auth2, utt2['text'])
+					rank['link'] = int(linked)
+					
+					ranks.append(rank)
+					print(rank)
 			
 			count += 1
 

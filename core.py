@@ -8,6 +8,7 @@ class Core(object):
 	def __init__(self, corpus_dir, scores_dir):
 		self.corpus_dir = corpus_dir
 		self.scores_dir = scores_dir
+		self.depth = 10
 
 	def write_raw(self, file, ranks):
 		with open(file, 'a+') as f:
@@ -22,8 +23,8 @@ class Core(object):
 
 	def process_one(self, file_name, index):
 		cp = ConvParser(file_name)
-		ranks = cp.prepareData('English', 1)
-		self.write_raw(join(self.scores_dir, '1_raw_' + str(index) + '.txt'), ranks)
+		ranks = cp.prepareData(lang = 'English', depth = self.depth, optimize = True)
+		self.write_raw(join(self.scores_dir, str(self.depth) + '_opt_raw_' + str(index) + '.txt'), ranks)
 		return ranks
 
 	def process_all(self, start):
@@ -33,7 +34,7 @@ class Core(object):
 		for i in range(start, len(corpus)):
 			ranks = self.process_one(corpus[i], i)
 			all_ranks = all_ranks + ranks
-		self.write_raw(join(self.scores_dir, 'data_raw_1.txt'), all_ranks)
+		self.write_raw(join(self.scores_dir, str(self.depth) + '_opt_raw.txt'), all_ranks)
 
 def main():
 	core = Core("corpus_chats", "corpus_scores")

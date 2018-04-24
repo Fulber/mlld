@@ -1,0 +1,1 @@
+java -mx1g -cp "..\stanford-corenlp-full-2018-02-27\*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9000 -timeout 15000
