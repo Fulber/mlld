@@ -50,9 +50,14 @@ class UtteranceRanker(object):
 		sentences = req.json().get('sentences')
 		for sentence in sentences:
 			tree = sentence.get('parse')
-			if any(tag in tree for tag in ['SBARQ', 'SQ', 'SBAR']):
+			if any(tag in tree for tag in ['SBARQ', 'SQ', 'SBAR', 'SINV']):
 				return True
 		return False
+
+	def is_answer_to_question(self, utt):
+		#TODO: check for possible answers: yes/no/ok/sure/agree/right/wrong/
+		#Find a dictionary for most common answers to a question
+		print('as')
 
 	def author_reference(self, auth1, utt1, auth2, utt2):
 		rank = 0.0
@@ -62,10 +67,31 @@ class UtteranceRanker(object):
 			rank += 0.5
 		return rank
 
+	def author_in_answer(self, auth1, utt1, auth2, utt2):
+		if auth1.lower() in utt2.lower():
+			return True
+		return False
+
+	def author_in_query(self, auth1, utt1, auth2, utt2):
+		if auth2.lower() in utt1.lower():
+			return True
+		return False
+
+	def author_in_cont(self, auth1, utt1, auth2, utt2):
+		if auth1.lower() == auth2.lower():
+			return True
+		return False
+
+	def distance_in_queries(self, id1, id2):
+		return id2 - id1;
+
+	def distance_in_times(self, time1, time2):
+		return time2 - time1;
+
 def main():
 	my_ranker = UtteranceRanker()
 	#response = my_ranker.readerbench_all("Let's think od some activities... and then decide which technology is better", "As we previously disccoused i think a combination of them should be perfect", 'English')
-	response = my_ranker.author_reference("corina", "Mona is out because of her Internet connection! so let's wait for her!", "mona", "Sorry guys")
+	response = my_ranker.author_in_cont("corina", "Mona is out because of her Internet connection! so let's wait for her!", "corina", "Sorry guys")
 	print(response)
 
 if __name__ == "__main__":

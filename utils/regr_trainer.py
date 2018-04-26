@@ -3,6 +3,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import KFold, cross_val_score
 from sklearn.metrics import classification_report
 import numpy as np
+import sys
 
 class Regression(object):
 
@@ -54,15 +55,15 @@ class Regression(object):
 		for train, test in k_fold.split(features):
 			self.train(features[train], labels[train])
 			preds = self.regr.predict(features[test])
-		
+			
 			print(classification_report(labels[test], preds, target_names = ['class 0', 'class 1']))
 
-def main():
+def main(argv):
 	my_trainer = Regression(17)
 	#my_trainer.validate('data_raw.txt')
-	my_trainer.validate('corpus_scores\\10_opt_raw.txt')
+	#my_trainer.validate('corpus_scores\\10_opt_raw.txt')
+	my_trainer.validate('data_raw.txt')
 	#my_trainer.predict('data_raw.txt')
-	print('test')
 
 if __name__ == "__main__":
-	main()
+	main(sys.argv[1:])
