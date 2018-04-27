@@ -1,6 +1,7 @@
 certifi==2018.1.18
 chardet==3.0.4
 cycler==0.10.0
+DateTime==4.2
 idna==2.6
 kiwisolver==1.0.1
 matplotlib==2.2.2
@@ -15,3 +16,4 @@ scikit-learn==0.19.1
 scipy==1.0.0
 six==1.11.0
 urllib3==1.22
+zope.interface==4.5.0

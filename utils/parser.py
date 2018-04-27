@@ -1,5 +1,4 @@
 import xml.etree.ElementTree as ET
-from dateutil import parser
 from utils.ranker import UtteranceRanker as UR
 
 class ConvParser(object):
@@ -46,8 +45,8 @@ class ConvParser(object):
 				if not optimize or j == 1 or (optimize and linked):
 					print('---[' + self.file_name, ':', utt1['genid'], '~', utt2['genid'], ']---')
 					rank = self.ur.readerbench_all(utt1['text'], utt2['text'], lang)['similarityScores']
-					rank['question'] = int(self.ur.is_question(utt1['text']))
-					rank['answer'] = int(self.ur.is_answer_to_question(utt2['text'])
+					rank['question'] = self.ur.is_question(utt1['text'])
+					rank['answer'] = self.ur.is_answer_to_question(utt2['text'])
 					
 					rank['author1'] = self.ur.author_in_answer(auth1, utt1['text'], auth2, utt2['text'])
 					rank['author2'] = self.ur.author_in_query(auth1, utt1['text'], auth2, utt2['text'])
@@ -56,7 +55,7 @@ class ConvParser(object):
 					rank['distance1'] = self.ur.distance_in_queries(int(utt1['genid']), int(utt2['genid']))
 					rank['distance2'] = self.ur.distance_in_times(utt1['time'], utt2['time'])
 					
-					rank['link'] = int(linked)
+					rank['link'] = int(utt1['genid']) == int(utt2['ref'])
 					
 					ranks.append(rank)
 					print(rank)
