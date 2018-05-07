@@ -2,9 +2,8 @@ from sklearn import preprocessing
 from sklearn.svm import SVC
 from sklearn.model_selection import KFold, cross_val_score
 from sklearn.metrics import classification_report
+from data_reader import DataReader as dr
 import numpy as np
-import sys
-
 
 class SVMTrainer(object):
 
@@ -13,11 +12,6 @@ class SVMTrainer(object):
 		
 		self.precision = decimal_precision
 		self.svc = SVC(kernel = 'rbf', class_weight = 'balanced')
-
-	def read_data(self, filename):
-		with open(filename, 'r') as f:
-			lines = f.readlines()
-		return np.around(np.array([x.strip().split(' ') for x in lines]).astype(float), decimals = self.precision)
 
 	def scale_data(self, train_data):
 		self.scaler = preprocessing.StandardScaler().fit(train_data)
@@ -29,7 +23,7 @@ class SVMTrainer(object):
 		self.svc.fit(features, labels)
 
 	def predict(self, file):
-		data = self.read_data(file)
+		data = dr(file).read_data(precision = self.precision)
 		features = data[:, 0:-1]
 		labels = data[:, -1].astype(int)
 		
@@ -48,8 +42,8 @@ class SVMTrainer(object):
 			print('[INFO] Succesfully predicted ', succ_pred, ' links out of ', len(labels[test]))
 
 	def validate(self, file):
-		data = self.read_data(file)
-		features = data[:, 0:-1]
+		data = dr(file).read_data(precision = self.precision)
+		features = data[:, 2:-1]
 		labels = data[:, -1].astype(int)
 		
 		k_fold = KFold(n_splits = 2)
@@ -59,11 +53,11 @@ class SVMTrainer(object):
 		
 			print(classification_report(labels[test], preds, target_names = ['class 0', 'class 1']))
 
-def main(argv):
-	my_trainer = SVMTrainer(17)
+def main():
+	my_trainer = SVMTrainer(-1)
 	#my_trainer.validate('data_raw.txt')
-	my_trainer.validate('corpus_scores\\10_opt_raw.txt')
+	my_trainer.validate('corpus_scores\\v2_5_raw.txt')
 	#my_trainer.predict('corpus_scores\\10_opt_raw.txt')
 
 if __name__ == "__main__":
-	main(sys.argv[1:])
+	main()

@@ -9,8 +9,6 @@ class UtteranceRanker(object):
 		'Content-Type': 'application/json'
 	}
 	
-	time_format = '%H:%M:%S'
-	
 	def __init__(self):
 		self = self
 
@@ -63,6 +61,9 @@ class UtteranceRanker(object):
 			return 1
 		return 0
 
+	def similar_words_count(self, utt1, utt2):
+		return len(set(utt1.split()) & set(utt2.split()))
+
 	def author_reference(self, auth1, utt1, auth2, utt2):
 		rank = 0.0
 		if auth1.lower() in utt2.lower():
@@ -89,8 +90,8 @@ class UtteranceRanker(object):
 	def distance_in_queries(self, id1, id2):
 		return id2 - id1
 
-	def distance_in_times(self, time1, time2):
-		diff = datetime.strptime(time2, self.time_format) - datetime.strptime(time1, self.time_format)
+	def distance_in_times(self, time1, time2, time_format):
+		diff = datetime.strptime(time2, time_format) - datetime.strptime(time1, time_format)
 		return diff.total_seconds()
 
 def main():
