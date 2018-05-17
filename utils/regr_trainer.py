@@ -40,12 +40,16 @@ class Regression(object):
 		features = data[:, 2:-1]
 		labels = data[:, -1].astype(int)
 
+		result = []
 		k_fold = KFold(n_splits = 2)
 		for train, test in k_fold.split(features):
 			self.train(features[train], labels[train])
 			preds = self.regr.predict(features[test])
-			
-			print(classification_report(labels[test], preds, target_names = ['class 0', 'class 1']))
+			precision = precision_score(labels[test], preds, pos_label = 1, average = 'binary')
+			if self.debug:
+				print(classification_report(labels[test], preds, target_names = ['class 0', 'class 1']))
+			result.append(precision)
+		return result
 
 	def validate_proba(self, file, proba_tol):
 		data = dr(file).read_data(precision = self.precision)

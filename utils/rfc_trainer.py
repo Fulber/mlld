@@ -49,7 +49,7 @@ class RandomForest(object):
 			preds = self.rfc.predict(features[test])
 			precision = precision_score(labels[test], preds, pos_label = 1, average = 'binary')
 			if self.debug:
-				print('[INFO] Precision: ', precision)
+				print(classification_report(labels[test], preds, target_names = ['class 0', 'class 1']))
 			result.append(precision)
 		return result
 
