@@ -1,7 +1,7 @@
 from os import listdir
 from os.path import isfile, join
 import json
-from utils.parser import ConvParser
+from mlld.utils.parser import ConvParser
 
 class Core(object):
 
@@ -40,7 +40,7 @@ class Core(object):
 
 def main():
 	core = Core("corpus_chats", "corpus_scores", False)
-	core.process_all(4)
+	core.process_all(0)
 
 if __name__ == "__main__":
 	main()

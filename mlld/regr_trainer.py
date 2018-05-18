@@ -1,7 +1,7 @@
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import KFold, cross_val_score
 from sklearn.metrics import classification_report, precision_score
-from utils.data_reader import DataReader as dr
+from .utils.data_reader import DataReader as dr
 import numpy as np
 
 class Regression(object):

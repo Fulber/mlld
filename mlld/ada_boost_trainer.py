@@ -1,7 +1,7 @@
 from sklearn.ensemble import AdaBoostClassifier
 from sklearn.model_selection import KFold, cross_val_score
 from sklearn.metrics import classification_report, precision_score
-from data_reader import DataReader as dr
+from utils.data_reader import DataReader as dr
 import sys, getopt, numpy as np
 
 class AdaBoost(object):
@@ -10,7 +10,7 @@ class AdaBoost(object):
 		np.set_printoptions(threshold = np.inf)
 		self.precision = decimal_precision
 		self.debug = debug
-		self.ada = AdaBoostClassifier(n_estimators = 1500, learning_rate = 0.8, algorithm = 'SAMME')
+		self.ada = AdaBoostClassifier(n_estimators = 5000, learning_rate = 0.5, algorithm = 'SAMME.R')
 
 	def train(self, features, labels):
 		non_zero = np.count_nonzero(labels != 0)
@@ -49,6 +49,8 @@ class AdaBoost(object):
 			preds = self.ada.predict(features[test])
 			precision = precision_score(labels[test], preds, pos_label = 1, average = 'binary')
 			if self.debug:
+				#print('[INFO] EXPECTED ', labels[test])
+				#print('[INFO] PREDICTED ', preds)
 				print(classification_report(labels[test], preds, target_names = ['class 0', 'class 1']))
 			result.append(precision)
 		return result

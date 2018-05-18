@@ -23,6 +23,13 @@ class DataReader(object):
 			'labels': data[:, -1].astype(int)
 		}
 
+	def write_to_file(self, filename, data):
+		with open(filename, 'a+') as f:
+			for el in data:
+				for _, v in el.items():
+					f.write(str(v) + ' ')
+				f.write('\n')
+
 def main():
 	my_reader = DataReader('corpus_scores\\10_opt_raw.txt')
 	print(my_reader.read_data(-1))

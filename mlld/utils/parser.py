@@ -1,5 +1,5 @@
 import xml.etree.ElementTree as ET
-from utils.ranker import UtteranceRanker as UR
+from .ranker import UtteranceRanker as UR
 
 class ConvParser(object):
 

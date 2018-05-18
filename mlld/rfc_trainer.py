@@ -1,7 +1,7 @@
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import KFold, cross_val_score
 from sklearn.metrics import classification_report, precision_score
-from utils.data_reader import DataReader as dr
+from .utils.data_reader import DataReader as dr
 import numpy as np
 
 class RandomForest(object):
@@ -88,10 +88,18 @@ class RandomForest(object):
 			result[idx] = 1
 		return result
 
-def main():
+def main(argv):
 	my_trainer = RandomForest(-1, debug = False)
+	try:
+		opts, args = getopt.getopt(argv,"d")
+	except getopt.GetoptError:
+		sys.exit(2)
+	for opt, arg in opts:
+		if opt == '-d':
+			my_trainer = RandomForest(-1, debug = True)
+
 	print(my_trainer.validate('corpus_scores\\v2_5_raw.txt'))
 	#print(my_trainer.validate_proba('corpus_scores\\v2_5_raw_inv.txt', 0.872))
 
 if __name__ == "__main__":
-	main()
+   main(sys.argv[1:])

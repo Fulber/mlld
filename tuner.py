@@ -1,6 +1,6 @@
-from utils.regr_trainer import Regression
-from utils.rfc_trainer import RandomForest
-from utils.ada_boost_trainer import AdaBoost
+from mlld.regr_trainer import Regression
+from mlld.rfc_trainer import RandomForest
+from mlld.ada_boost_trainer import AdaBoost
 import sys, getopt
 
 class Tuner(object):
@@ -31,9 +31,7 @@ class Tuner(object):
 		print('ok')
 
 def main(argv):
-	algorithm = ''
-	proba_tol = 0.0
-	step = 0.1
+	algorithm, proba_tol, step = '', 0.0, 0.1
 	try:
 		opts, args = getopt.getopt(argv,"ha:t:s:",["alg=", "tol=", "step="])
 	except getopt.GetoptError:
