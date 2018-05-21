@@ -1,19 +1,21 @@
 from sklearn.linear_model import LogisticRegression
-from sklearn.model_selection import KFold, cross_val_score
+from sklearn.model_selection import KFold, train_test_split, GridSearchCV
 from sklearn.metrics import classification_report, precision_score
 from .utils.data_reader import DataReader as dr
-import numpy as np
+import sys, getopt, numpy as np
 
 class Regression(object):
 
-	def __init__(self, decimal_precision):
+	def __init__(self, decimal_precision, debug):
 		np.set_printoptions(threshold = np.inf)
 		self.precision = decimal_precision
+		self.debug = debug
 		self.regr = LogisticRegression(class_weight = 'balanced')
 
 	def train(self, features, labels):
 		non_zero = np.count_nonzero(labels != 0)
-		print('[INFO] ', non_zero, ' links present in training data, out of ', len(labels))
+		if self.debug:
+			print('[INFO] ', non_zero, ' links present in training data, out of ', len(labels))
 		self.regr.fit(features, labels)
 
 	def predict(self, file):
@@ -69,7 +71,8 @@ class Regression(object):
 				else:
 					feature.append(features[x])
 			preds.extend(self.predict_from_proba(self.regr.predict_proba(feature), proba_tol))
-			print(classification_report(labels[test], preds, target_names = ['class 0', 'class 1']))
+			if self.debug:
+				print(classification_report(labels[test], preds, target_names = ['class 0', 'class 1']))
 			result.append(precision_score(labels[test], preds, pos_label = 1, average = 'binary'))
 		return result
 
@@ -85,12 +88,18 @@ class Regression(object):
 			result[idx] = 1
 		return result
 
-def main():
-	my_trainer = Regression(-1)
-	#my_trainer.validate('data_raw.txt')
-	#my_trainer.validate('corpus_scores\\10_opt_raw.txt')
-	my_trainer.validate_proba('corpus_scores\\v2_5_raw_inv.txt', 0.872)
-	#my_trainer.predict('data_raw.txt')
+def main(argv):
+	my_trainer = Regression(-1, debug = False)
+	try:
+		opts, args = getopt.getopt(argv,"d")
+	except getopt.GetoptError:
+		sys.exit(2)
+	for opt, arg in opts:
+		if opt == '-d':
+			my_trainer = Regression(-1, debug = True)
+
+	#print(my_trainer.validate('corpus_scores\\v2_5_raw.txt'))
+	print(my_trainer.validate_proba('corpus_scores\\v2_5_raw_inv.txt', 0.872))
 
 if __name__ == "__main__":
-	main()
+   main(sys.argv[1:])

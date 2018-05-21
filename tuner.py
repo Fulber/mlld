@@ -1,6 +1,7 @@
 from mlld.regr_trainer import Regression
 from mlld.rfc_trainer import RandomForest
 from mlld.ada_boost_trainer import AdaBoost
+from sklearn.model_selection import GridSearchCV
 import sys, getopt
 
 class Tuner(object):

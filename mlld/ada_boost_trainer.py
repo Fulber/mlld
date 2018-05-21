@@ -1,7 +1,7 @@
 from sklearn.ensemble import AdaBoostClassifier
-from sklearn.model_selection import KFold, cross_val_score
+from sklearn.model_selection import KFold, train_test_split, GridSearchCV
 from sklearn.metrics import classification_report, precision_score
-from utils.data_reader import DataReader as dr
+from .utils.data_reader import DataReader as dr
 import sys, getopt, numpy as np
 
 class AdaBoost(object):
@@ -91,6 +91,21 @@ class AdaBoost(object):
 			result[idx] = 1
 		return result
 
+	def tune_parameters(self, file):
+		data = dr(file).read_data(precision = self.precision)
+		features = data[:, 2:-1]
+		labels = data[:, -1].astype(int)
+		
+		fT, ft, lT, lt = train_test_split(features, labels, test_size = 0.5, random_state = 0)
+		parameters = [{'n_estimators': [100, 500, 1000, 2000, 3000, 4000], 'learning_rate': [.3, .5, .7, 1], 'algorithm': ['SAMME']},
+						{'n_estimators': [100, 500, 1000, 2000, 3000, 4000], 'learning_rate': [.3, .5, .7, 1], 'algorithm': ['SAMME.R']}]
+		
+		clf = GridSearchCV(AdaBoostClassifier(), parameters, cv = 2, scoring = 'f1')
+		clf.fit(fT, lT)
+		print("\nBest parameters set found on development set:\n")
+		print(clf.best_params_)
+		print(classification_report(lt, clf.predict(ft)))
+
 def main(argv):
 	my_trainer = AdaBoost(-1, debug = False)
 	try:
@@ -101,7 +116,8 @@ def main(argv):
 		if opt == '-d':
 			my_trainer = AdaBoost(-1, debug = True)
 
-	print(my_trainer.validate('corpus_scores\\v2_5_raw_inv.txt'))
+	#print(my_trainer.validate('corpus_scores\\v2_5_raw_inv.txt'))
+	my_trainer.tune_parameters('corpus_scores\\v2_5_raw_inv.txt')
 	#print(my_trainer.validate_proba('corpus_scores\\v2_5_raw_inv.txt', 0.5))
 
 if __name__ == "__main__":

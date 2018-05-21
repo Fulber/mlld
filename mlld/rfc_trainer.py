@@ -1,8 +1,8 @@
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.model_selection import KFold, cross_val_score
+from sklearn.model_selection import KFold, train_test_split, GridSearchCV
 from sklearn.metrics import classification_report, precision_score
 from .utils.data_reader import DataReader as dr
-import numpy as np
+import sys, getopt, numpy as np
 
 class RandomForest(object):
 
@@ -10,7 +10,7 @@ class RandomForest(object):
 		np.set_printoptions(threshold = np.inf)
 		self.precision = decimal_precision
 		self.debug = debug
-		self.rfc = RandomForestClassifier(n_estimators = 50, criterion = 'gini', bootstrap = False, class_weight = 'balanced')
+		self.rfc = RandomForestClassifier(n_estimators = 1, random_state = 100, criterion = 'gini', bootstrap = False, class_weight = 'balanced')
 
 	def train(self, features, labels):
 		non_zero = np.count_nonzero(labels != 0)
@@ -71,7 +71,9 @@ class RandomForest(object):
 				else:
 					feature.append(features[x])
 			preds.extend(self.predict_from_proba(self.rfc.predict_proba(feature), proba_tol))
-			
+			if self.debug:
+				print('[INFO] Report', classification_report(labels[test], preds, target_names = ['class 0', 'class 1']))
+				
 			precision = precision_score(labels[test], preds, pos_label = 1, average = 'binary')
 			result.append(precision)
 		return result
@@ -88,6 +90,21 @@ class RandomForest(object):
 			result[idx] = 1
 		return result
 
+	def tune_parameters(self, file):
+		data = dr(file).read_data(precision = self.precision)
+		features = data[:, 2:-1]
+		labels = data[:, -1].astype(int)
+		
+		fT, ft, lT, lt = train_test_split(features, labels, test_size = 0.5, random_state = 0)
+		parameters = [{'n_estimators': [1, 2, 3, 5, 7, 10, 15], 'random_state': [90, 95, 100, 97, 88], 'criterion': ['gini']},
+						{'n_estimators': [1, 2, 3, 5, 7, 10, 15], 'random_state': [90, 95, 100, 97, 88], 'criterion': ['entropy']}]
+		
+		clf = GridSearchCV(RandomForestClassifier(bootstrap = False, class_weight = 'balanced'), parameters, cv = 2, scoring = 'f1')
+		clf.fit(fT, lT)
+		print("\nBest parameters set found on development set:\n")
+		print(clf.best_params_)
+		print(classification_report(lt, clf.predict(ft)))
+
 def main(argv):
 	my_trainer = RandomForest(-1, debug = False)
 	try:
@@ -98,8 +115,9 @@ def main(argv):
 		if opt == '-d':
 			my_trainer = RandomForest(-1, debug = True)
 
-	print(my_trainer.validate('corpus_scores\\v2_5_raw.txt'))
-	#print(my_trainer.validate_proba('corpus_scores\\v2_5_raw_inv.txt', 0.872))
+	my_trainer.tune_parameters('corpus_scores\\v2_5_raw_inv.txt')
+	#print(my_trainer.validate('corpus_scores\\v2_5_raw.txt'))
+	#print(my_trainer.validate_proba('corpus_scores\\v2_5_raw_inv.txt', 0.49))
 
 if __name__ == "__main__":
    main(sys.argv[1:])
