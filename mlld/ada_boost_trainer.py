@@ -1,7 +1,7 @@
 from sklearn.ensemble import AdaBoostClassifier
 from sklearn.model_selection import KFold, train_test_split, GridSearchCV
 from sklearn.metrics import classification_report, precision_score
-from .utils.data_reader import DataReader as dr
+from utils.data_reader import DataReader as dr
 import sys, getopt, numpy as np
 
 class AdaBoost(object):
@@ -10,7 +10,7 @@ class AdaBoost(object):
 		np.set_printoptions(threshold = np.inf)
 		self.precision = decimal_precision
 		self.debug = debug
-		self.ada = AdaBoostClassifier(n_estimators = 5000, learning_rate = 0.5, algorithm = 'SAMME.R')
+		self.ada = AdaBoostClassifier(n_estimators = 50000, learning_rate = .3, algorithm = 'SAMME.R')
 
 	def train(self, features, labels):
 		non_zero = np.count_nonzero(labels != 0)
@@ -31,8 +31,7 @@ class AdaBoost(object):
 			self.train(features[train], labels[train])
 			
 			preds = self.ada.predict(features[test])
-			print('[INFO] Expected: ', labels[test])
-			print('[INFO] Result: ', preds)
+			print('[INFO] ', np.count_nonzero(preds != 0), ' links retrieved by model')
 			
 			succ_pred = np.count_nonzero(preds == labels[test])
 			print('[INFO] Succesfully predicted ', succ_pred, ' links out of ', len(labels[test]))
@@ -49,8 +48,7 @@ class AdaBoost(object):
 			preds = self.ada.predict(features[test])
 			precision = precision_score(labels[test], preds, pos_label = 1, average = 'binary')
 			if self.debug:
-				#print('[INFO] EXPECTED ', labels[test])
-				#print('[INFO] PREDICTED ', preds)
+				print('[INFO] ', np.count_nonzero(preds != 0), ' links retrieved by model')
 				print(classification_report(labels[test], preds, target_names = ['class 0', 'class 1']))
 			result.append(precision)
 		return result
@@ -74,7 +72,8 @@ class AdaBoost(object):
 					feature.append(features[x])
 			preds.extend(self.predict_from_proba(self.ada.predict_proba(feature), proba_tol))
 			if self.debug:
-				print('[INFO] Report', classification_report(labels[test], preds, target_names = ['class 0', 'class 1']))
+				print('[INFO] ', np.count_nonzero(preds != 0), ' links retrieved by model')
+				print(classification_report(labels[test], preds, target_names = ['class 0', 'class 1']))
 			precision = precision_score(labels[test], preds, pos_label = 1, average = 'binary')
 			result.append(precision)
 		return result
@@ -97,12 +96,11 @@ class AdaBoost(object):
 		labels = data[:, -1].astype(int)
 		
 		fT, ft, lT, lt = train_test_split(features, labels, test_size = 0.5, random_state = 0)
-		parameters = [{'n_estimators': [100, 500, 1000, 2000, 3000, 4000], 'learning_rate': [.3, .5, .7, 1], 'algorithm': ['SAMME']},
-						{'n_estimators': [100, 500, 1000, 2000, 3000, 4000], 'learning_rate': [.3, .5, .7, 1], 'algorithm': ['SAMME.R']}]
+		parameters = [{'n_estimators': [100, 500, 1000, 2000, 3000, 4000], 'learning_rate': [.3, .5, .7, 1], 'algorithm': ['SAMME.R']}]
 		
-		clf = GridSearchCV(AdaBoostClassifier(), parameters, cv = 2, scoring = 'f1')
+		clf = GridSearchCV(AdaBoostClassifier(), parameters, cv = 2, scoring = 'precision')
 		clf.fit(fT, lT)
-		print("\nBest parameters set found on development set:\n")
+		print("-----\nBest parameters set found on development set:\n-----")
 		print(clf.best_params_)
 		print(classification_report(lt, clf.predict(ft)))
 
@@ -116,8 +114,8 @@ def main(argv):
 		if opt == '-d':
 			my_trainer = AdaBoost(-1, debug = True)
 
-	#print(my_trainer.validate('corpus_scores\\v2_5_raw_inv.txt'))
-	my_trainer.tune_parameters('corpus_scores\\v2_5_raw_inv.txt')
+	print(my_trainer.validate('corpus_scores\\v2_5_raw_inv.txt'))
+	#my_trainer.tune_parameters('corpus_scores\\v2_5_raw_inv.txt')
 	#print(my_trainer.validate_proba('corpus_scores\\v2_5_raw_inv.txt', 0.5))
 
 if __name__ == "__main__":

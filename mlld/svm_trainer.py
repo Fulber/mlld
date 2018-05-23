@@ -1,9 +1,8 @@
-from sklearn import preprocessing
 from sklearn.svm import SVC
-from sklearn.model_selection import KFold, cross_val_score
+from sklearn.model_selection import KFold, train_test_split, GridSearchCV
 from sklearn.metrics import classification_report, precision_score
-from data_reader import DataReader as dr
-import numpy as np
+from utils.data_reader import DataReader as dr
+import sys, getopt, numpy as np
 
 class SVMTrainer(object):
 
@@ -12,7 +11,7 @@ class SVMTrainer(object):
 		
 		self.precision = decimal_precision
 		self.debug = debug
-		self.svc = SVC(class_weight = 'balanced', probability = True)
+		self.svc = SVC(class_weight = 'balanced')
 
 	def scale_data(self, train_data):
 		self.scaler = preprocessing.StandardScaler().fit(train_data)
@@ -37,8 +36,7 @@ class SVMTrainer(object):
 			self.train(features[train], labels[train])
 			
 			preds = self.svc.predict(features[test])
-			print('[INFO] Expected: ', labels[test])
-			print('[INFO] Result: ', preds)
+			print('[INFO] ', np.count_nonzero(preds != 0), ' links retrieved by model')
 			
 			succ_pred = np.count_nonzero(preds == labels[test])
 			print('[INFO] Succesfully predicted ', succ_pred, ' links out of ', len(labels[test]))
@@ -55,7 +53,8 @@ class SVMTrainer(object):
 			preds = self.svc.predict(features[test])
 			precision = precision_score(labels[test], preds, pos_label = 1, average = 'binary')
 			if self.debug:
-				print('[INFO] Precision: ', precision)
+				print('[INFO] ', np.count_nonzero(preds != 0), ' links retrieved by model')
+				print(classification_report(labels[test], preds, target_names = ['class 0', 'class 1']))
 			result.append(precision)
 		return result
 
@@ -80,7 +79,9 @@ class SVMTrainer(object):
 				else:
 					feature.append(features[x])
 			preds.extend(self.predict_from_proba(self.svc.predict_proba(feature), proba_tol))
-			#print(classification_report(labels[test], preds, target_names = ['class 0', 'class 1']))
+			if self.debug:
+				print('[INFO] ', np.count_nonzero(preds != 0), ' links retrieved by model')
+				print(classification_report(labels[test], preds, target_names = ['class 0', 'class 1']))
 			result.append(precision_score(labels[test], preds, pos_label = 1, average = 'binary'))
 		return result
 
@@ -96,11 +97,33 @@ class SVMTrainer(object):
 			result[idx] = 1
 		return result
 
-def main():
-	my_trainer = SVMTrainer(-1, debug = True)
-	my_trainer.validate('corpus_scores\\v2_5_raw_inv.txt')
-	#my_trainer.validate_proba('corpus_scores\\v2_5_raw_inv.txt', 0.8)
-	#my_trainer.predict('corpus_scores\\10_opt_raw.txt')
+	def tune_parameters(self, file):
+		data = dr(file).read_data(precision = self.precision)
+		features = data[:, 2:-1]
+		labels = data[:, -1].astype(int)
+		
+		fT, ft, lT, lt = train_test_split(features, labels, test_size = 0.5, random_state = 0)
+		parameters = [{'C': [1, 10, 100, 1000], 'gamma': [1e-3, 1e-4], 'kernel': ['linear', 'poly', 'rbf'], 'shrinking': [True, False]}]
+		
+		clf = GridSearchCV(SVC(class_weight = 'balanced'), parameters, cv = 5, scoring = 'precision')
+		clf.fit(fT, lT)
+		print("-----\nBest parameters set found on development set:\n-----")
+		print(clf.best_params_)
+		print(classification_report(lt, clf.predict(ft)))
+
+def main(argv):
+	my_trainer = SVMTrainer(-1, debug = False)
+	try:
+		opts, args = getopt.getopt(argv,"d")
+	except getopt.GetoptError:
+		sys.exit(2)
+	for opt, arg in opts:
+		if opt == '-d':
+			my_trainer = SVMTrainer(-1, debug = True)
+
+	#print(my_trainer.validate('corpus_scores\\v2_5_raw_inv.txt'))
+	my_trainer.tune_parameters('corpus_scores\\v2_5_raw_inv.txt')
+	#print(my_trainer.validate_proba('corpus_scores\\v2_5_raw_inv.txt', 0.8))
 
 if __name__ == "__main__":
-	main()
+   main(sys.argv[1:])

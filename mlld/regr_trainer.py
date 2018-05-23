@@ -31,8 +31,7 @@ class Regression(object):
 			self.train(features[train], labels[train])
 			
 			preds = self.regr.predict(features[test])
-			print('[INFO] Expected: ', labels[test])
-			print('[INFO] Result: ', preds)
+			print('[INFO] ', np.count_nonzero(preds != 0), ' links retrieved by model')
 			
 			succ_pred = np.count_nonzero(preds == labels[test])
 			print('[INFO] Succesfully predicted ', succ_pred, ' links out of ', len(labels[test]))
@@ -49,6 +48,7 @@ class Regression(object):
 			preds = self.regr.predict(features[test])
 			precision = precision_score(labels[test], preds, pos_label = 1, average = 'binary')
 			if self.debug:
+				print('[INFO] ', np.count_nonzero(preds != 0), ' links retrieved by model')
 				print(classification_report(labels[test], preds, target_names = ['class 0', 'class 1']))
 			result.append(precision)
 		return result
@@ -72,6 +72,7 @@ class Regression(object):
 					feature.append(features[x])
 			preds.extend(self.predict_from_proba(self.regr.predict_proba(feature), proba_tol))
 			if self.debug:
+				print('[INFO] ', np.count_nonzero(preds != 0), ' links retrieved by model')
 				print(classification_report(labels[test], preds, target_names = ['class 0', 'class 1']))
 			result.append(precision_score(labels[test], preds, pos_label = 1, average = 'binary'))
 		return result
@@ -98,7 +99,7 @@ def main(argv):
 		if opt == '-d':
 			my_trainer = Regression(-1, debug = True)
 
-	#print(my_trainer.validate('corpus_scores\\v2_5_raw.txt'))
+	#print(my_trainer.validate('corpus_scores\\v2_5_raw_inv.txt'))
 	print(my_trainer.validate_proba('corpus_scores\\v2_5_raw_inv.txt', 0.872))
 
 if __name__ == "__main__":

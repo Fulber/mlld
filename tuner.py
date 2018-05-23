@@ -9,18 +9,18 @@ class Tuner(object):
 	def __init__(self, algorithm, proba_tol, precision):
 		self.proba_tol = proba_tol
 		if algorithm == 'regr':
-			self.alg = Regression(precision, debug = True)
+			self.alg = Regression(precision, debug = False)
 		elif algorithm == 'rfc':
-			self.alg = RandomForest(precision, debug = True)
+			self.alg = RandomForest(precision, debug = False)
 		elif algorithm == 'ada':
-			self.alg = AdaBoost(precision, debug = True)
+			self.alg = AdaBoost(precision, debug = False)
 
 	def average(self, arr):
 		return sum(arr) / float(len(arr))
 
 	def tune_proba(self, step):
 		avg = [0]
-		while self.proba_tol < 0.9:
+		while self.proba_tol < 0.6:
 			res = self.alg.validate_proba('corpus_scores\\v2_5_raw_inv.txt', self.proba_tol)
 			if (self.average(res) > self.average(avg)):
 				avg = res
