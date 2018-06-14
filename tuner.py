@@ -1,3 +1,4 @@
+from mlld.svm_trainer import SVMTrainer
 from mlld.regr_trainer import Regression
 from mlld.rfc_trainer import RandomForest
 from mlld.ada_boost_trainer import AdaBoost
@@ -8,7 +9,9 @@ class Tuner(object):
 
 	def __init__(self, algorithm, proba_tol, precision):
 		self.proba_tol = proba_tol
-		if algorithm == 'regr':
+		if algorithm == 'svm':
+			self.alg = SVMTrainer(precision, debug = False)
+		elif algorithm == 'regr':
 			self.alg = Regression(precision, debug = False)
 		elif algorithm == 'rfc':
 			self.alg = RandomForest(precision, debug = False)

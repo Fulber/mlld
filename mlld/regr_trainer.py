@@ -74,7 +74,7 @@ class Regression(object):
 			if self.debug:
 				print('[INFO] ', np.count_nonzero(preds != 0), ' links retrieved by model')
 				print(classification_report(labels[test], preds, target_names = ['class 0', 'class 1']))
-			result.append(precision_score(labels[test], preds, pos_label = 1, average = 'binary'))
+			result.append(precision_score(labels[test], preds, pos_label = 1))
 		return result
 
 	def predict_from_proba(self, proba, proba_tol):

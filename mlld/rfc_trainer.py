@@ -1,6 +1,6 @@
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import KFold, train_test_split, GridSearchCV
-from sklearn.metrics import classification_report, precision_score
+from sklearn.metrics import classification_report, precision_score, make_scorer
 from .utils.data_reader import DataReader as dr
 import sys, getopt, numpy as np
 
@@ -98,7 +98,7 @@ class RandomForest(object):
 		fT, ft, lT, lt = train_test_split(features, labels, test_size = 0.5, random_state = 0)
 		parameters = [{'n_estimators': [1, 3, 5, 7, 10, 15, 20], 'max_depth': [5, 10, 20, 25, 30, 50,], 'criterion': ['gini', 'entropy']}]
 		
-		clf = GridSearchCV(RandomForestClassifier(random_state = 0, class_weight = 'balanced'), parameters, cv = 5, scoring = 'precision')
+		clf = GridSearchCV(RandomForestClassifier(random_state = 0, class_weight = 'balanced'), parameters, cv = 2, scoring = make_scorer(precision_score, pos_label = 1))
 		clf.fit(fT, lT)
 		print("-----\nBest parameters set found on development set:\n-----")
 		print(clf.best_params_)
@@ -114,9 +114,9 @@ def main(argv):
 		if opt == '-d':
 			my_trainer = RandomForest(-1, debug = True)
 
-	#my_trainer.tune_parameters('corpus_scores\\v2_5_raw_inv.txt')
+	my_trainer.tune_parameters('corpus_scores\\v2_5_raw_inv.txt')
 	#print(my_trainer.validate('corpus_scores\\v2_5_raw.txt'))
-	print(my_trainer.validate_proba('corpus_scores\\v2_5_raw_inv.txt', 0.47))
+	#print(my_trainer.validate_proba('corpus_scores\\v2_5_raw_inv.txt', 0.47))
 
 if __name__ == "__main__":
    main(sys.argv[1:])

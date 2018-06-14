@@ -1,6 +1,6 @@
 from sklearn.svm import SVC
 from sklearn.model_selection import KFold, train_test_split, GridSearchCV
-from sklearn.metrics import classification_report, precision_score
+from sklearn.metrics import classification_report, precision_score, make_scorer
 from utils.data_reader import DataReader as dr
 import sys, getopt, numpy as np
 
@@ -11,7 +11,7 @@ class SVMTrainer(object):
 		
 		self.precision = decimal_precision
 		self.debug = debug
-		self.svc = SVC(class_weight = 'balanced')
+		self.svc = SVC(class_weight = 'balanced', probability = True)
 
 	def scale_data(self, train_data):
 		self.scaler = preprocessing.StandardScaler().fit(train_data)
@@ -71,9 +71,6 @@ class SVMTrainer(object):
 			feature = [features[test[0]]]
 			for x in test[1:]:
 				if features[x - 1][-2] > features[x][-2]:
-					print(self.svc.predict_proba(feature))
-					print(self.predict_from_proba(self.svc.predict_proba(feature), proba_tol))
-					break;
 					preds.extend(self.predict_from_proba(self.svc.predict_proba(feature), proba_tol))
 					feature = [features[x]]
 				else:
@@ -105,7 +102,7 @@ class SVMTrainer(object):
 		fT, ft, lT, lt = train_test_split(features, labels, test_size = 0.5, random_state = 0)
 		parameters = [{'C': [1, 10, 100, 1000], 'gamma': [1e-3, 1e-4], 'kernel': ['linear', 'poly', 'rbf'], 'shrinking': [True, False]}]
 		
-		clf = GridSearchCV(SVC(class_weight = 'balanced'), parameters, cv = 5, scoring = 'precision')
+		clf = GridSearchCV(SVC(class_weight = 'balanced'), parameters, cv = 5, scoring = make_scorer(precision_score, pos_label = 1))
 		clf.fit(fT, lT)
 		print("-----\nBest parameters set found on development set:\n-----")
 		print(clf.best_params_)
@@ -122,8 +119,8 @@ def main(argv):
 			my_trainer = SVMTrainer(-1, debug = True)
 
 	#print(my_trainer.validate('corpus_scores\\v2_5_raw_inv.txt'))
-	my_trainer.tune_parameters('corpus_scores\\v2_5_raw_inv.txt')
-	#print(my_trainer.validate_proba('corpus_scores\\v2_5_raw_inv.txt', 0.8))
+	#my_trainer.tune_parameters('corpus_scores\\v2_5_raw_inv.txt')
+	print(my_trainer.validate_proba('corpus_scores\\v2_5_raw_inv.txt', 0.0))
 
 if __name__ == "__main__":
    main(sys.argv[1:])
