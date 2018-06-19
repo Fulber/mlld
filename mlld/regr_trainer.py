@@ -1,7 +1,7 @@
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import KFold, train_test_split, GridSearchCV
 from sklearn.metrics import classification_report, precision_score
-from .utils.data_reader import DataReader as dr
+from utils.data_reader import DataReader as dr
 import sys, getopt, numpy as np
 
 class Regression(object):
@@ -100,7 +100,10 @@ def main(argv):
 			my_trainer = Regression(-1, debug = True)
 
 	#print(my_trainer.validate('corpus_scores\\v2_5_raw_inv.txt'))
-	print(my_trainer.validate_proba('corpus_scores\\v2_5_raw_inv.txt', 0.872))
+	print(my_trainer.validate('corpus_scores\\10_opt_raw.txt'))
+	#my_trainer.tune_parameters('corpus_scores\\v2_5_raw_inv.txt')
+	#my_trainer.tune_parameters('corpus_scores\\10_opt_raw.txt')
+	#print(my_trainer.validate_proba('corpus_scores\\v2_5_raw_inv.txt', 0.872))
 
 if __name__ == "__main__":
    main(sys.argv[1:])

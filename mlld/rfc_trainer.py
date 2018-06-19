@@ -1,7 +1,7 @@
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import KFold, train_test_split, GridSearchCV
 from sklearn.metrics import classification_report, precision_score, make_scorer
-from .utils.data_reader import DataReader as dr
+from utils.data_reader import DataReader as dr
 import sys, getopt, numpy as np
 
 class RandomForest(object):
@@ -11,6 +11,7 @@ class RandomForest(object):
 		self.precision = decimal_precision
 		self.debug = debug
 		self.rfc = RandomForestClassifier(n_estimators = 20, max_depth = 20, criterion = 'entropy', random_state = 0, class_weight = 'balanced')
+		#self.rfc = RandomForestClassifier(random_state = 0, n_estimators = 20, criterion = 'entropy', max_depth = 5)#experimental optimised
 
 	def train(self, features, labels):
 		non_zero = np.count_nonzero(labels != 0)
@@ -114,8 +115,10 @@ def main(argv):
 		if opt == '-d':
 			my_trainer = RandomForest(-1, debug = True)
 
-	my_trainer.tune_parameters('corpus_scores\\v2_5_raw_inv.txt')
 	#print(my_trainer.validate('corpus_scores\\v2_5_raw.txt'))
+	print(my_trainer.validate('corpus_scores\\10_opt_raw.txt'))
+	#my_trainer.tune_parameters('corpus_scores\\v2_5_raw_inv.txt')
+	#my_trainer.tune_parameters('corpus_scores\\10_opt_raw.txt')
 	#print(my_trainer.validate_proba('corpus_scores\\v2_5_raw_inv.txt', 0.47))
 
 if __name__ == "__main__":
