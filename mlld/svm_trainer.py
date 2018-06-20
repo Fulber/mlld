@@ -15,7 +15,7 @@ class SVMTrainer(object):
 			self.svc = SVC(C = 100, gamma = 1e-3, kernel = 'rbf', shrinking = True)#experimental optimised
 		elif optimise and !exp:
 			self.svc = SVC(C = 1000, gamma = 1e-3, kernel = 'rbf', shrinking = True)#, probability = True)
-		elif !optimse:
+		elif optimse:
 			self.svc = SVC()
 
 	def scale_data(self, train_data):
@@ -109,7 +109,7 @@ class SVMTrainer(object):
 		
 		clf = GridSearchCV(SVC(), parameters, cv = 3, scoring = make_scorer(precision_score, pos_label = 1))
 		clf.fit(fT, lT)
-		print("-----\nBest parameters set found on development set:\n-----")
+		print("-----\nBest parameters set found for SVM:\n-----")
 		print(clf.best_params_)
 		print(classification_report(lt, clf.predict(ft)))
 

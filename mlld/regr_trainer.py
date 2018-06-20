@@ -1,6 +1,6 @@
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import KFold, train_test_split, GridSearchCV
-from sklearn.metrics import classification_report, precision_score
+from sklearn.metrics import classification_report, precision_score, make_scorer
 from utils.data_reader import DataReader as dr
 import sys, getopt, numpy as np
 
@@ -10,7 +10,9 @@ class Regression(object):
 		np.set_printoptions(threshold = np.inf)
 		self.precision = decimal_precision
 		self.debug = debug
-		self.regr = LogisticRegression(class_weight = 'balanced')
+		#self.regr = LogisticRegression(class_weight = 'balanced')
+		self.regr = LogisticRegression(C = 1, tol = 1e-3)#experimental optimised
+		#self.regr = LogisticRegression(C = 1000, tol = 1e-3, class_weight = 'balanced')#experimental optimised
 
 	def train(self, features, labels):
 		non_zero = np.count_nonzero(labels != 0)
@@ -88,6 +90,20 @@ class Regression(object):
 		if max != 0:
 			result[idx] = 1
 		return result
+
+	def tune_parameters(self, file):
+		data = dr(file).read_data(precision = self.precision)
+		features = data[:, 2:-1]
+		labels = data[:, -1].astype(int)
+		
+		fT, ft, lT, lt = train_test_split(features, labels, test_size = 0.5, random_state = 0)
+		parameters = [{'C': [1, 10, 100, 1000], 'tol': [1e-3, 1e-4, 1e-5]}]
+		
+		clf = GridSearchCV(LogisticRegression(), parameters, cv = 2, scoring = make_scorer(precision_score, pos_label = 1))
+		clf.fit(fT, lT)
+		print("-----\nBest parameters set found for Logistic Regression:\n-----")
+		print(clf.best_params_)
+		print(classification_report(lt, clf.predict(ft)))
 
 def main(argv):
 	my_trainer = Regression(-1, debug = False)
