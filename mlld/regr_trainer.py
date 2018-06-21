@@ -6,14 +6,17 @@ import sys, getopt, numpy as np
 
 class Regression(object):
 
-	def __init__(self, decimal_precision, debug):
+	def __init__(self, decimal_precision, debug, optimise, exp):
 		np.set_printoptions(threshold = np.inf)
 		self.precision = decimal_precision
 		self.debug = debug
-		#self.regr = LogisticRegression(class_weight = 'balanced')
-		self.regr = LogisticRegression(C = 1, tol = 1e-3)#experimental optimised
-		#self.regr = LogisticRegression(C = 1000, tol = 1e-3, class_weight = 'balanced')#experimental optimised
-
+		self.regr = LogisticRegression(class_weight = 'balanced')
+		if optimise:
+			if exp:
+				self.regr = LogisticRegression(C = 1000, tol = 1e-3, class_weight = 'balanced')#experimental optimised
+			else:
+				self.regr = LogisticRegression(class_weight = 'balanced')
+		
 	def train(self, features, labels):
 		non_zero = np.count_nonzero(labels != 0)
 		if self.debug:
@@ -99,27 +102,40 @@ class Regression(object):
 		fT, ft, lT, lt = train_test_split(features, labels, test_size = 0.5, random_state = 0)
 		parameters = [{'C': [1, 10, 100, 1000], 'tol': [1e-3, 1e-4, 1e-5]}]
 		
-		clf = GridSearchCV(LogisticRegression(), parameters, cv = 2, scoring = make_scorer(precision_score, pos_label = 1))
+		clf = GridSearchCV(LogisticRegression(class_weight = 'balanced'), parameters, cv = 2, scoring = make_scorer(precision_score, pos_label = 1))
 		clf.fit(fT, lT)
-		print("-----\nBest parameters set found for Logistic Regression:\n-----")
+		print("-----\nBest parameters set found for Logistic Regression tuning precision:\n-----")
 		print(clf.best_params_)
 		print(classification_report(lt, clf.predict(ft)))
 
 def main(argv):
-	my_trainer = Regression(-1, debug = False)
+	debug, proba, tune, optimise, exp = False, False, False, False, False
+	file = 'corpus_scores\\v2_5_raw_inv.txt'
 	try:
-		opts, args = getopt.getopt(argv,"d")
+		opts, args = getopt.getopt(argv,"dpeto")
 	except getopt.GetoptError:
 		sys.exit(2)
 	for opt, arg in opts:
 		if opt == '-d':
-			my_trainer = Regression(-1, debug = True)
+			debug = True
+		elif opt == '-p':
+			proba = True
+		elif opt == '-e':
+			file = 'corpus_scores\\10_opt_raw.txt'
+			exp = True
+		elif opt == '-t':
+			tune = True
+		elif opt == '-o':
+			optimise = True
 
-	#print(my_trainer.validate('corpus_scores\\v2_5_raw_inv.txt'))
-	print(my_trainer.validate('corpus_scores\\10_opt_raw.txt'))
-	#my_trainer.tune_parameters('corpus_scores\\v2_5_raw_inv.txt')
-	#my_trainer.tune_parameters('corpus_scores\\10_opt_raw.txt')
-	#print(my_trainer.validate_proba('corpus_scores\\v2_5_raw_inv.txt', 0.872))
+	my_trainer = Regression(-1, debug = debug, optimise = optimise, exp = exp)
+	if tune:
+		my_trainer.tune_parameters(file)
+	else:
+		if proba:
+			print(my_trainer.validate_proba(file, 0.872))
+		else:
+			print(my_trainer.validate(file))
 
 if __name__ == "__main__":
    main(sys.argv[1:])

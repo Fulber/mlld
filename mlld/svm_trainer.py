@@ -6,17 +6,16 @@ import sys, getopt, numpy as np
 
 class SVMTrainer(object):
 
-	def __init__(self, decimal_precision, debug, exp, optimise):
+	def __init__(self, decimal_precision, debug, optimise, exp):
 		np.set_printoptions(threshold = np.inf)
 		self.precision = decimal_precision
 		self.debug = debug
-		
-		if optimise and exp:
-			self.svc = SVC(C = 100, gamma = 1e-3, kernel = 'rbf', shrinking = True)#experimental optimised
-		elif optimise and !exp:
-			self.svc = SVC(C = 1000, gamma = 1e-3, kernel = 'rbf', shrinking = True)#, probability = True)
-		elif optimse:
-			self.svc = SVC()
+		self.svc = SVC(class_weight = 'balanced')
+		if optimise:
+			if exp:
+				self.svc = SVC(class_weight = 'balanced', C = 10, gamma = 1e-3, kernel = 'rbf', shrinking = True)#experimental optimised
+			else:
+				self.svc = SVC(class_weight = 'balanced', C = 1000, gamma = 1e-3, kernel = 'rbf', shrinking = True)#, probability = True)
 
 	def scale_data(self, train_data):
 		self.scaler = preprocessing.StandardScaler().fit(train_data)
@@ -107,35 +106,40 @@ class SVMTrainer(object):
 		fT, ft, lT, lt = train_test_split(features, labels, test_size = 0.5, random_state = 0)
 		parameters = [{'C': [1, 10, 100, 1000], 'gamma': [1e-3, 1e-4], 'kernel': ['linear', 'poly', 'rbf'], 'shrinking': [True, False]}]
 		
-		clf = GridSearchCV(SVC(), parameters, cv = 3, scoring = make_scorer(precision_score, pos_label = 1))
+		clf = GridSearchCV(SVC(class_weight = 'balanced'), parameters, cv = 3, scoring = make_scorer(precision_score, pos_label = 1))
 		clf.fit(fT, lT)
-		print("-----\nBest parameters set found for SVM:\n-----")
+		print("-----\nBest parameters set found for SVM tuning for precision:\n-----")
 		print(clf.best_params_)
 		print(classification_report(lt, clf.predict(ft)))
 
 def main(argv):
-	debug, exp, proba, optimise = False, False, False, False
+	debug, proba, tune, optimise, exp = False, False, False, False, False
+	file = 'corpus_scores\\v2_5_raw_inv.txt'
 	try:
-		opts, args = getopt.getopt(argv,"d")
+		opts, args = getopt.getopt(argv,"dpeto")
 	except getopt.GetoptError:
 		sys.exit(2)
 	for opt, arg in opts:
 		if opt == '-d':
 			debug = True
-		elif opt == 'e':
-			exp = True
-		elif opt == 'p':
+		elif opt == '-p':
 			proba = True
-		elif opt == 'o':
+		elif opt == '-e':
+			file = 'corpus_scores\\10_opt_raw.txt'
+			exp = True
+		elif opt == '-t':
+			tune = True
+		elif opt == '-o':
 			optimise = True
-	
-	my_trainer = SVMTrainer(-1, debug = debug, exp = exp, optimise = optimise)
-	
-	#print(my_trainer.validate('corpus_scores\\v2_5_raw_inv.txt'))
-	print(my_trainer.validate('corpus_scores\\10_opt_raw.txt'))
-	#my_trainer.tune_parameters('corpus_scores\\v2_5_raw_inv.txt')
-	#my_trainer.tune_parameters('corpus_scores\\10_opt_raw.txt')
-	#print(my_trainer.validate_proba('corpus_scores\\v2_5_raw_inv.txt', 0.0))
+
+	my_trainer = SVMTrainer(-1, debug = debug, optimise = optimise, exp = exp)
+	if tune:
+		my_trainer.tune_parameters(file)
+	else:
+		if proba:
+			print(my_trainer.validate_proba(file, 0.0))
+		else:
+			print(my_trainer.validate(file))
 
 if __name__ == "__main__":
    main(sys.argv[1:])
