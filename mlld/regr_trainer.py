@@ -126,7 +126,7 @@ class Regression(object):
 
 def main(argv):
 	debug, proba, tune, optimize, exp, final = False, False, False, False, False, False
-	proba_tol = 0.5 #0.7 precision; 0.5 f1_score
+	proba_tol = 0.5 #0.7 precision; 0.5 f1_score; 0.7 final
 	file = 'corpus_scores\\v2_5_raw_inv.txt'
 	try:
 		opts, args = getopt.getopt(argv,"dpetof")

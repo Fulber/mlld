@@ -81,7 +81,7 @@ class RandomForest(object):
 		clf.fit(fT, lT)
 		print("-----\nBest parameters set found for Random Forest Classifier tuning precision:\n-----")
 		print(clf.best_params_)
-		print(classification_report(lt, clf.predict(ft)))
+		print(classification_report(lt, clf.predict(ft), target_names = ['class 0', 'class 1']))
 
 	def kek(self, proba, proba_tol):
 		file, exp_file = 'corpus_scores\\v2_5_raw_inv.txt', 'corpus_scores\\10_opt_raw.txt'
@@ -130,7 +130,7 @@ class RandomForest(object):
 def main(argv):
 	debug, proba, tune, optimize, exp, final = False, False, False, False, False, False
 	file = 'corpus_scores\\v2_5_raw_inv.txt'
-	proba_tol = 0.6 #0.42 precision; 0.5 f1_score; 0.6 final
+	proba_tol = 0.5 #0.42 precision; 0.5 f1_score; 0.6 final
 	try:
 		opts, args = getopt.getopt(argv,"dpetof")
 	except getopt.GetoptError:

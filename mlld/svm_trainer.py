@@ -101,7 +101,7 @@ class SVMTrainer(object):
 def main(argv):
 	debug, proba, tune, optimize, exp = False, False, False, False, False
 	file = 'corpus_scores\\v2_5_raw_inv.txt'
-	proba_tol = 0.28 #0.28 precision; 0.25 f1_score
+	proba_tol = 0.25 #0.28 precision; 0.25 f1_score
 	try:
 		opts, args = getopt.getopt(argv,"dpeto")
 	except getopt.GetoptError:
