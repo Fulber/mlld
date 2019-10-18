@@ -15,7 +15,7 @@ setup(
 		'chardet == 3.0.4',
 		'idna == 2.6',
 		'numpy == 1.14.1',
-		'requests == 2.18.4',
+		'requests == 2.20.0',
 		'scikit-learn == 0.19.1',
 		'scipy == 1.0.0',
 		'urllib3 == 1.22'
