@@ -18,6 +18,6 @@ setup(
 		'requests == 2.18.4',
 		'scikit-learn == 0.19.1',
 		'scipy == 1.0.0',
-		'urllib3 == 1.22'
+		'urllib3 == 1.24.2'
 	],
 )
