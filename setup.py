@@ -14,7 +14,7 @@ setup(
 		'certifi == 2018.1.18',
 		'chardet == 3.0.4',
 		'idna == 2.6',
-		'numpy == 1.14.1',
+		'numpy == 1.22.0',
 		'requests == 2.18.4',
 		'scikit-learn == 0.19.1',
 		'scipy == 1.0.0',
