@@ -11,7 +11,7 @@ setup(
     description='Useful towel-related stuff.',
     long_description=open('README.txt').read(),
     install_requires=[
-		'certifi == 2018.1.18',
+		'certifi == 2022.12.7',
 		'chardet == 3.0.4',
 		'idna == 2.6',
 		'numpy == 1.14.1',
